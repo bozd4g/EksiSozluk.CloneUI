@@ -1,8 +1,316 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:EksiSozluk.CloneUI.Converters;assembly=EksiSozluk.CloneUI"
+             xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
              x:Class="EksiSozluk.CloneUI.App">
-	<Application.Resources>
-    
-	</Application.Resources>
+
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <Style TargetType="NavigationPage">
+                <Setter Property="BarBackgroundColor" Value="White" />
+                <Setter Property="BarTextColor" Value="#78919f" />
+            </Style>
+
+            <!--#region Converters-->
+
+            <converters:BoolConverter x:Key="BoolConverter" />
+            <converters:ToLowerConverter x:Key="ToUpperConverter" />
+
+            <!--#endregion-->
+
+            <!--#region Colors-->
+
+            <Color x:Key="PrimaryColor">#81c14b</Color>
+            <Color x:Key="PrimaryDarkColor">#53a245</Color>
+
+            <Color x:Key="DividerColor">#BCBCBC</Color>
+            <Color x:Key="WindowBackgroundColor">#EEEEEE</Color>
+
+            <Color x:Key="PrimaryTextColor">#333333</Color>
+            <Color x:Key="SecondaryTextColor">#78919f</Color>
+
+            <!--#endregion-->
+
+            <!--#region ContentPage -->
+
+            <Style x:Key="DefaultContentPage"
+                   TargetType="ContentPage">
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource WindowBackgroundColor}" />
+            </Style>
+
+            <!--#endregion -->
+
+            <!--#region Labels-Regular-->
+
+            <Style x:Key="P-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="17" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H1-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="40" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H2-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="30" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H3-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="20" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H4-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="14" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H5-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="12" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+            <Style x:Key="H6-Regular"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="10" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-R.ttf" />
+            </Style>
+
+            <!--#endregion-->
+
+            <!--#region Labels-Semibold-->
+
+            <Style x:Key="H1-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="40" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <Style x:Key="H2-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="30" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <Style x:Key="H3-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="20" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <Style x:Key="H4-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="14" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <Style x:Key="H5-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="12" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <Style x:Key="H6-Semibold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="10" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <!--#endregion-->
+
+            <!--#region Buttons-->
+
+            <Style x:Key="PrimaryButton"
+                   TargetType="custom:RoundedButton">
+                <Setter Property="TextColor"
+                        Value="White" />
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource PrimaryDarkColor}" />
+                <Setter Property="BorderColor"
+                        Value="{StaticResource PrimaryDarkColor}" />
+                <Setter Property="BorderRadius"
+                        Value="25" />
+                <Setter Property="BorderWidth"
+                        Value="1" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-SB.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
+            <Style x:Key="PrimaryWhiteButton"
+                   TargetType="custom:RoundedButton">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryDarkColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="White" />
+                <Setter Property="BorderColor"
+                        Value="White" />
+                <Setter Property="BorderRadius"
+                        Value="25" />
+                <Setter Property="BorderWidth"
+                        Value="1" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-SB.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
+            <Style x:Key="DefaultButton"
+                   TargetType="custom:RoundedButton">
+                <Setter Property="TextColor"
+                        Value="White" />
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource DividerColor}" />
+                <Setter Property="BorderColor"
+                        Value="{StaticResource DividerColor}" />
+                <Setter Property="BorderRadius"
+                        Value="25" />
+                <Setter Property="BorderWidth"
+                        Value="2" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-SB.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
+            <Style x:Key="TransparentButton"
+                   TargetType="custom:RoundedButton">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryDarkColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="Transparent" />
+                <Setter Property="BorderColor"
+                        Value="Transparent" />
+                <Setter Property="BorderRadius"
+                        Value="25" />
+                <Setter Property="BorderWidth"
+                        Value="1" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-R.ttf" />
+                <Setter Property="FontSize"
+                        Value="11.5" />
+            </Style>
+            <Style x:Key="FacebookButton"
+                   TargetType="custom:RoundedButton">
+                <Setter Property="Image"
+                        Value="facebook.png" />
+                <Setter Property="TextColor"
+                        Value="White" />
+                <Setter Property="BackgroundColor"
+                        Value="#3B5998" />
+                <Setter Property="BorderColor"
+                        Value="#3B5998" />
+                <Setter Property="BorderRadius"
+                        Value="25" />
+                <Setter Property="BorderWidth"
+                        Value="1" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-SB.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
+            <!--#endregion-->
+
+            <!--#region Entry -->
+
+            <Style x:Key="DefaultEntry"
+                   TargetType="custom:CustomEntry">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryTextColor}" />
+                <Setter Property="PlaceholderColor"
+                        Value="{StaticResource DividerColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="Transparent" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-R.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+                <Setter Property="Margin"
+                        Value="-2,0,0,0" />
+            </Style>
+
+            <!--#endregion-->
+
+            <!--#region Editor -->
+
+            <Style x:Key="DefaultEditor"
+                   TargetType="custom:CustomEditor">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryTextColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="Transparent" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-R.ttf" />
+                <Setter Property="FontSize"
+                        Value="17" />
+                <Setter Property="Margin"
+                        Value="-2,0,0,0" />
+            </Style>
+
+            <!--#endregion-->
+
+            <!--#region Grid-->
+
+            <Style x:Key="SeparatorGrid"
+                   TargetType="Grid">
+                <Setter Property="HeightRequest"
+                        Value=".7" />
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource DividerColor}" />
+                <Setter Property="HorizontalOptions"
+                        Value="FillAndExpand" />
+                <Setter Property="Opacity"
+                        Value=".5" />
+            </Style>
+
+            <!--#endregion-->
+
+            <!--#region Frame-->
+
+            <Style x:Key="EntryFrame"
+                   TargetType="Frame">
+                <Setter Property="CornerRadius">
+                    <OnPlatform x:TypeArguments="x:Double">
+                        <On Platform="Android" Value="15" />
+                        <On Platform="iOS" Value="15" />
+                    </OnPlatform>
+                </Setter>
+                <Setter Property="BackgroundColor"
+                        Value="White" />
+                <Setter Property="Padding">
+                    <OnPlatform x:TypeArguments="Thickness">
+                        <On Platform="Android" Value="7.5, 5" />
+                        <On Platform="iOS" Value="12.5, 10" />
+                    </OnPlatform>
+                </Setter>
+            </Style>
+
+            <!--#endregion-->
+
+        </ResourceDictionary>
+    </Application.Resources>
 </Application>

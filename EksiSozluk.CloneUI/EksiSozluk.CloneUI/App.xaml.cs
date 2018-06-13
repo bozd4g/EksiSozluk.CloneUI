@@ -1,4 +1,4 @@
-using System;
+using EksiSozluk.CloneUI.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -11,7 +11,7 @@ namespace EksiSozluk.CloneUI
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new NavigationPage(new LoginPage());
 		}
 
 		protected override void OnStart ()
