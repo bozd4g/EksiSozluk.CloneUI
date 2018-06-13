@@ -1,12 +1,13 @@
 # EksiSozluk.CloneUI as Xamarin.Forms
 This repository is Eksi Sozluk's cloned interface is one of the largest dictionary platforms of Turkey. This demo almost includes the all pages. Lacks will `update` soon.
 
-# Demo
+## Demo
 
-# Clone & Download
-`git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk`
+### Clone & Download
+  ``` git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk ```
 
-# The MIT Licence (MIT)
+The MIT Licence (MIT)
+=====================
 
 Copyright © 2018
 
