@@ -5,6 +5,7 @@
              xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
              xmlns:viewModels="clr-namespace:EksiSozluk.CloneUI.ViewModels;assembly=EksiSozluk.CloneUI"
              x:Class="EksiSozluk.CloneUI.Views.LoginPage"
+             x:Name="LoginContentPage"
              BackgroundColor="White">
 
     <ContentPage.BindingContext>
@@ -22,7 +23,7 @@
             <ContentView Grid.Row="0">
                 <StackLayout>
                     <Grid ColumnSpacing="0"
-                          Margin="0,20,0,0">
+                          Margin="0,30,0,0">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width=".5*" />
                             <ColumnDefinition Width="2*" />
@@ -94,8 +95,13 @@
                          BackgroundColor="{StaticResource WindowBackgroundColor}">
                 <StackLayout Orientation="Horizontal"
                              HorizontalOptions="CenterAndExpand">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Command="{Binding Path=BindingContext.SignupCommand,
+                            Source={x:Reference LoginContentPage}}" />
+                    </StackLayout.GestureRecognizers>
                     <custom:CustomLabel Text="hesabın mı yok?"
-                                        TextColor="{StaticResource SecondaryTextColor}"
+                                        TextColor="{StaticResource DividerColor}"
                                         VerticalOptions="Center"
                                         Style="{StaticResource H4-Regular}" />
                     <custom:CustomLabel Text="kayıt ol"

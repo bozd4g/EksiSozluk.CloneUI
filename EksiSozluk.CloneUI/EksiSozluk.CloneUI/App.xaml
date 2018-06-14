@@ -273,6 +273,22 @@
 
             <!--#endregion-->
 
+            <!--#region DatePicker-->
+            <Style x:Key="DefaultDatePicker"
+                   TargetType="custom:CustomDatePicker">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryTextColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="Transparent" />
+                <Setter Property="Margin"
+                        Value="-2,0,0,0" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-R.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
+            <!--#endregion-->
+
             <!--#region Grid-->
 
             <Style x:Key="SeparatorGrid"

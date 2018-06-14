@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using EksiSozluk.CloneUI.Annotations;
 
 namespace EksiSozluk.CloneUI.Extension.Notify
 {

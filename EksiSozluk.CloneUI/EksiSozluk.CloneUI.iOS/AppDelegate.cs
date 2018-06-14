@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using Foundation;
+﻿using Foundation;
+using Plugin.CrossPlatformTintedImage.iOS;
+using Plugin.HtmlLabel.iOS;
 using UIKit;
 
 namespace EksiSozluk.CloneUI.iOS
@@ -22,7 +20,10 @@ namespace EksiSozluk.CloneUI.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            HtmlLabelRenderer.Initialize();
             global::Xamarin.Forms.Forms.Init();
+            TintedImageRenderer.Init();
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

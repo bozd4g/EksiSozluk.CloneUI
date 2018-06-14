@@ -2,6 +2,8 @@
 using Android.Content;
 using Android.Content.PM;
 using Android.OS;
+using Plugin.CrossPlatformTintedImage.Android;
+using Plugin.HtmlLabel.Android;
 
 namespace EksiSozluk.CloneUI.Droid
 {
@@ -18,7 +20,10 @@ namespace EksiSozluk.CloneUI.Droid
 
             base.OnCreate(bundle);
 
+            HtmlLabelRenderer.Initialize();
             global::Xamarin.Forms.Forms.Init(this, bundle);
+            TintedImageRenderer.Init();
+
             LoadApplication(new App());
         }
     }
