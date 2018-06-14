@@ -12,7 +12,7 @@ This repository is Eksi Sozluk's cloned interface is one of the largest dictiona
 git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk
 ```
 
-The MIT Licence (MIT)
+The MIT License (MIT)
 =====================
 
 Copyright © 2018
