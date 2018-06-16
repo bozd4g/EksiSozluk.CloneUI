@@ -62,6 +62,18 @@ namespace EksiSozluk.CloneUI.Custom
             set => SetValue(SelectedTextColorProperty, value);
         }
 
+        public static readonly BindableProperty UnselectedTextColorProperty = BindableProperty.Create(
+            nameof(UnselectedTextColor),
+            typeof(Color),
+            typeof(SegmentedControl),
+            Color.White);
+
+        public Color UnselectedTextColor
+        {
+            get => (Color)GetValue(UnselectedTextColorProperty);
+            set => SetValue(UnselectedTextColorProperty, value);
+        }
+
         public static readonly BindableProperty SelectedSegmentProperty = BindableProperty.Create(
             nameof(SelectedSegment),
             typeof(int),

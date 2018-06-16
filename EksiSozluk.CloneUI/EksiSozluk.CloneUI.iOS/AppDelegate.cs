@@ -1,4 +1,5 @@
-﻿using Foundation;
+﻿using CarouselView.FormsPlugin.iOS;
+using Foundation;
 using Plugin.CrossPlatformTintedImage.iOS;
 using Plugin.HtmlLabel.iOS;
 using UIKit;
@@ -23,6 +24,7 @@ namespace EksiSozluk.CloneUI.iOS
             HtmlLabelRenderer.Initialize();
             global::Xamarin.Forms.Forms.Init();
             TintedImageRenderer.Init();
+            CarouselViewRenderer.Init();
 
             LoadApplication(new App());
 

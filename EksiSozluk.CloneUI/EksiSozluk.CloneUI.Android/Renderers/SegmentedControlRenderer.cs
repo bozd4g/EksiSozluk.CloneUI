@@ -195,7 +195,7 @@ namespace EksiSozluk.CloneUI.Droid.Renderers
 
                 var rb = (RadioButton)rg.GetChildAt(radioId);
 
-                var color = Element.IsEnabled ? Element.TintColor.ToAndroid() : Element.DisabledColor.ToAndroid();
+                var color = Element.IsEnabled ? Element.UnselectedTextColor.ToAndroid() : Element.DisabledColor.ToAndroid();
                 _rb?.SetTextColor(color);
                 rb.SetTextColor(Element.SelectedTextColor.ToAndroid());
                 _rb = rb;

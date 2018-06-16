@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
+             xmlns:viewModels="clr-namespace:EksiSozluk.CloneUI.ViewModels;assembly=EksiSozluk.CloneUI"
+             xmlns:abstractions="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             xmlns:customView="clr-namespace:EksiSozluk.CloneUI.Views.CustomView;assembly=EksiSozluk.CloneUI"
+             xmlns:abstractions1="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
+             x:Class="EksiSozluk.CloneUI.Views.HeadlinesPage"
+             x:Name="HeadlinesContentPage"
+             Icon="Headline.png"
+             BackgroundColor="White">
+
+    <ContentPage.BindingContext>
+        <viewModels:HeadlinesPageViewModel x:Name="ViewModel">
+            <x:Arguments>
+                <Binding Source="{x:Reference HorizontalScrollView}" />
+            </x:Arguments>
+        </viewModels:HeadlinesPageViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <ContentView Grid.Row="0">
+                <custom:HorizontalScrollView x:Name="HorizontalScrollView"
+                                             ItemsSource="{Binding Menu}"
+                                             Orientation="Horizontal"
+                                             HeightRequest="45"
+                                             BackgroundColor="White"
+                                             SelectedCommand="{Binding Path=BindingContext.HeadlineSelectedCommand,
+                                             Source={x:Reference HeadlinesContentPage}}">
+                    <custom:HorizontalScrollView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell x:Name="MenuViewCell">
+                                <Grid Padding="8,0">
+                                    <custom:CustomLabel Text="{Binding Name}"
+                                                        TextColor="{StaticResource SecondaryTextColor}"
+                                                        VerticalOptions="CenterAndExpand"
+                                                        IsVisible="{Binding IsSelected, 
+                                                        Converter={StaticResource BoolConverter}, Mode=OneWay}"
+                                                        Style="{StaticResource H4-Regular}" />
+
+                                    <custom:CustomLabel Text="{Binding Name}"
+                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                        VerticalOptions="CenterAndExpand"
+                                                        IsVisible="{Binding IsSelected, Mode=OneWay}"
+                                                        Style="{StaticResource H4-Bold}" />
+                                    <ContentView IsVisible="{Binding IsSelected}"
+                                                 BackgroundColor="{StaticResource PrimaryColor}"
+                                                 HeightRequest="3"
+                                                 VerticalOptions="End" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </custom:HorizontalScrollView.ItemTemplate>
+                </custom:HorizontalScrollView>
+            </ContentView>
+
+            <ContentView Grid.Row="1">
+                <Grid Style="{StaticResource SeparatorGrid}" />
+            </ContentView>
+
+            <ContentView Grid.Row="2">
+                <Grid>
+                    <abstractions:CarouselViewControl x:Name="CarouselView"
+                                                      Orientation="Horizontal"
+                                                      ItemsSource="{Binding AllData, Mode=OneWay}"
+                                                      InterPageSpacing="10"
+                                                      Position="{Binding CarouselPosition}"
+                                                      VerticalOptions="FillAndExpand"
+                                                      HorizontalOptions="FillAndExpand"
+                                                      PropertyChanged="CarouselView_OnPropertyChanged"
+                                                      IsVisible="{Binding IsLoading,
+                                                      Converter={StaticResource BoolConverter}, Mode=OneWay}">
+                        <abstractions:CarouselViewControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackLayout Spacing="0">
+                                    <ContentView BackgroundColor="{StaticResource WindowBackgroundColor}"
+                                                 Padding="20,7.5"
+                                                 HorizontalOptions="FillAndExpand"
+                                                 IsVisible="{Binding IsFollowSide}">
+                                        <custom:SegmentedControl SelectedSegment="0"
+                                                                 SelectedTextColor="White"
+                                                                 UnselectedTextColor="{StaticResource PrimaryTextColor}"
+                                                                 TextColor="{StaticResource PrimaryTextColor}"
+                                                                 TintColor="{StaticResource PrimaryColor}">
+                                            <custom:SegmentedControl.Children>
+                                                <custom:SegmentedControlOption Text="yazdıkları" />
+                                                <custom:SegmentedControlOption Text="favladıkları" />
+                                            </custom:SegmentedControl.Children>
+
+                                        </custom:SegmentedControl>
+                                    </ContentView>
+
+                                    <ContentView BackgroundColor="{StaticResource WindowBackgroundColor}"
+                                                 Padding="0,5.5"
+                                                 HorizontalOptions="FillAndExpand"
+                                                 IsVisible="{Binding IsTodayInHistorySide}">
+                                        <Frame HorizontalOptions="CenterAndExpand"
+                                               BackgroundColor="White"
+                                               Padding="7.5,0"
+                                               CornerRadius="5">
+                                            <StackLayout Orientation="Horizontal">
+                                                <custom:CustomPicker x:Name="YearsPicker"
+                                                                     ItemsSource="{Binding YearsList}"
+                                                                     FontSize="20"
+                                                                     SelectedIndex="10"
+                                                                     VerticalOptions="Center"
+                                                                     Style="{StaticResource DefaultPicker}" />
+                                                <abstractions1:TintedImage Source="DropDownArrow.png"
+                                                                           TintColor="{StaticResource PrimaryTextColor}"
+                                                                           HeightRequest="10"
+                                                                           WidthRequest="10"
+                                                                           VerticalOptions="Center" />
+                                            </StackLayout>
+                                        </Frame>
+                                    </ContentView>
+
+                                    <ListView ItemsSource="{Binding List}"
+                                              HasUnevenRows="True"
+                                              SeparatorVisibility="None"
+                                              IsPullToRefreshEnabled="True"
+                                              custom:ItemTappedAttached.Command="{Binding Path=BindingContext.ItemSelectedCommand,
+                                              Source={x:Reference HeadlinesContentPage}}"
+                                              IsVisible="{Binding IsLoading,
+                                              Converter={StaticResource BoolConverter}, Mode=OneWay}">
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <ViewCell>
+                                                    <StackLayout Spacing="0">
+                                                        <Grid Padding="10">
+                                                            <Grid.ColumnDefinitions>
+                                                                <ColumnDefinition Width="*" />
+                                                                <ColumnDefinition Width="Auto" />
+                                                            </Grid.ColumnDefinitions>
+
+                                                            <ContentView Grid.Column="0">
+                                                                <custom:CustomLabel
+                                                                    Text="{Binding Title, Converter={StaticResource ToLowerConverter}}"
+                                                                    TextColor="{StaticResource PrimaryTextColor}"
+                                                                    Style="{StaticResource H3-Regular}" />
+                                                            </ContentView>
+                                                            <ContentView Grid.Column="1">
+                                                                <custom:CustomLabel Text="{Binding EntryCount}"
+                                                                                    TextColor="{StaticResource DividerColor}"
+                                                                                    Style="{StaticResource H4-Regular}" />
+                                                            </ContentView>
+                                                        </Grid>
+                                                        <Grid Style="{StaticResource SeparatorGrid}" />
+                                                    </StackLayout>
+                                                </ViewCell>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+                                    </ListView>
+
+                                    <customView:LoadingView IsVisible="{Binding IsLoading, Mode=OneWay}"
+                                                            VerticalOptions="CenterAndExpand"
+                                                            HorizontalOptions="CenterAndExpand" />
+
+                                </StackLayout>
+                            </DataTemplate>
+                        </abstractions:CarouselViewControl.ItemTemplate>
+                    </abstractions:CarouselViewControl>
+
+                </Grid>
+            </ContentView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

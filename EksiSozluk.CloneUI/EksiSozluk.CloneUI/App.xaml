@@ -17,7 +17,7 @@
             <!--#region Converters-->
 
             <converters:BoolConverter x:Key="BoolConverter" />
-            <converters:ToLowerConverter x:Key="ToUpperConverter" />
+            <converters:ToLowerConverter x:Key="ToLowerConverter" />
 
             <!--#endregion-->
 
@@ -70,7 +70,7 @@
             <Style x:Key="H3-Regular"
                    TargetType="custom:CustomLabel">
                 <Setter Property="FontSize"
-                        Value="20" />
+                        Value="16" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-R.ttf" />
             </Style>
@@ -141,6 +141,52 @@
                         Value="10" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+            </Style>
+            <!--#endregion-->
+
+            <!--#region Labels-Bold-->
+
+            <Style x:Key="H1-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="40" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
+            </Style>
+            <Style x:Key="H2-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="30" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
+            </Style>
+            <Style x:Key="H3-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="20" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
+            </Style>
+            <Style x:Key="H4-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="14" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
+            </Style>
+            <Style x:Key="H5-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="12" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
+            </Style>
+            <Style x:Key="H6-Bold"
+                   TargetType="custom:CustomLabel">
+                <Setter Property="FontSize"
+                        Value="10" />
+                <Setter Property="FontName"
+                        Value="SourceSansPro-B.ttf" />
             </Style>
             <!--#endregion-->
 
@@ -271,6 +317,22 @@
                         Value="-2,0,0,0" />
             </Style>
 
+            <!--#endregion-->
+
+            <!--#region Picker-->
+            <Style x:Key="DefaultPicker"
+                   TargetType="custom:CustomPicker">
+                <Setter Property="TextColor"
+                        Value="{StaticResource PrimaryTextColor}" />
+                <Setter Property="BackgroundColor"
+                        Value="Transparent" />
+                <Setter Property="Margin"
+                        Value="-2,0,0,0" />
+                <Setter Property="FontFamily"
+                        Value="fonts/SourceSansPro-R.ttf" />
+                <Setter Property="FontSize"
+                        Value="14" />
+            </Style>
             <!--#endregion-->
 
             <!--#region DatePicker-->

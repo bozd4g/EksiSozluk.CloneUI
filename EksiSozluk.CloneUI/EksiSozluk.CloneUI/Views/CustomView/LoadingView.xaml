@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EksiSozluk.CloneUI.Views.CustomView.LoadingView"
+             x:Name="LoadingContentView"
+             BackgroundColor="White">
+
+    <ContentView.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand"
+                     Spacing="10">
+            <ActivityIndicator
+                IsRunning="{Binding Source={x:Reference LoadingContentView},
+                Path=IsVisible}"
+                Color="{StaticResource PrimaryColor}" />
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

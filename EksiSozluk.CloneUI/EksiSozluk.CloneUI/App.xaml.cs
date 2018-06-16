@@ -11,7 +11,7 @@ namespace EksiSozluk.CloneUI
 		{
 			InitializeComponent();
 
-			MainPage = new NavigationPage(new LoginPage());
+			MainPage = new HomePage();
 		}
 
 		protected override void OnStart ()

@@ -2,6 +2,7 @@
 using Android.Content;
 using Android.Content.PM;
 using Android.OS;
+using CarouselView.FormsPlugin.Android;
 using Plugin.CrossPlatformTintedImage.Android;
 using Plugin.HtmlLabel.Android;
 
@@ -23,6 +24,7 @@ namespace EksiSozluk.CloneUI.Droid
             HtmlLabelRenderer.Initialize();
             global::Xamarin.Forms.Forms.Init(this, bundle);
             TintedImageRenderer.Init();
+            CarouselViewRenderer.Init();
 
             LoadApplication(new App());
         }

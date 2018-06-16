@@ -26,6 +26,3909 @@ namespace EksiSozluk.CloneUI.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::BottomNavigationBar.Resource.Animation.abc_fade_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_fade_in;
+			global::BottomNavigationBar.Resource.Animation.abc_fade_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_fade_out;
+			global::BottomNavigationBar.Resource.Animation.abc_grow_fade_in_from_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::BottomNavigationBar.Resource.Animation.abc_popup_enter = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_popup_enter;
+			global::BottomNavigationBar.Resource.Animation.abc_popup_exit = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_popup_exit;
+			global::BottomNavigationBar.Resource.Animation.abc_shrink_fade_out_from_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::BottomNavigationBar.Resource.Animation.abc_slide_in_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::BottomNavigationBar.Resource.Animation.abc_slide_in_top = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_in_top;
+			global::BottomNavigationBar.Resource.Animation.abc_slide_out_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::BottomNavigationBar.Resource.Animation.abc_slide_out_top = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_out_top;
+			global::BottomNavigationBar.Resource.Animation.design_bottom_sheet_slide_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::BottomNavigationBar.Resource.Animation.design_bottom_sheet_slide_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::BottomNavigationBar.Resource.Animation.design_snackbar_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_snackbar_in;
+			global::BottomNavigationBar.Resource.Animation.design_snackbar_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_snackbar_out;
+			global::BottomNavigationBar.Resource.Attribute.actionBarDivider = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarDivider;
+			global::BottomNavigationBar.Resource.Attribute.actionBarItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarItemBackground;
+			global::BottomNavigationBar.Resource.Attribute.actionBarPopupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::BottomNavigationBar.Resource.Attribute.actionBarSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarSize;
+			global::BottomNavigationBar.Resource.Attribute.actionBarSplitStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionBarTabBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionBarTabStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionBarTabTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionBarTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTheme;
+			global::BottomNavigationBar.Resource.Attribute.actionBarWidgetTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::BottomNavigationBar.Resource.Attribute.actionButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionDropDownStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionDropDownStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionLayout;
+			global::BottomNavigationBar.Resource.Attribute.actionMenuTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.actionMenuTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionMenuTextColor;
+			global::BottomNavigationBar.Resource.Attribute.actionModeBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeBackground;
+			global::BottomNavigationBar.Resource.Attribute.actionModeCloseButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionModeCloseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModeCopyDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModeCutDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModeFindDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModePasteDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModePopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionModeSelectAllDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModeShareDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionModeSplitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::BottomNavigationBar.Resource.Attribute.actionModeStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionModeWebSearchDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::BottomNavigationBar.Resource.Attribute.actionOverflowButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionOverflowMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::BottomNavigationBar.Resource.Attribute.actionProviderClass = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionProviderClass;
+			global::BottomNavigationBar.Resource.Attribute.actionViewClass = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionViewClass;
+			global::BottomNavigationBar.Resource.Attribute.activityChooserViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.alertDialogButtonGroupStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::BottomNavigationBar.Resource.Attribute.alertDialogCenterButtons = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::BottomNavigationBar.Resource.Attribute.alertDialogStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogStyle;
+			global::BottomNavigationBar.Resource.Attribute.alertDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogTheme;
+			global::BottomNavigationBar.Resource.Attribute.allowStacking = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.allowStacking;
+			global::BottomNavigationBar.Resource.Attribute.alpha = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alpha;
+			global::BottomNavigationBar.Resource.Attribute.arrowHeadLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.arrowHeadLength;
+			global::BottomNavigationBar.Resource.Attribute.arrowShaftLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.arrowShaftLength;
+			global::BottomNavigationBar.Resource.Attribute.autoCompleteTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.background = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.background;
+			global::BottomNavigationBar.Resource.Attribute.backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundSplit;
+			global::BottomNavigationBar.Resource.Attribute.backgroundStacked = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundStacked;
+			global::BottomNavigationBar.Resource.Attribute.backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundTint;
+			global::BottomNavigationBar.Resource.Attribute.backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundTintMode;
+			global::BottomNavigationBar.Resource.Attribute.barLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.barLength;
+			global::BottomNavigationBar.Resource.Attribute.behavior_autoHide = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_autoHide;
+			global::BottomNavigationBar.Resource.Attribute.behavior_hideable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_hideable;
+			global::BottomNavigationBar.Resource.Attribute.behavior_overlapTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_overlapTop;
+			global::BottomNavigationBar.Resource.Attribute.behavior_peekHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_peekHeight;
+			global::BottomNavigationBar.Resource.Attribute.behavior_skipCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::BottomNavigationBar.Resource.Attribute.borderWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.borderWidth;
+			global::BottomNavigationBar.Resource.Attribute.borderlessButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.bottomSheetDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::BottomNavigationBar.Resource.Attribute.bottomSheetStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.bottomSheetStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonBarButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonBarNegativeButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonBarNeutralButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonBarPositiveButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonGravity;
+			global::BottomNavigationBar.Resource.Attribute.buttonPanelSideLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::BottomNavigationBar.Resource.Attribute.buttonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonStyle;
+			global::BottomNavigationBar.Resource.Attribute.buttonStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonStyleSmall;
+			global::BottomNavigationBar.Resource.Attribute.buttonTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonTint;
+			global::BottomNavigationBar.Resource.Attribute.buttonTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonTintMode;
+			global::BottomNavigationBar.Resource.Attribute.checkboxStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.checkboxStyle;
+			global::BottomNavigationBar.Resource.Attribute.checkedTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.closeIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.closeIcon;
+			global::BottomNavigationBar.Resource.Attribute.closeItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.closeItemLayout;
+			global::BottomNavigationBar.Resource.Attribute.collapseContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapseContentDescription;
+			global::BottomNavigationBar.Resource.Attribute.collapseIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapseIcon;
+			global::BottomNavigationBar.Resource.Attribute.collapsedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::BottomNavigationBar.Resource.Attribute.collapsedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.color = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.color;
+			global::BottomNavigationBar.Resource.Attribute.colorAccent = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorAccent;
+			global::BottomNavigationBar.Resource.Attribute.colorBackgroundFloating = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::BottomNavigationBar.Resource.Attribute.colorButtonNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorButtonNormal;
+			global::BottomNavigationBar.Resource.Attribute.colorControlActivated = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlActivated;
+			global::BottomNavigationBar.Resource.Attribute.colorControlHighlight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlHighlight;
+			global::BottomNavigationBar.Resource.Attribute.colorControlNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlNormal;
+			global::BottomNavigationBar.Resource.Attribute.colorPrimary = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorPrimary;
+			global::BottomNavigationBar.Resource.Attribute.colorPrimaryDark = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorPrimaryDark;
+			global::BottomNavigationBar.Resource.Attribute.colorSwitchThumbNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::BottomNavigationBar.Resource.Attribute.commitIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.commitIcon;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetEnd;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetLeft;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetRight;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetStart;
+			global::BottomNavigationBar.Resource.Attribute.contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::BottomNavigationBar.Resource.Attribute.contentScrim = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentScrim;
+			global::BottomNavigationBar.Resource.Attribute.controlBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.controlBackground;
+			global::BottomNavigationBar.Resource.Attribute.counterEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterEnabled;
+			global::BottomNavigationBar.Resource.Attribute.counterMaxLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterMaxLength;
+			global::BottomNavigationBar.Resource.Attribute.counterOverflowTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.counterTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.customNavigationLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.customNavigationLayout;
+			global::BottomNavigationBar.Resource.Attribute.defaultQueryHint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.defaultQueryHint;
+			global::BottomNavigationBar.Resource.Attribute.dialogPreferredPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::BottomNavigationBar.Resource.Attribute.dialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dialogTheme;
+			global::BottomNavigationBar.Resource.Attribute.displayOptions = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.displayOptions;
+			global::BottomNavigationBar.Resource.Attribute.divider = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.divider;
+			global::BottomNavigationBar.Resource.Attribute.dividerHorizontal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerHorizontal;
+			global::BottomNavigationBar.Resource.Attribute.dividerPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerPadding;
+			global::BottomNavigationBar.Resource.Attribute.dividerVertical = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerVertical;
+			global::BottomNavigationBar.Resource.Attribute.drawableSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.drawableSize;
+			global::BottomNavigationBar.Resource.Attribute.drawerArrowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.drawerArrowStyle;
+			global::BottomNavigationBar.Resource.Attribute.dropDownListViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.dropdownListPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::BottomNavigationBar.Resource.Attribute.editTextBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextBackground;
+			global::BottomNavigationBar.Resource.Attribute.editTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextColor;
+			global::BottomNavigationBar.Resource.Attribute.editTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextStyle;
+			global::BottomNavigationBar.Resource.Attribute.elevation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.elevation;
+			global::BottomNavigationBar.Resource.Attribute.errorEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.errorEnabled;
+			global::BottomNavigationBar.Resource.Attribute.errorTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.errorTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.expandActivityOverflowButtonDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::BottomNavigationBar.Resource.Attribute.expanded = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expanded;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleGravity;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMargin;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::BottomNavigationBar.Resource.Attribute.expandedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.fabSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.fabSize;
+			global::BottomNavigationBar.Resource.Attribute.foregroundInsidePadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::BottomNavigationBar.Resource.Attribute.gapBetweenBars = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.gapBetweenBars;
+			global::BottomNavigationBar.Resource.Attribute.goIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.goIcon;
+			global::BottomNavigationBar.Resource.Attribute.headerLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.headerLayout;
+			global::BottomNavigationBar.Resource.Attribute.height = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.height;
+			global::BottomNavigationBar.Resource.Attribute.hideOnContentScroll = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hideOnContentScroll;
+			global::BottomNavigationBar.Resource.Attribute.hintAnimationEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::BottomNavigationBar.Resource.Attribute.hintEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintEnabled;
+			global::BottomNavigationBar.Resource.Attribute.hintTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::BottomNavigationBar.Resource.Attribute.homeLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.homeLayout;
+			global::BottomNavigationBar.Resource.Attribute.icon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.icon;
+			global::BottomNavigationBar.Resource.Attribute.iconifiedByDefault = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.iconifiedByDefault;
+			global::BottomNavigationBar.Resource.Attribute.imageButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.imageButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.indeterminateProgressStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::BottomNavigationBar.Resource.Attribute.initialActivityCount = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.initialActivityCount;
+			global::BottomNavigationBar.Resource.Attribute.insetForeground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.insetForeground;
+			global::BottomNavigationBar.Resource.Attribute.isLightTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.isLightTheme;
+			global::BottomNavigationBar.Resource.Attribute.itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemBackground;
+			global::BottomNavigationBar.Resource.Attribute.itemIconTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemIconTint;
+			global::BottomNavigationBar.Resource.Attribute.itemPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemPadding;
+			global::BottomNavigationBar.Resource.Attribute.itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.itemTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemTextColor;
+			global::BottomNavigationBar.Resource.Attribute.keylines = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.keylines;
+			global::BottomNavigationBar.Resource.Attribute.layout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout;
+			global::BottomNavigationBar.Resource.Attribute.layoutManager = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layoutManager;
+			global::BottomNavigationBar.Resource.Attribute.layout_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_anchor;
+			global::BottomNavigationBar.Resource.Attribute.layout_anchorGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_anchorGravity;
+			global::BottomNavigationBar.Resource.Attribute.layout_behavior = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_behavior;
+			global::BottomNavigationBar.Resource.Attribute.layout_collapseMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_collapseMode;
+			global::BottomNavigationBar.Resource.Attribute.layout_collapseParallaxMultiplier = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::BottomNavigationBar.Resource.Attribute.layout_dodgeInsetEdges = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::BottomNavigationBar.Resource.Attribute.layout_insetEdge = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_insetEdge;
+			global::BottomNavigationBar.Resource.Attribute.layout_keyline = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_keyline;
+			global::BottomNavigationBar.Resource.Attribute.layout_scrollFlags = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_scrollFlags;
+			global::BottomNavigationBar.Resource.Attribute.layout_scrollInterpolator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::BottomNavigationBar.Resource.Attribute.listChoiceBackgroundIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::BottomNavigationBar.Resource.Attribute.listDividerAlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::BottomNavigationBar.Resource.Attribute.listItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listItemLayout;
+			global::BottomNavigationBar.Resource.Attribute.listLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listLayout;
+			global::BottomNavigationBar.Resource.Attribute.listMenuViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listMenuViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.listPopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeightLarge = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::BottomNavigationBar.Resource.Attribute.listPreferredItemHeightSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::BottomNavigationBar.Resource.Attribute.listPreferredItemPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::BottomNavigationBar.Resource.Attribute.listPreferredItemPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::BottomNavigationBar.Resource.Attribute.logo = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.logo;
+			global::BottomNavigationBar.Resource.Attribute.logoDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.logoDescription;
+			global::BottomNavigationBar.Resource.Attribute.maxActionInlineWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::BottomNavigationBar.Resource.Attribute.maxButtonHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.maxButtonHeight;
+			global::BottomNavigationBar.Resource.Attribute.measureWithLargestChild = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.measureWithLargestChild;
+			global::BottomNavigationBar.Resource.Attribute.menu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.menu;
+			global::BottomNavigationBar.Resource.Attribute.multiChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::BottomNavigationBar.Resource.Attribute.navigationContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationContentDescription;
+			global::BottomNavigationBar.Resource.Attribute.navigationIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationIcon;
+			global::BottomNavigationBar.Resource.Attribute.navigationMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationMode;
+			global::BottomNavigationBar.Resource.Attribute.overlapAnchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.overlapAnchor;
+			global::BottomNavigationBar.Resource.Attribute.paddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingEnd;
+			global::BottomNavigationBar.Resource.Attribute.paddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingStart;
+			global::BottomNavigationBar.Resource.Attribute.panelBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelBackground;
+			global::BottomNavigationBar.Resource.Attribute.panelMenuListTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelMenuListTheme;
+			global::BottomNavigationBar.Resource.Attribute.panelMenuListWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelMenuListWidth;
+			global::BottomNavigationBar.Resource.Attribute.passwordToggleContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::BottomNavigationBar.Resource.Attribute.passwordToggleDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::BottomNavigationBar.Resource.Attribute.passwordToggleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::BottomNavigationBar.Resource.Attribute.passwordToggleTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleTint;
+			global::BottomNavigationBar.Resource.Attribute.passwordToggleTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::BottomNavigationBar.Resource.Attribute.popupMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupMenuStyle;
+			global::BottomNavigationBar.Resource.Attribute.popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupTheme;
+			global::BottomNavigationBar.Resource.Attribute.popupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupWindowStyle;
+			global::BottomNavigationBar.Resource.Attribute.preserveIconSpacing = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.preserveIconSpacing;
+			global::BottomNavigationBar.Resource.Attribute.pressedTranslationZ = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.pressedTranslationZ;
+			global::BottomNavigationBar.Resource.Attribute.progressBarPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.progressBarPadding;
+			global::BottomNavigationBar.Resource.Attribute.progressBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.progressBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.queryBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.queryBackground;
+			global::BottomNavigationBar.Resource.Attribute.queryHint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.queryHint;
+			global::BottomNavigationBar.Resource.Attribute.radioButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.radioButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.ratingBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.ratingBarStyleIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::BottomNavigationBar.Resource.Attribute.ratingBarStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::BottomNavigationBar.Resource.Attribute.reverseLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.reverseLayout;
+			global::BottomNavigationBar.Resource.Attribute.rippleColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.rippleColor;
+			global::BottomNavigationBar.Resource.Attribute.scrimAnimationDuration = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::BottomNavigationBar.Resource.Attribute.scrimVisibleHeightTrigger = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::BottomNavigationBar.Resource.Attribute.searchHintIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchHintIcon;
+			global::BottomNavigationBar.Resource.Attribute.searchIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchIcon;
+			global::BottomNavigationBar.Resource.Attribute.searchViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchViewStyle;
+			global::BottomNavigationBar.Resource.Attribute.seekBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.seekBarStyle;
+			global::BottomNavigationBar.Resource.Attribute.selectableItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.selectableItemBackground;
+			global::BottomNavigationBar.Resource.Attribute.selectableItemBackgroundBorderless = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::BottomNavigationBar.Resource.Attribute.showAsAction = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showAsAction;
+			global::BottomNavigationBar.Resource.Attribute.showDividers = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showDividers;
+			global::BottomNavigationBar.Resource.Attribute.showText = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showText;
+			global::BottomNavigationBar.Resource.Attribute.singleChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::BottomNavigationBar.Resource.Attribute.spanCount = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spanCount;
+			global::BottomNavigationBar.Resource.Attribute.spinBars = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinBars;
+			global::BottomNavigationBar.Resource.Attribute.spinnerDropDownItemStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::BottomNavigationBar.Resource.Attribute.spinnerStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinnerStyle;
+			global::BottomNavigationBar.Resource.Attribute.splitTrack = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.splitTrack;
+			global::BottomNavigationBar.Resource.Attribute.srcCompat = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.srcCompat;
+			global::BottomNavigationBar.Resource.Attribute.stackFromEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.stackFromEnd;
+			global::BottomNavigationBar.Resource.Attribute.state_above_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_above_anchor;
+			global::BottomNavigationBar.Resource.Attribute.state_collapsed = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_collapsed;
+			global::BottomNavigationBar.Resource.Attribute.state_collapsible = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_collapsible;
+			global::BottomNavigationBar.Resource.Attribute.statusBarBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.statusBarBackground;
+			global::BottomNavigationBar.Resource.Attribute.statusBarScrim = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.statusBarScrim;
+			global::BottomNavigationBar.Resource.Attribute.subMenuArrow = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subMenuArrow;
+			global::BottomNavigationBar.Resource.Attribute.submitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.submitBackground;
+			global::BottomNavigationBar.Resource.Attribute.subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitle;
+			global::BottomNavigationBar.Resource.Attribute.subtitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.subtitleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextColor;
+			global::BottomNavigationBar.Resource.Attribute.subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextStyle;
+			global::BottomNavigationBar.Resource.Attribute.suggestionRowLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.suggestionRowLayout;
+			global::BottomNavigationBar.Resource.Attribute.switchMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchMinWidth;
+			global::BottomNavigationBar.Resource.Attribute.switchPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchPadding;
+			global::BottomNavigationBar.Resource.Attribute.switchStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchStyle;
+			global::BottomNavigationBar.Resource.Attribute.switchTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.tabBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabBackground;
+			global::BottomNavigationBar.Resource.Attribute.tabContentStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabContentStart;
+			global::BottomNavigationBar.Resource.Attribute.tabGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabGravity;
+			global::BottomNavigationBar.Resource.Attribute.tabIndicatorColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabIndicatorColor;
+			global::BottomNavigationBar.Resource.Attribute.tabIndicatorHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::BottomNavigationBar.Resource.Attribute.tabMaxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMaxWidth;
+			global::BottomNavigationBar.Resource.Attribute.tabMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMinWidth;
+			global::BottomNavigationBar.Resource.Attribute.tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMode;
+			global::BottomNavigationBar.Resource.Attribute.tabPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPadding;
+			global::BottomNavigationBar.Resource.Attribute.tabPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingBottom;
+			global::BottomNavigationBar.Resource.Attribute.tabPaddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingEnd;
+			global::BottomNavigationBar.Resource.Attribute.tabPaddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingStart;
+			global::BottomNavigationBar.Resource.Attribute.tabPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingTop;
+			global::BottomNavigationBar.Resource.Attribute.tabSelectedTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::BottomNavigationBar.Resource.Attribute.tabTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.tabTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabTextColor;
+			global::BottomNavigationBar.Resource.Attribute.textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAllCaps;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceLargePopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceListItem = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceListItem;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceListItemSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::BottomNavigationBar.Resource.Attribute.textAppearancePopupMenuHeader = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceSearchResultSubtitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceSearchResultTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::BottomNavigationBar.Resource.Attribute.textAppearanceSmallPopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::BottomNavigationBar.Resource.Attribute.textColorAlertDialogListItem = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::BottomNavigationBar.Resource.Attribute.textColorError = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorError;
+			global::BottomNavigationBar.Resource.Attribute.textColorSearchUrl = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorSearchUrl;
+			global::BottomNavigationBar.Resource.Attribute.theme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.theme;
+			global::BottomNavigationBar.Resource.Attribute.thickness = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thickness;
+			global::BottomNavigationBar.Resource.Attribute.thumbTextPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTextPadding;
+			global::BottomNavigationBar.Resource.Attribute.thumbTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTint;
+			global::BottomNavigationBar.Resource.Attribute.thumbTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTintMode;
+			global::BottomNavigationBar.Resource.Attribute.tickMark = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMark;
+			global::BottomNavigationBar.Resource.Attribute.tickMarkTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMarkTint;
+			global::BottomNavigationBar.Resource.Attribute.tickMarkTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMarkTintMode;
+			global::BottomNavigationBar.Resource.Attribute.title = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.title;
+			global::BottomNavigationBar.Resource.Attribute.titleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleEnabled;
+			global::BottomNavigationBar.Resource.Attribute.titleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMargin;
+			global::BottomNavigationBar.Resource.Attribute.titleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginBottom;
+			global::BottomNavigationBar.Resource.Attribute.titleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginEnd;
+			global::BottomNavigationBar.Resource.Attribute.titleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginStart;
+			global::BottomNavigationBar.Resource.Attribute.titleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginTop;
+			global::BottomNavigationBar.Resource.Attribute.titleMargins = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMargins;
+			global::BottomNavigationBar.Resource.Attribute.titleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextAppearance;
+			global::BottomNavigationBar.Resource.Attribute.titleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextColor;
+			global::BottomNavigationBar.Resource.Attribute.titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextStyle;
+			global::BottomNavigationBar.Resource.Attribute.toolbarId = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarId;
+			global::BottomNavigationBar.Resource.Attribute.toolbarNavigationButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::BottomNavigationBar.Resource.Attribute.toolbarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarStyle;
+			global::BottomNavigationBar.Resource.Attribute.track = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.track;
+			global::BottomNavigationBar.Resource.Attribute.trackTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.trackTint;
+			global::BottomNavigationBar.Resource.Attribute.trackTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.trackTintMode;
+			global::BottomNavigationBar.Resource.Attribute.useCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.useCompatPadding;
+			global::BottomNavigationBar.Resource.Attribute.voiceIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.voiceIcon;
+			global::BottomNavigationBar.Resource.Attribute.windowActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionBar;
+			global::BottomNavigationBar.Resource.Attribute.windowActionBarOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::BottomNavigationBar.Resource.Attribute.windowActionModeOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::BottomNavigationBar.Resource.Attribute.windowFixedHeightMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::BottomNavigationBar.Resource.Attribute.windowFixedHeightMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::BottomNavigationBar.Resource.Attribute.windowFixedWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::BottomNavigationBar.Resource.Attribute.windowFixedWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::BottomNavigationBar.Resource.Attribute.windowMinWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::BottomNavigationBar.Resource.Attribute.windowMinWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::BottomNavigationBar.Resource.Attribute.windowNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowNoTitle;
+			global::BottomNavigationBar.Resource.Boolean.abc_action_bar_embed_tabs = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::BottomNavigationBar.Resource.Boolean.abc_allow_stacked_button_bar = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::BottomNavigationBar.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::BottomNavigationBar.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::BottomNavigationBar.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::BottomNavigationBar.Resource.Boolean.bb_bottom_bar_is_tablet_mode = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.bb_bottom_bar_is_tablet_mode;
+			global::BottomNavigationBar.Resource.Color.abc_background_cache_hint_selector_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::BottomNavigationBar.Resource.Color.abc_background_cache_hint_selector_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::BottomNavigationBar.Resource.Color.abc_btn_colored_borderless_text_material = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::BottomNavigationBar.Resource.Color.abc_color_highlight_material = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_color_highlight_material;
+			global::BottomNavigationBar.Resource.Color.abc_input_method_navigation_guard = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::BottomNavigationBar.Resource.Color.abc_primary_text_disable_only_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::BottomNavigationBar.Resource.Color.abc_primary_text_disable_only_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::BottomNavigationBar.Resource.Color.abc_primary_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::BottomNavigationBar.Resource.Color.abc_primary_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_material_light;
+			global::BottomNavigationBar.Resource.Color.abc_search_url_text = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text;
+			global::BottomNavigationBar.Resource.Color.abc_search_url_text_normal = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_normal;
+			global::BottomNavigationBar.Resource.Color.abc_search_url_text_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::BottomNavigationBar.Resource.Color.abc_search_url_text_selected = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_selected;
+			global::BottomNavigationBar.Resource.Color.abc_secondary_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::BottomNavigationBar.Resource.Color.abc_secondary_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::BottomNavigationBar.Resource.Color.abc_tint_btn_checkable = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::BottomNavigationBar.Resource.Color.abc_tint_default = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_default;
+			global::BottomNavigationBar.Resource.Color.abc_tint_edittext = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_edittext;
+			global::BottomNavigationBar.Resource.Color.abc_tint_seek_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::BottomNavigationBar.Resource.Color.abc_tint_spinner = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_spinner;
+			global::BottomNavigationBar.Resource.Color.abc_tint_switch_track = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_switch_track;
+			global::BottomNavigationBar.Resource.Color.accent_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.accent_material_dark;
+			global::BottomNavigationBar.Resource.Color.accent_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.accent_material_light;
+			global::BottomNavigationBar.Resource.Color.background_floating_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_floating_material_dark;
+			global::BottomNavigationBar.Resource.Color.background_floating_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_floating_material_light;
+			global::BottomNavigationBar.Resource.Color.background_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_material_dark;
+			global::BottomNavigationBar.Resource.Color.background_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_material_light;
+			global::BottomNavigationBar.Resource.Color.bb_darkBackgroundColor = global::EksiSozluk.CloneUI.Droid.Resource.Color.bb_darkBackgroundColor;
+			global::BottomNavigationBar.Resource.Color.bb_darkInActiveBottomBarItemColor = global::EksiSozluk.CloneUI.Droid.Resource.Color.bb_darkInActiveBottomBarItemColor;
+			global::BottomNavigationBar.Resource.Color.bb_inActiveBottomBarItemColor = global::EksiSozluk.CloneUI.Droid.Resource.Color.bb_inActiveBottomBarItemColor;
+			global::BottomNavigationBar.Resource.Color.bb_tabletRightBorderDark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bb_tabletRightBorderDark;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_inverse_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_inverse_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_material_dark;
+			global::BottomNavigationBar.Resource.Color.bright_foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_material_light;
+			global::BottomNavigationBar.Resource.Color.button_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.button_material_dark;
+			global::BottomNavigationBar.Resource.Color.button_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.button_material_light;
+			global::BottomNavigationBar.Resource.Color.design_error = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_error;
+			global::BottomNavigationBar.Resource.Color.design_fab_shadow_end_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_shadow_mid_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_shadow_start_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_stroke_end_inner_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_stroke_end_outer_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_stroke_top_inner_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::BottomNavigationBar.Resource.Color.design_fab_stroke_top_outer_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::BottomNavigationBar.Resource.Color.design_snackbar_background_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_snackbar_background_color;
+			global::BottomNavigationBar.Resource.Color.design_tint_password_toggle = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_tint_password_toggle;
+			global::BottomNavigationBar.Resource.Color.dim_foreground_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::BottomNavigationBar.Resource.Color.dim_foreground_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::BottomNavigationBar.Resource.Color.dim_foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_material_dark;
+			global::BottomNavigationBar.Resource.Color.dim_foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_material_light;
+			global::BottomNavigationBar.Resource.Color.foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.foreground_material_dark;
+			global::BottomNavigationBar.Resource.Color.foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.foreground_material_light;
+			global::BottomNavigationBar.Resource.Color.highlighted_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.highlighted_text_material_dark;
+			global::BottomNavigationBar.Resource.Color.highlighted_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.highlighted_text_material_light;
+			global::BottomNavigationBar.Resource.Color.material_blue_grey_800 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_800;
+			global::BottomNavigationBar.Resource.Color.material_blue_grey_900 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_900;
+			global::BottomNavigationBar.Resource.Color.material_blue_grey_950 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_950;
+			global::BottomNavigationBar.Resource.Color.material_deep_teal_200 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_deep_teal_200;
+			global::BottomNavigationBar.Resource.Color.material_deep_teal_500 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_deep_teal_500;
+			global::BottomNavigationBar.Resource.Color.material_grey_100 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_100;
+			global::BottomNavigationBar.Resource.Color.material_grey_300 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_300;
+			global::BottomNavigationBar.Resource.Color.material_grey_50 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_50;
+			global::BottomNavigationBar.Resource.Color.material_grey_600 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_600;
+			global::BottomNavigationBar.Resource.Color.material_grey_800 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_800;
+			global::BottomNavigationBar.Resource.Color.material_grey_850 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_850;
+			global::BottomNavigationBar.Resource.Color.material_grey_900 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_900;
+			global::BottomNavigationBar.Resource.Color.primary_dark_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_dark_material_dark;
+			global::BottomNavigationBar.Resource.Color.primary_dark_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_dark_material_light;
+			global::BottomNavigationBar.Resource.Color.primary_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_material_dark;
+			global::BottomNavigationBar.Resource.Color.primary_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_material_light;
+			global::BottomNavigationBar.Resource.Color.primary_text_default_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_default_material_dark;
+			global::BottomNavigationBar.Resource.Color.primary_text_default_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_default_material_light;
+			global::BottomNavigationBar.Resource.Color.primary_text_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::BottomNavigationBar.Resource.Color.primary_text_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::BottomNavigationBar.Resource.Color.ripple_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.ripple_material_dark;
+			global::BottomNavigationBar.Resource.Color.ripple_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.ripple_material_light;
+			global::BottomNavigationBar.Resource.Color.secondary_text_default_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::BottomNavigationBar.Resource.Color.secondary_text_default_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_default_material_light;
+			global::BottomNavigationBar.Resource.Color.secondary_text_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::BottomNavigationBar.Resource.Color.secondary_text_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_material_dark;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_material_light;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_normal_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::BottomNavigationBar.Resource.Color.switch_thumb_normal_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_content_inset_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_padding_end_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_default_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_elevation_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_progress_bar_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_stacked_max_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_width_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_action_button_min_width_overflow_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_alert_dialog_button_bar_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::BottomNavigationBar.Resource.Dimension.abc_button_inset_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_button_inset_vertical_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_button_padding_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_button_padding_vertical_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::BottomNavigationBar.Resource.Dimension.abc_config_prefDialogWidth = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::BottomNavigationBar.Resource.Dimension.abc_control_corner_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_corner_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_control_inset_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_inset_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_control_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_padding_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_height_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_height_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_width_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_fixed_width_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_min_width_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_min_width_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_dialog_padding_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_disabled_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::BottomNavigationBar.Resource.Dimension.abc_disabled_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_icon_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_text_padding_left = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::BottomNavigationBar.Resource.Dimension.abc_dropdownitem_text_padding_right = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_bottom_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_edit_text_inset_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_floating_window_z = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_floating_window_z;
+			global::BottomNavigationBar.Resource.Dimension.abc_list_item_padding_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_panel_menu_list_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::BottomNavigationBar.Resource.Dimension.abc_progress_bar_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_search_view_preferred_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::BottomNavigationBar.Resource.Dimension.abc_search_view_preferred_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::BottomNavigationBar.Resource.Dimension.abc_seekbar_track_background_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_seekbar_track_progress_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_select_dialog_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_switch_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_switch_padding;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_body_1_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_body_2_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_button_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_caption_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_1_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_2_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_3_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_display_4_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_headline_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_large_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_medium_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_menu_header_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_menu_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_small_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_subhead_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_title_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::BottomNavigationBar.Resource.Dimension.abc_text_size_title_material_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::BottomNavigationBar.Resource.Dimension.activity_horizontal_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.activity_horizontal_margin;
+			global::BottomNavigationBar.Resource.Dimension.activity_vertical_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.activity_vertical_margin;
+			global::BottomNavigationBar.Resource.Dimension.bb_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.bb_height;
+			global::BottomNavigationBar.Resource.Dimension.bottom_bar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.bottom_bar_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_appbar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_appbar_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_active_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_item_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_navigation_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_sheet_modal_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_bottom_sheet_peek_height_min = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_border_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_border_width;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_image_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_image_size;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_size_mini = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_size_mini;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_size_normal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_size_normal;
+			global::BottomNavigationBar.Resource.Dimension.design_fab_translation_z_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_icon_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_icon_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_padding_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::BottomNavigationBar.Resource.Dimension.design_navigation_separator_vertical_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_action_inline_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_background_corner_radius = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_min_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::BottomNavigationBar.Resource.Dimension.design_snackbar_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::BottomNavigationBar.Resource.Dimension.design_tab_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_max_width;
+			global::BottomNavigationBar.Resource.Dimension.design_tab_scrollable_min_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::BottomNavigationBar.Resource.Dimension.design_tab_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_text_size;
+			global::BottomNavigationBar.Resource.Dimension.design_tab_text_size_2line = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::BottomNavigationBar.Resource.Dimension.disabled_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::BottomNavigationBar.Resource.Dimension.disabled_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_colored = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::BottomNavigationBar.Resource.Dimension.highlight_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::BottomNavigationBar.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::BottomNavigationBar.Resource.Dimension.notification_large_icon_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_large_icon_height;
+			global::BottomNavigationBar.Resource.Dimension.notification_large_icon_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_large_icon_width;
+			global::BottomNavigationBar.Resource.Dimension.notification_subtext_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_subtext_size;
+			global::BottomNavigationBar.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_action_bar_item_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_borderless_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_colored_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_default_mtrl_shape = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::BottomNavigationBar.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_internal_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_control_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_control_background_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_dialog_material_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::BottomNavigationBar.Resource.Drawable.abc_edit_text_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_edit_text_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_ab_back_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_clear_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_go_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_overflow_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_16dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_36dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_black_48dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_16dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_36dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_star_half_black_48dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::BottomNavigationBar.Resource.Drawable.abc_ic_voice_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_item_background_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_item_background_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_divider_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_focused_holo = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_longpressed_holo = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_pressed_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_pressed_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_disabled_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_list_selector_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::BottomNavigationBar.Resource.Drawable.abc_popup_background_mtrl_mult = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_indicator_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_ratingbar_small_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_thumb_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_tick_mark_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_seekbar_track_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_spinner_textfield_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_switch_thumb_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_switch_track_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_tab_indicator_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_cursor_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::BottomNavigationBar.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::BottomNavigationBar.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::BottomNavigationBar.Resource.Drawable.abc_textfield_search_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::BottomNavigationBar.Resource.Drawable.abc_vector_test = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_vector_test;
+			global::BottomNavigationBar.Resource.Drawable.bb_bottom_bar_top_shadow = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.bb_bottom_bar_top_shadow;
+			global::BottomNavigationBar.Resource.Drawable.design_fab_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_fab_background;
+			global::BottomNavigationBar.Resource.Drawable.design_ic_visibility = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_ic_visibility;
+			global::BottomNavigationBar.Resource.Drawable.design_snackbar_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_snackbar_background;
+			global::BottomNavigationBar.Resource.Drawable.navigation_empty_icon = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.navigation_empty_icon;
+			global::BottomNavigationBar.Resource.Drawable.notification_template_icon_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::BottomNavigationBar.Resource.Id.action0 = global::EksiSozluk.CloneUI.Droid.Resource.Id.action0;
+			global::BottomNavigationBar.Resource.Id.action_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar;
+			global::BottomNavigationBar.Resource.Id.action_bar_activity_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_activity_content;
+			global::BottomNavigationBar.Resource.Id.action_bar_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_container;
+			global::BottomNavigationBar.Resource.Id.action_bar_root = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_root;
+			global::BottomNavigationBar.Resource.Id.action_bar_spinner = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_spinner;
+			global::BottomNavigationBar.Resource.Id.action_bar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_subtitle;
+			global::BottomNavigationBar.Resource.Id.action_bar_title = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_title;
+			global::BottomNavigationBar.Resource.Id.action_context_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_context_bar;
+			global::BottomNavigationBar.Resource.Id.action_divider = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_divider;
+			global::BottomNavigationBar.Resource.Id.action_menu_divider = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_menu_divider;
+			global::BottomNavigationBar.Resource.Id.action_menu_presenter = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_menu_presenter;
+			global::BottomNavigationBar.Resource.Id.action_mode_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_bar;
+			global::BottomNavigationBar.Resource.Id.action_mode_bar_stub = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_bar_stub;
+			global::BottomNavigationBar.Resource.Id.action_mode_close_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_close_button;
+			global::BottomNavigationBar.Resource.Id.activity_chooser_view_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.activity_chooser_view_content;
+			global::BottomNavigationBar.Resource.Id.add = global::EksiSozluk.CloneUI.Droid.Resource.Id.add;
+			global::BottomNavigationBar.Resource.Id.alertTitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.alertTitle;
+			global::BottomNavigationBar.Resource.Id.all = global::EksiSozluk.CloneUI.Droid.Resource.Id.all;
+			global::BottomNavigationBar.Resource.Id.always = global::EksiSozluk.CloneUI.Droid.Resource.Id.always;
+			global::BottomNavigationBar.Resource.Id.auto = global::EksiSozluk.CloneUI.Droid.Resource.Id.auto;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_background_overlay = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_background_overlay;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_background_view = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_background_view;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_icon;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_item_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_item_container;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_outer_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_outer_container;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_shadow = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_shadow;
+			global::BottomNavigationBar.Resource.Id.bb_bottom_bar_title = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_bottom_bar_title;
+			global::BottomNavigationBar.Resource.Id.bb_tablet_right_border = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_tablet_right_border;
+			global::BottomNavigationBar.Resource.Id.bb_user_content_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.bb_user_content_container;
+			global::BottomNavigationBar.Resource.Id.beginning = global::EksiSozluk.CloneUI.Droid.Resource.Id.beginning;
+			global::BottomNavigationBar.Resource.Id.bottom = global::EksiSozluk.CloneUI.Droid.Resource.Id.bottom;
+			global::BottomNavigationBar.Resource.Id.buttonPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.buttonPanel;
+			global::BottomNavigationBar.Resource.Id.cancel_action = global::EksiSozluk.CloneUI.Droid.Resource.Id.cancel_action;
+			global::BottomNavigationBar.Resource.Id.center = global::EksiSozluk.CloneUI.Droid.Resource.Id.center;
+			global::BottomNavigationBar.Resource.Id.center_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.center_horizontal;
+			global::BottomNavigationBar.Resource.Id.center_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.center_vertical;
+			global::BottomNavigationBar.Resource.Id.checkbox = global::EksiSozluk.CloneUI.Droid.Resource.Id.checkbox;
+			global::BottomNavigationBar.Resource.Id.chronometer = global::EksiSozluk.CloneUI.Droid.Resource.Id.chronometer;
+			global::BottomNavigationBar.Resource.Id.clip_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.clip_horizontal;
+			global::BottomNavigationBar.Resource.Id.clip_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.clip_vertical;
+			global::BottomNavigationBar.Resource.Id.collapseActionView = global::EksiSozluk.CloneUI.Droid.Resource.Id.collapseActionView;
+			global::BottomNavigationBar.Resource.Id.contentPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.contentPanel;
+			global::BottomNavigationBar.Resource.Id.custom = global::EksiSozluk.CloneUI.Droid.Resource.Id.custom;
+			global::BottomNavigationBar.Resource.Id.customPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.customPanel;
+			global::BottomNavigationBar.Resource.Id.decor_content_parent = global::EksiSozluk.CloneUI.Droid.Resource.Id.decor_content_parent;
+			global::BottomNavigationBar.Resource.Id.default_activity_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.default_activity_button;
+			global::BottomNavigationBar.Resource.Id.design_bottom_sheet = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_bottom_sheet;
+			global::BottomNavigationBar.Resource.Id.design_menu_item_action_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_action_area;
+			global::BottomNavigationBar.Resource.Id.design_menu_item_action_area_stub = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::BottomNavigationBar.Resource.Id.design_menu_item_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_text;
+			global::BottomNavigationBar.Resource.Id.design_navigation_view = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_navigation_view;
+			global::BottomNavigationBar.Resource.Id.disableHome = global::EksiSozluk.CloneUI.Droid.Resource.Id.disableHome;
+			global::BottomNavigationBar.Resource.Id.edit_query = global::EksiSozluk.CloneUI.Droid.Resource.Id.edit_query;
+			global::BottomNavigationBar.Resource.Id.end = global::EksiSozluk.CloneUI.Droid.Resource.Id.end;
+			global::BottomNavigationBar.Resource.Id.end_padder = global::EksiSozluk.CloneUI.Droid.Resource.Id.end_padder;
+			global::BottomNavigationBar.Resource.Id.enterAlways = global::EksiSozluk.CloneUI.Droid.Resource.Id.enterAlways;
+			global::BottomNavigationBar.Resource.Id.enterAlwaysCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::BottomNavigationBar.Resource.Id.exitUntilCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Id.exitUntilCollapsed;
+			global::BottomNavigationBar.Resource.Id.expand_activities_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.expand_activities_button;
+			global::BottomNavigationBar.Resource.Id.expanded_menu = global::EksiSozluk.CloneUI.Droid.Resource.Id.expanded_menu;
+			global::BottomNavigationBar.Resource.Id.fill = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill;
+			global::BottomNavigationBar.Resource.Id.fill_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill_horizontal;
+			global::BottomNavigationBar.Resource.Id.fill_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill_vertical;
+			global::BottomNavigationBar.Resource.Id.@fixed = global::EksiSozluk.CloneUI.Droid.Resource.Id.@fixed;
+			global::BottomNavigationBar.Resource.Id.home = global::EksiSozluk.CloneUI.Droid.Resource.Id.home;
+			global::BottomNavigationBar.Resource.Id.homeAsUp = global::EksiSozluk.CloneUI.Droid.Resource.Id.homeAsUp;
+			global::BottomNavigationBar.Resource.Id.icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.icon;
+			global::BottomNavigationBar.Resource.Id.ifRoom = global::EksiSozluk.CloneUI.Droid.Resource.Id.ifRoom;
+			global::BottomNavigationBar.Resource.Id.image = global::EksiSozluk.CloneUI.Droid.Resource.Id.image;
+			global::BottomNavigationBar.Resource.Id.info = global::EksiSozluk.CloneUI.Droid.Resource.Id.info;
+			global::BottomNavigationBar.Resource.Id.item_touch_helper_previous_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::BottomNavigationBar.Resource.Id.left = global::EksiSozluk.CloneUI.Droid.Resource.Id.left;
+			global::BottomNavigationBar.Resource.Id.line1 = global::EksiSozluk.CloneUI.Droid.Resource.Id.line1;
+			global::BottomNavigationBar.Resource.Id.line3 = global::EksiSozluk.CloneUI.Droid.Resource.Id.line3;
+			global::BottomNavigationBar.Resource.Id.listMode = global::EksiSozluk.CloneUI.Droid.Resource.Id.listMode;
+			global::BottomNavigationBar.Resource.Id.list_item = global::EksiSozluk.CloneUI.Droid.Resource.Id.list_item;
+			global::BottomNavigationBar.Resource.Id.media_actions = global::EksiSozluk.CloneUI.Droid.Resource.Id.media_actions;
+			global::BottomNavigationBar.Resource.Id.middle = global::EksiSozluk.CloneUI.Droid.Resource.Id.middle;
+			global::BottomNavigationBar.Resource.Id.mini = global::EksiSozluk.CloneUI.Droid.Resource.Id.mini;
+			global::BottomNavigationBar.Resource.Id.multiply = global::EksiSozluk.CloneUI.Droid.Resource.Id.multiply;
+			global::BottomNavigationBar.Resource.Id.navigation_header_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.navigation_header_container;
+			global::BottomNavigationBar.Resource.Id.never = global::EksiSozluk.CloneUI.Droid.Resource.Id.never;
+			global::BottomNavigationBar.Resource.Id.none = global::EksiSozluk.CloneUI.Droid.Resource.Id.none;
+			global::BottomNavigationBar.Resource.Id.normal = global::EksiSozluk.CloneUI.Droid.Resource.Id.normal;
+			global::BottomNavigationBar.Resource.Id.parallax = global::EksiSozluk.CloneUI.Droid.Resource.Id.parallax;
+			global::BottomNavigationBar.Resource.Id.parentPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.parentPanel;
+			global::BottomNavigationBar.Resource.Id.pin = global::EksiSozluk.CloneUI.Droid.Resource.Id.pin;
+			global::BottomNavigationBar.Resource.Id.progress_circular = global::EksiSozluk.CloneUI.Droid.Resource.Id.progress_circular;
+			global::BottomNavigationBar.Resource.Id.progress_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.progress_horizontal;
+			global::BottomNavigationBar.Resource.Id.radio = global::EksiSozluk.CloneUI.Droid.Resource.Id.radio;
+			global::BottomNavigationBar.Resource.Id.right = global::EksiSozluk.CloneUI.Droid.Resource.Id.right;
+			global::BottomNavigationBar.Resource.Id.screen = global::EksiSozluk.CloneUI.Droid.Resource.Id.screen;
+			global::BottomNavigationBar.Resource.Id.scroll = global::EksiSozluk.CloneUI.Droid.Resource.Id.scroll;
+			global::BottomNavigationBar.Resource.Id.scrollIndicatorDown = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollIndicatorDown;
+			global::BottomNavigationBar.Resource.Id.scrollIndicatorUp = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollIndicatorUp;
+			global::BottomNavigationBar.Resource.Id.scrollView = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollView;
+			global::BottomNavigationBar.Resource.Id.scrollable = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollable;
+			global::BottomNavigationBar.Resource.Id.search_badge = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_badge;
+			global::BottomNavigationBar.Resource.Id.search_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_bar;
+			global::BottomNavigationBar.Resource.Id.search_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_button;
+			global::BottomNavigationBar.Resource.Id.search_close_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_close_btn;
+			global::BottomNavigationBar.Resource.Id.search_edit_frame = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_edit_frame;
+			global::BottomNavigationBar.Resource.Id.search_go_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_go_btn;
+			global::BottomNavigationBar.Resource.Id.search_mag_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_mag_icon;
+			global::BottomNavigationBar.Resource.Id.search_plate = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_plate;
+			global::BottomNavigationBar.Resource.Id.search_src_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_src_text;
+			global::BottomNavigationBar.Resource.Id.search_voice_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_voice_btn;
+			global::BottomNavigationBar.Resource.Id.select_dialog_listview = global::EksiSozluk.CloneUI.Droid.Resource.Id.select_dialog_listview;
+			global::BottomNavigationBar.Resource.Id.shortcut = global::EksiSozluk.CloneUI.Droid.Resource.Id.shortcut;
+			global::BottomNavigationBar.Resource.Id.showCustom = global::EksiSozluk.CloneUI.Droid.Resource.Id.showCustom;
+			global::BottomNavigationBar.Resource.Id.showHome = global::EksiSozluk.CloneUI.Droid.Resource.Id.showHome;
+			global::BottomNavigationBar.Resource.Id.showTitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.showTitle;
+			global::BottomNavigationBar.Resource.Id.snackbar_action = global::EksiSozluk.CloneUI.Droid.Resource.Id.snackbar_action;
+			global::BottomNavigationBar.Resource.Id.snackbar_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.snackbar_text;
+			global::BottomNavigationBar.Resource.Id.snap = global::EksiSozluk.CloneUI.Droid.Resource.Id.snap;
+			global::BottomNavigationBar.Resource.Id.spacer = global::EksiSozluk.CloneUI.Droid.Resource.Id.spacer;
+			global::BottomNavigationBar.Resource.Id.split_action_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.split_action_bar;
+			global::BottomNavigationBar.Resource.Id.src_atop = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_atop;
+			global::BottomNavigationBar.Resource.Id.src_in = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_in;
+			global::BottomNavigationBar.Resource.Id.src_over = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_over;
+			global::BottomNavigationBar.Resource.Id.start = global::EksiSozluk.CloneUI.Droid.Resource.Id.start;
+			global::BottomNavigationBar.Resource.Id.status_bar_latest_event_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.status_bar_latest_event_content;
+			global::BottomNavigationBar.Resource.Id.submenuarrow = global::EksiSozluk.CloneUI.Droid.Resource.Id.submenuarrow;
+			global::BottomNavigationBar.Resource.Id.submit_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.submit_area;
+			global::BottomNavigationBar.Resource.Id.tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Id.tabMode;
+			global::BottomNavigationBar.Resource.Id.text = global::EksiSozluk.CloneUI.Droid.Resource.Id.text;
+			global::BottomNavigationBar.Resource.Id.text2 = global::EksiSozluk.CloneUI.Droid.Resource.Id.text2;
+			global::BottomNavigationBar.Resource.Id.textSpacerNoButtons = global::EksiSozluk.CloneUI.Droid.Resource.Id.textSpacerNoButtons;
+			global::BottomNavigationBar.Resource.Id.text_input_password_toggle = global::EksiSozluk.CloneUI.Droid.Resource.Id.text_input_password_toggle;
+			global::BottomNavigationBar.Resource.Id.time = global::EksiSozluk.CloneUI.Droid.Resource.Id.time;
+			global::BottomNavigationBar.Resource.Id.title = global::EksiSozluk.CloneUI.Droid.Resource.Id.title;
+			global::BottomNavigationBar.Resource.Id.title_template = global::EksiSozluk.CloneUI.Droid.Resource.Id.title_template;
+			global::BottomNavigationBar.Resource.Id.top = global::EksiSozluk.CloneUI.Droid.Resource.Id.top;
+			global::BottomNavigationBar.Resource.Id.topPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.topPanel;
+			global::BottomNavigationBar.Resource.Id.touch_outside = global::EksiSozluk.CloneUI.Droid.Resource.Id.touch_outside;
+			global::BottomNavigationBar.Resource.Id.up = global::EksiSozluk.CloneUI.Droid.Resource.Id.up;
+			global::BottomNavigationBar.Resource.Id.useLogo = global::EksiSozluk.CloneUI.Droid.Resource.Id.useLogo;
+			global::BottomNavigationBar.Resource.Id.view_offset_helper = global::EksiSozluk.CloneUI.Droid.Resource.Id.view_offset_helper;
+			global::BottomNavigationBar.Resource.Id.withText = global::EksiSozluk.CloneUI.Droid.Resource.Id.withText;
+			global::BottomNavigationBar.Resource.Id.wrap_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.wrap_content;
+			global::BottomNavigationBar.Resource.Integer.abc_config_activityDefaultDur = global::EksiSozluk.CloneUI.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::BottomNavigationBar.Resource.Integer.abc_config_activityShortDur = global::EksiSozluk.CloneUI.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::BottomNavigationBar.Resource.Integer.app_bar_elevation_anim_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::BottomNavigationBar.Resource.Integer.bottom_sheet_slide_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::BottomNavigationBar.Resource.Integer.cancel_button_image_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::BottomNavigationBar.Resource.Integer.design_snackbar_text_max_lines = global::EksiSozluk.CloneUI.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::BottomNavigationBar.Resource.Integer.status_bar_notification_info_maxnum = global::EksiSozluk.CloneUI.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::BottomNavigationBar.Resource.Layout.abc_action_bar_title_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::BottomNavigationBar.Resource.Layout.abc_action_bar_up_container = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::BottomNavigationBar.Resource.Layout.abc_action_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_action_menu_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_menu_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_action_mode_bar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_mode_bar;
+			global::BottomNavigationBar.Resource.Layout.abc_action_mode_close_item_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::BottomNavigationBar.Resource.Layout.abc_activity_chooser_view = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::BottomNavigationBar.Resource.Layout.abc_activity_chooser_view_list_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::BottomNavigationBar.Resource.Layout.abc_alert_dialog_button_bar_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::BottomNavigationBar.Resource.Layout.abc_alert_dialog_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::BottomNavigationBar.Resource.Layout.abc_dialog_title_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_dialog_title_material;
+			global::BottomNavigationBar.Resource.Layout.abc_expanded_menu_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_checkbox = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_list_menu_item_radio = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::BottomNavigationBar.Resource.Layout.abc_popup_menu_header_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_popup_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::BottomNavigationBar.Resource.Layout.abc_screen_content_include = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_content_include;
+			global::BottomNavigationBar.Resource.Layout.abc_screen_simple = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_simple;
+			global::BottomNavigationBar.Resource.Layout.abc_screen_simple_overlay_action_mode = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::BottomNavigationBar.Resource.Layout.abc_screen_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_toolbar;
+			global::BottomNavigationBar.Resource.Layout.abc_search_dropdown_item_icons_2line = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::BottomNavigationBar.Resource.Layout.abc_search_view = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_search_view;
+			global::BottomNavigationBar.Resource.Layout.abc_select_dialog_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_select_dialog_material;
+			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_container = global::EksiSozluk.CloneUI.Droid.Resource.Layout.bb_bottom_bar_item_container;
+			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_container_tablet = global::EksiSozluk.CloneUI.Droid.Resource.Layout.bb_bottom_bar_item_container_tablet;
+			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_fixed = global::EksiSozluk.CloneUI.Droid.Resource.Layout.bb_bottom_bar_item_fixed;
+			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_fixed_tablet = global::EksiSozluk.CloneUI.Droid.Resource.Layout.bb_bottom_bar_item_fixed_tablet;
+			global::BottomNavigationBar.Resource.Layout.bb_bottom_bar_item_shifting = global::EksiSozluk.CloneUI.Droid.Resource.Layout.bb_bottom_bar_item_shifting;
+			global::BottomNavigationBar.Resource.Layout.design_bottom_sheet_dialog = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::BottomNavigationBar.Resource.Layout.design_layout_snackbar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_snackbar;
+			global::BottomNavigationBar.Resource.Layout.design_layout_snackbar_include = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::BottomNavigationBar.Resource.Layout.design_layout_tab_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_tab_icon;
+			global::BottomNavigationBar.Resource.Layout.design_layout_tab_text = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_tab_text;
+			global::BottomNavigationBar.Resource.Layout.design_menu_item_action_area = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_menu_item_action_area;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_item_header = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_header;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_item_separator = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_separator;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_item_subheader = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_menu = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_menu;
+			global::BottomNavigationBar.Resource.Layout.design_navigation_menu_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_menu_item;
+			global::BottomNavigationBar.Resource.Layout.design_text_input_password_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_text_input_password_icon;
+			global::BottomNavigationBar.Resource.Layout.notification_media_action = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_media_action;
+			global::BottomNavigationBar.Resource.Layout.notification_media_cancel_action = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_media_cancel_action;
+			global::BottomNavigationBar.Resource.Layout.notification_template_big_media = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media;
+			global::BottomNavigationBar.Resource.Layout.notification_template_big_media_narrow = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::BottomNavigationBar.Resource.Layout.notification_template_media = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_media;
+			global::BottomNavigationBar.Resource.Layout.notification_template_part_chronometer = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::BottomNavigationBar.Resource.Layout.notification_template_part_time = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_part_time;
+			global::BottomNavigationBar.Resource.Layout.select_dialog_item_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_item_material;
+			global::BottomNavigationBar.Resource.Layout.select_dialog_multichoice_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::BottomNavigationBar.Resource.Layout.select_dialog_singlechoice_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::BottomNavigationBar.Resource.Layout.support_simple_spinner_dropdown_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::BottomNavigationBar.Resource.String.abc_action_bar_home_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_bar_home_description;
+			global::BottomNavigationBar.Resource.String.abc_action_bar_up_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_bar_up_description;
+			global::BottomNavigationBar.Resource.String.abc_action_menu_overflow_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::BottomNavigationBar.Resource.String.abc_action_mode_done = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_mode_done;
+			global::BottomNavigationBar.Resource.String.abc_activity_chooser_view_see_all = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::BottomNavigationBar.Resource.String.abc_activitychooserview_choose_application = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::BottomNavigationBar.Resource.String.abc_capital_off = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_capital_off;
+			global::BottomNavigationBar.Resource.String.abc_capital_on = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_capital_on;
+			global::BottomNavigationBar.Resource.String.abc_font_family_body_1_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_body_1_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_body_2_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_body_2_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_button_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_button_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_caption_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_caption_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_display_1_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_1_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_display_2_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_2_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_display_3_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_3_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_display_4_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_4_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_headline_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_headline_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_menu_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_menu_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_subhead_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_subhead_material;
+			global::BottomNavigationBar.Resource.String.abc_font_family_title_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_title_material;
+			global::BottomNavigationBar.Resource.String.abc_search_hint = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_search_hint;
+			global::BottomNavigationBar.Resource.String.abc_searchview_description_clear = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_clear;
+			global::BottomNavigationBar.Resource.String.abc_searchview_description_query = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_query;
+			global::BottomNavigationBar.Resource.String.abc_searchview_description_search = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_search;
+			global::BottomNavigationBar.Resource.String.abc_searchview_description_submit = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_submit;
+			global::BottomNavigationBar.Resource.String.abc_searchview_description_voice = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_voice;
+			global::BottomNavigationBar.Resource.String.abc_shareactionprovider_share_with = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::BottomNavigationBar.Resource.String.abc_shareactionprovider_share_with_application = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::BottomNavigationBar.Resource.String.abc_toolbar_collapse_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::BottomNavigationBar.Resource.String.app_name = global::EksiSozluk.CloneUI.Droid.Resource.String.app_name;
+			global::BottomNavigationBar.Resource.String.appbar_scrolling_view_behavior = global::EksiSozluk.CloneUI.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::BottomNavigationBar.Resource.String.bottom_sheet_behavior = global::EksiSozluk.CloneUI.Droid.Resource.String.bottom_sheet_behavior;
+			global::BottomNavigationBar.Resource.String.character_counter_pattern = global::EksiSozluk.CloneUI.Droid.Resource.String.character_counter_pattern;
+			global::BottomNavigationBar.Resource.String.search_menu_title = global::EksiSozluk.CloneUI.Droid.Resource.String.search_menu_title;
+			global::BottomNavigationBar.Resource.String.status_bar_notification_info_overflow = global::EksiSozluk.CloneUI.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::BottomNavigationBar.Resource.Style.AlertDialog_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::BottomNavigationBar.Resource.Style.AlertDialog_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Animation_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Animation_AppCompat_DropDownUp = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::BottomNavigationBar.Resource.Style.Animation_Design_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarBadge_Text = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarBadge_Text;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Fixed = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_Fixed;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Fixed_TitleAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_Fixed_TitleAppearance;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Shifting = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_Shifting;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Shifting_TitleAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_Shifting_TitleAppearance;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_Tablet = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_Tablet;
+			global::BottomNavigationBar.Resource.Style.BB_BottomBarItem_TitleStyle = global::EksiSozluk.CloneUI.Droid.Resource.Style.BB_BottomBarItem_TitleStyle;
+			global::BottomNavigationBar.Resource.Style.Base_AlertDialog_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_AlertDialog_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_Animation_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::BottomNavigationBar.Resource.Style.Base_DialogWindowTitle_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BottomNavigationBar.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BottomNavigationBar.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::BottomNavigationBar.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V22_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_V22_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_V23_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_V23_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::BottomNavigationBar.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Button_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ImageButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_Design_AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::BottomNavigationBar.Resource.Style.Base_Widget_Design_TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::BottomNavigationBar.Resource.Style.Platform_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Platform_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::BottomNavigationBar.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Platform_V11_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Platform_V11_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Platform_V14_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Platform_V14_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Platform_Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::BottomNavigationBar.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::BottomNavigationBar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::BottomNavigationBar.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Body1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Body2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Caption = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display3 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Display4 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Headline = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Medium = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Subhead = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Counter = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Counter_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Error = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Hint = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Snackbar_Message = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Design_Tab = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::BottomNavigationBar.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_CompactMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_AppCompat_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_Design = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design;
+			global::BottomNavigationBar.Resource.Style.Theme_Design_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::BottomNavigationBar.Resource.Style.Theme_Design_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light;
+			global::BottomNavigationBar.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::BottomNavigationBar.Resource.Style.Theme_Design_Light_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::BottomNavigationBar.Resource.Style.Theme_Design_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::BottomNavigationBar.Resource.Style.ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Borderless = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Button_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ButtonBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ImageButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ListView_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ProgressBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_RatingBar_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::BottomNavigationBar.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_BottomSheet_Modal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_CollapsingToolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_CoordinatorLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_FloatingActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_NavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_Snackbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::BottomNavigationBar.Resource.Style.Widget_Design_TextInputLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_background;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_backgroundStacked = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_customNavigationLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_displayOptions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_divider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_divider;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_elevation;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_height;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_hideOnContentScroll = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_homeLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_icon;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_itemPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_logo = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_logo;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_navigationMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_progressBarPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_progressBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_title;
+			global::BottomNavigationBar.Resource.Styleable.ActionBar_titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActionBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBarLayout;
+			global::BottomNavigationBar.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::BottomNavigationBar.Resource.Styleable.ActionMenuItemView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuItemView;
+			global::BottomNavigationBar.Resource.Styleable.ActionMenuItemView_android_minWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::BottomNavigationBar.Resource.Styleable.ActionMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuView;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_background;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_closeItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_height;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActionMode_titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView;
+			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::BottomNavigationBar.Resource.Styleable.ActivityChooserView_initialActivityCount = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_listItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_listLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::BottomNavigationBar.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_expanded = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::BottomNavigationBar.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView_android_src = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatImageView_srcCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_android_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMark = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView_android_textAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTextView_textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_checkboxStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorAccent = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlActivated = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorControlNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorPrimary = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_controlBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dividerVertical = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_editTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_searchViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_seekBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_spinnerStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_switchStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_toolbarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::BottomNavigationBar.Resource.Styleable.AppCompatTheme_windowNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::BottomNavigationBar.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::BottomNavigationBar.Resource.Styleable.ButtonBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ButtonBarLayout;
+			global::BottomNavigationBar.Resource.Styleable.ButtonBarLayout_allowStacking = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::BottomNavigationBar.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem;
+			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_android_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::BottomNavigationBar.Resource.Styleable.ColorStateListItem_android_color = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::BottomNavigationBar.Resource.Styleable.CompoundButton = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton;
+			global::BottomNavigationBar.Resource.Styleable.CompoundButton_android_button = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::BottomNavigationBar.Resource.Styleable.CompoundButton_buttonTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::BottomNavigationBar.Resource.Styleable.CompoundButton_buttonTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_keylines = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::BottomNavigationBar.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::BottomNavigationBar.Resource.Styleable.DesignTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme;
+			global::BottomNavigationBar.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::BottomNavigationBar.Resource.Styleable.DesignTheme_bottomSheetStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::BottomNavigationBar.Resource.Styleable.DesignTheme_textColorError = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_barLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_color = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_drawableSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_spinBars = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::BottomNavigationBar.Resource.Styleable.DrawerArrowToggle_thickness = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_borderWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_fabSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_rippleColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_useCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::BottomNavigationBar.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::BottomNavigationBar.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_divider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_showDividers = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::BottomNavigationBar.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow;
+			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::BottomNavigationBar.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_checkableBehavior = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_enabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_menuCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_orderInCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::BottomNavigationBar.Resource.Styleable.MenuGroup_android_visible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionProviderClass = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_actionViewClass = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_checkable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_checked = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_enabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_id;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_menuCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_numericShortcut = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_onClick = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_orderInCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_title;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_titleCondensed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_android_visible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::BottomNavigationBar.Resource.Styleable.MenuItem_showAsAction = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::BottomNavigationBar.Resource.Styleable.MenuView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_headerBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_horizontalDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_verticalDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_android_windowAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_preserveIconSpacing = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::BottomNavigationBar.Resource.Styleable.MenuView_subMenuArrow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_background;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_elevation;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_headerLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemIconTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_itemTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::BottomNavigationBar.Resource.Styleable.NavigationView_menu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_menu;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindow_android_popupBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindow_overlapAnchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindowBackgroundState = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::BottomNavigationBar.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_android_descendantFocusability = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_android_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_layoutManager = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_reverseLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_spanCount = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::BottomNavigationBar.Resource.Styleable.RecyclerView_stackFromEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::BottomNavigationBar.Resource.Styleable.ScrimInsetsFrameLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::BottomNavigationBar.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::BottomNavigationBar.Resource.Styleable.ScrollingViewBehavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::BottomNavigationBar.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::BottomNavigationBar.Resource.Styleable.SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_android_focusable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_android_imeOptions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_android_inputType = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_closeIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_commitIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_defaultQueryHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_goIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_goIcon;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_iconifiedByDefault = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_layout;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_queryBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_queryHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_queryHint;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_searchHintIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_searchIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_submitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_suggestionRowLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::BottomNavigationBar.Resource.Styleable.SearchView_voiceIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout;
+			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::BottomNavigationBar.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::BottomNavigationBar.Resource.Styleable.Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner;
+			global::BottomNavigationBar.Resource.Styleable.Spinner_android_dropDownWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::BottomNavigationBar.Resource.Styleable.Spinner_android_entries = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_entries;
+			global::BottomNavigationBar.Resource.Styleable.Spinner_android_popupBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::BottomNavigationBar.Resource.Styleable.Spinner_android_prompt = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::BottomNavigationBar.Resource.Styleable.Spinner_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_textOff = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_textOn = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_android_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_showText = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_splitTrack = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_switchTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTextPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_thumbTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_track = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_track;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_trackTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::BottomNavigationBar.Resource.Styleable.SwitchCompat_trackTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::BottomNavigationBar.Resource.Styleable.TabItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem;
+			global::BottomNavigationBar.Resource.Styleable.TabItem_android_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_icon;
+			global::BottomNavigationBar.Resource.Styleable.TabItem_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_layout;
+			global::BottomNavigationBar.Resource.Styleable.TabItem_android_text = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_text;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabContentStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabIndicatorColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabIndicatorHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMaxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabSelectedTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TabLayout_tabTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowDx = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowDy = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_shadowRadius = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_textStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_android_typeface = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::BottomNavigationBar.Resource.Styleable.TextAppearance_textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_android_hint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_android_textColorHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterMaxLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_counterTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_errorEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_errorTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_hintTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::BottomNavigationBar.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_android_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_android_minHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_buttonGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_collapseContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_collapseIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_logo = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_logo;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_logoDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_maxButtonHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_navigationContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_navigationIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_subtitleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_title;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleMargins = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::BottomNavigationBar.Resource.Styleable.Toolbar_titleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::BottomNavigationBar.Resource.Styleable.View = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View;
+			global::BottomNavigationBar.Resource.Styleable.View_android_focusable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_android_focusable;
+			global::BottomNavigationBar.Resource.Styleable.View_android_theme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_android_theme;
+			global::BottomNavigationBar.Resource.Styleable.View_paddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_paddingEnd;
+			global::BottomNavigationBar.Resource.Styleable.View_paddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_paddingStart;
+			global::BottomNavigationBar.Resource.Styleable.View_theme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_theme;
+			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::BottomNavigationBar.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat;
+			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_inflatedId = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::BottomNavigationBar.Resource.Styleable.ViewStubCompat_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_fade_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_fade_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_fade_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_fade_out;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_popup_enter = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_popup_enter;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_popup_exit = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_popup_exit;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_slide_in_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_slide_in_top = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_in_top;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_slide_out_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.abc_slide_out_top = global::EksiSozluk.CloneUI.Droid.Resource.Animation.abc_slide_out_top;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.design_bottom_sheet_slide_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.design_bottom_sheet_slide_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.design_snackbar_in = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_snackbar_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Animation.design_snackbar_out = global::EksiSozluk.CloneUI.Droid.Resource.Animation.design_snackbar_out;
+			global::CarouselView.FormsPlugin.Android.Resource.Animator.design_appbar_state_list_animator = global::EksiSozluk.CloneUI.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarDivider = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarDivider;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarItemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarPopupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarSplitStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarTabBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarTabStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarTabTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionBarWidgetTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionDropDownStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionDropDownStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionMenuTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionMenuTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionMenuTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeCloseButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeCloseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeCopyDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeCutDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeFindDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModePasteDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModePopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeSelectAllDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeShareDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeSplitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionModeWebSearchDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionOverflowButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionOverflowMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionProviderClass = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionProviderClass;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.actionViewClass = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionViewClass;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.activityChooserViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.alertDialogCenterButtons = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.alertDialogStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.alertDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alertDialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.allowStacking = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.allowStacking;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.alpha = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.arrowHeadLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.arrowHeadLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.arrowShaftLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.arrowShaftLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.autoCompleteTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.background = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.background;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundSplit;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.backgroundStacked = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundStacked;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.backgroundTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.barLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.barLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.behavior_autoHide = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_autoHide;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.behavior_hideable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_hideable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.behavior_overlapTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_overlapTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.behavior_peekHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_peekHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.behavior_skipCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.borderWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.borderWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.borderlessButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.bottomSheetDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.bottomSheetStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.bottomSheetStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonBarButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonPanelSideLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonStyleSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.buttonTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.buttonTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardBackgroundColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardBackgroundColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardCornerRadius = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardCornerRadius;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardElevation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardElevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardMaxElevation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardMaxElevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardPreventCornerOverlap = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.cardUseCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.checkboxStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.checkboxStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.checkedTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.closeIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.closeIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.closeItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.closeItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.collapseContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapseContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.collapseIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapseIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.collapsedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.collapsedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.color = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.color;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorAccent = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorAccent;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorBackgroundFloating = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorButtonNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorButtonNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorControlActivated = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlActivated;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorControlHighlight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlHighlight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorControlNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorControlNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorPrimary = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorPrimary;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorPrimaryDark = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorPrimaryDark;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.colorSwitchThumbNormal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.commitIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.commitIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentPaddingBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentPaddingLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentPaddingRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentPaddingTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.contentScrim = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.contentScrim;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.controlBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.controlBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.counterEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.counterMaxLength = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterMaxLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.counterOverflowTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.counterTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.counterTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.customNavigationLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.customNavigationLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.defaultQueryHint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.defaultQueryHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dialogPreferredPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.displayOptions = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.displayOptions;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.divider = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dividerHorizontal = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerHorizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dividerPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dividerVertical = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dividerVertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.drawableSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.drawableSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.drawerArrowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.drawerArrowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dropDownListViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.editTextBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.editTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.editTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.editTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.elevation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.errorEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.errorEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.errorTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.errorTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expanded = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expanded;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMargin;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.expandedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.externalRouteEnabledDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.fabSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.fabSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.foregroundInsidePadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.gapBetweenBars = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.gapBetweenBars;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.goIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.goIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.headerLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.headerLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.height = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.height;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.hideOnContentScroll = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hideOnContentScroll;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.hintAnimationEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.hintEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.hintTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.hintTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.homeLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.homeLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.icon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.iconifiedByDefault = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.iconifiedByDefault;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.imageButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.imageButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.indeterminateProgressStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.initialActivityCount = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.initialActivityCount;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.insetForeground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.insetForeground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.isLightTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.isLightTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.itemIconTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemIconTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.itemPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.itemTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.itemTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.keylines = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.keylines;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layoutManager = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layoutManager;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_anchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_anchorGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_anchorGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_behavior = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_behavior;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_collapseMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_collapseMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_dodgeInsetEdges = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_insetEdge = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_insetEdge;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_keyline = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_keyline;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_scrollFlags = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_scrollFlags;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.layout_scrollInterpolator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listDividerAlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listMenuViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listMenuViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeightLarge = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPreferredItemHeightSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.listPreferredItemPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.logo = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.logo;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.logoDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.logoDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.maxActionInlineWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.maxButtonHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.maxButtonHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.measureWithLargestChild = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.measureWithLargestChild;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteCloseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRoutePauseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRoutePlayDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteStopDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.menu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.multiChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.navigationContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.navigationIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.navigationMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.navigationMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.overlapAnchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.overlapAnchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.paddingBottomNoButtons = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.paddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.paddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.paddingTopNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.panelBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.panelMenuListTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelMenuListTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.panelMenuListWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.panelMenuListWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.passwordToggleContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.passwordToggleDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.passwordToggleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.passwordToggleTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.passwordToggleTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.popupMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupMenuStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.popupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.popupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.preserveIconSpacing = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.preserveIconSpacing;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.pressedTranslationZ = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.pressedTranslationZ;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.progressBarPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.progressBarPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.progressBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.progressBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.queryBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.queryBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.queryHint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.queryHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.radioButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.radioButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.ratingBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.ratingBarStyleIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.ratingBarStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.reverseLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.reverseLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.rippleColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.rippleColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.scrimAnimationDuration = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.searchHintIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchHintIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.searchIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.searchViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.searchViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.seekBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.seekBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.selectableItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.selectableItemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.showAsAction = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showAsAction;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.showDividers = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showDividers;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.showText = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showText;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.showTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.showTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.singleChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.spanCount = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spanCount;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.spinBars = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinBars;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.spinnerDropDownItemStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.spinnerStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.spinnerStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.splitTrack = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.splitTrack;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.srcCompat = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.srcCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.stackFromEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.stackFromEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.state_above_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_above_anchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.state_collapsed = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_collapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.state_collapsible = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.state_collapsible;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.statusBarBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.statusBarBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.statusBarScrim = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.statusBarScrim;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.subMenuArrow = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subMenuArrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.submitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.submitBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.subtitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.subtitleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.subtitleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.suggestionRowLayout = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.suggestionRowLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.switchMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchMinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.switchPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.switchStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.switchTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.switchTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabBackground = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabContentStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabContentStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabGravity = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabIndicatorColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabIndicatorColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabIndicatorHeight = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabMaxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMaxWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabPaddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabPaddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabPaddingTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabSelectedTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tabTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tabTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAllCaps;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceListItem = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceListItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceListItemSecondary = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceListItemSmall = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textColorAlertDialogListItem = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textColorError = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorError;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.textColorSearchUrl = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.textColorSearchUrl;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.theme = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.theme;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.thickness = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thickness;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.thumbTextPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTextPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.thumbTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.thumbTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.thumbTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tickMark = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMark;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tickMarkTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMarkTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tickMarkTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tickMarkTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.tintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.tintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.title = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.title;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMargin;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMarginTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleMargins = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleMargins;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.titleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.toolbarId = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarId;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.toolbarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.toolbarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.track = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.track;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.trackTint = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.trackTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.trackTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.trackTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.useCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.useCompatPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.voiceIcon = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.voiceIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiCentered = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiCentered;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiCirclePageIndicatorStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiCirclePageIndicatorStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiFillColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiFillColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiOrientation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiOrientation;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiPageColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiPageColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiRadius = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiRadius;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiSnap = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiSnap;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiStrokeColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiStrokeColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.vpiStrokeWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiStrokeWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionBarOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowActionModeOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowFixedHeightMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowFixedHeightMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowFixedWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowFixedWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowMinWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowMinWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Attribute.windowNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.windowNoTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_centered = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.default_circle_indicator_centered;
+			global::CarouselView.FormsPlugin.Android.Resource.Boolean.default_circle_indicator_snap = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.default_circle_indicator_snap;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_btn_colored_text_material = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_color_highlight_material = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_color_highlight_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_hint_foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_hint_foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_input_method_navigation_guard = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_primary_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_primary_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_primary_text_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_search_url_text = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_search_url_text_normal = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_normal;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_search_url_text_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_search_url_text_selected = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_search_url_text_selected;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_secondary_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_secondary_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_btn_checkable = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_default = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_default;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_edittext = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_edittext;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_seek_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_spinner = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.abc_tint_switch_track = global::EksiSozluk.CloneUI.Droid.Resource.Color.abc_tint_switch_track;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.accent_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.accent_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.accent_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.accent_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.background_floating_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_floating_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.background_floating_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_floating_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.background_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.background_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.background_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_inverse_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_inverse_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.bright_foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.bright_foreground_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.button_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.button_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.button_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.button_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_dark_background = global::EksiSozluk.CloneUI.Droid.Resource.Color.cardview_dark_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_light_background = global::EksiSozluk.CloneUI.Droid.Resource.Color.cardview_light_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_shadow_end_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.cardview_shadow_end_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.cardview_shadow_start_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.cardview_shadow_start_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_fill_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_fill_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_page_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_page_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.default_circle_indicator_stroke_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_stroke_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_bottom_navigation_shadow_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_error = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_error;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_shadow_end_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_shadow_mid_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_shadow_start_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_stroke_end_inner_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_stroke_end_outer_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_stroke_top_inner_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_fab_stroke_top_outer_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_snackbar_background_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_snackbar_background_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.design_tint_password_toggle = global::EksiSozluk.CloneUI.Droid.Resource.Color.design_tint_password_toggle;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.dim_foreground_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.dim_foreground_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.dim_foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.dim_foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.dim_foreground_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.foreground_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.foreground_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.foreground_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.foreground_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.highlighted_text_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.highlighted_text_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.highlighted_text_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.highlighted_text_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_blue_grey_800 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_800;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_blue_grey_900 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_900;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_blue_grey_950 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_blue_grey_950;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_deep_teal_200 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_deep_teal_200;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_deep_teal_500 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_deep_teal_500;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_100 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_100;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_300 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_300;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_50 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_50;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_600 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_600;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_800 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_800;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_850 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_850;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.material_grey_900 = global::EksiSozluk.CloneUI.Droid.Resource.Color.material_grey_900;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.notification_action_color_filter = global::EksiSozluk.CloneUI.Droid.Resource.Color.notification_action_color_filter;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.notification_icon_bg_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.notification_icon_bg_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.notification_material_background_media_default_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_dark_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_dark_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_dark_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_dark_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_text_default_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_default_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_text_default_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_default_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_text_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.primary_text_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.ripple_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.ripple_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.ripple_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.ripple_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.secondary_text_default_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.secondary_text_default_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_default_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.secondary_text_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.secondary_text_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_disabled_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_disabled_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.switch_thumb_normal_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__background_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__background_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__background_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__background_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_elevation_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_width_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_button_inset_vertical_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_button_padding_vertical_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_config_prefDialogWidth = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_control_corner_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_corner_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_control_inset_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_inset_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_control_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_control_padding_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_min_width_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_min_width_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_padding_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_padding_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dialog_title_divider_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_floating_window_z = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_floating_window_z;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_panel_menu_list_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_progress_bar_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_search_view_preferred_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_search_view_preferred_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_switch_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_switch_padding;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_body_1_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_body_2_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_button_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_caption_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_1_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_2_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_3_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_display_4_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_headline_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_large_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_medium_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_menu_header_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_menu_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_small_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_subhead_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_title_material = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_compat_inset_shadow = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_default_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.cardview_default_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.cardview_default_radius = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.cardview_default_radius;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_radius = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.default_circle_indicator_radius;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.default_circle_indicator_stroke_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.default_circle_indicator_stroke_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_appbar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_appbar_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_navigation_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_border_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_border_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_image_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_image_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_size_mini = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_size_mini;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_size_normal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_size_normal;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_fab_translation_z_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_icon_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_icon_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_padding_bottom = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_min_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_snackbar_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_tab_max_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_max_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_tab_scrollable_min_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_tab_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_text_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.design_tab_text_size_2line = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.disabled_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.disabled_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_colored = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.highlight_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.hint_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.hint_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_action_icon_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_action_icon_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_action_text_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_action_text_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_big_circle_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_content_margin_start = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_content_margin_start;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_large_icon_height = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_large_icon_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_large_icon_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_large_icon_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_main_column_padding_top = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_media_narrow_margin = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_right_icon_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_right_icon_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_right_side_padding_top = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_small_icon_background_padding = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_small_icon_size_as_large = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_subtext_size = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_subtext_size;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_top_pad = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_top_pad;
+			global::CarouselView.FormsPlugin.Android.Resource.Dimension.notification_top_pad_large_text = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_action_bar_item_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_borderless_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_check_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_colored_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_cab_background_internal_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_cab_background_top_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_control_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_control_background_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_dialog_material_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_edit_text_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_edit_text_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_ab_back_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_clear_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_go_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_black_16dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_black_36dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_black_48dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_item_background_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_item_background_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_focused_holo = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_longpressed_holo = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_pressed_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_list_selector_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ratingbar_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_ratingbar_small_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_seekbar_thumb_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_seekbar_track_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_switch_thumb_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_tab_indicator_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_cursor_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_textfield_search_material = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.abc_vector_test = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.abc_vector_test;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_hide_password = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_hide_password;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_hide_password_1 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_hide_password_1;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_hide_password_2 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_hide_password_2;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_hide_password_3 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_hide_password_3;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_show_password = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_show_password;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_show_password_1 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_show_password_1;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_show_password_2 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_show_password_2;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.avd_show_password_3 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.avd_show_password_3;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_bottom_navigation_item_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_fab_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_fab_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_ic_visibility = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_ic_visibility;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_ic_visibility_off = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_password_eye = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_password_eye;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.design_snackbar_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.design_snackbar_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.Down = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.Down;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_audiotrack_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_audiotrack_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_dialog_close_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_dialog_close_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_00 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_01 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_02 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_03 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_04 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_05 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_06 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_07 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_08 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_09 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_10 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_11 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_12 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_13 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_14 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_collapse_15 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_00 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_00;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_01 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_01;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_02 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_02;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_03 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_03;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_04 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_04;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_05 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_05;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_06 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_06;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_07 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_07;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_08 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_08;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_09 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_09;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_10 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_10;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_11 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_11;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_12 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_12;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_13 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_13;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_14 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_14;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_group_expand_15 = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_group_expand_15;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_pause_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_pause_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_pause_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_play_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_play_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_play_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_play_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_stop_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_media_stop_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_media_stop_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_00_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_00_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_01_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_01_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_02_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_02_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_03_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_03_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_04_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_04_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_05_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_05_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_06_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_06_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_07_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_07_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_08_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_08_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_09_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_09_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_10_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_10_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_11_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_11_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_12_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_12_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_13_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_13_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_14_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_14_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_15_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_15_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_16_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_16_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_17_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_17_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_18_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_18_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_19_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_19_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_20_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_20_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_21_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_21_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_22_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connected_22_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_00_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_00_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_01_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_01_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_02_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_02_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_03_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_03_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_04_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_04_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_05_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_05_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_06_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_06_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_07_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_07_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_08_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_08_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_09_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_09_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_10_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_10_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_11_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_11_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_12_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_12_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_13_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_13_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_14_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_14_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_15_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_15_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_16_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_16_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_17_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_17_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_18_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_18_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_19_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_19_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_20_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_20_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_21_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_21_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_22_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_connecting_22_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_disabled_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_disabled_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_disconnected_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_disconnected_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_mr_button_grey = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_speaker_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_speaker_group_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_speaker_group_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_speaker_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_tv_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.ic_vol_type_tv_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_connected_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_connected_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_connected_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_connecting_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_connecting_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_button_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_button_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_dialog_close_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_dialog_close_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_dialog_material_background_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_dialog_material_background_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_group_collapse = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_group_collapse;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_group_expand = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_group_expand;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_pause_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_pause_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_pause_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_play_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_play_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_play_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_play_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_stop_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_media_stop_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_media_stop_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_vol_type_audiotrack_dark = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.mr_vol_type_audiotrack_light = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.navigation_empty_icon = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.navigation_empty_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.Next = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.Next;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_action_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_action_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg_low = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg_low;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg_low_normal = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg_low_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg_normal = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg_normal;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_bg_normal_pressed = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_icon_background = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_icon_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_template_icon_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_template_icon_low_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notification_tile_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notification_tile_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.Prev = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.Prev;
+			global::CarouselView.FormsPlugin.Android.Resource.Drawable.Up = global::EksiSozluk.CloneUI.Droid.Resource.Drawable.Up;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action0 = global::EksiSozluk.CloneUI.Droid.Resource.Id.action0;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_activity_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_activity_content;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_root = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_root;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_spinner = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_bar_title = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_bar_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_context_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_context_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_divider = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_image = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_image;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_menu_divider = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_menu_divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_menu_presenter = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_menu_presenter;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_mode_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_mode_bar_stub = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_bar_stub;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_mode_close_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_mode_close_button;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.action_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.action_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.actions = global::EksiSozluk.CloneUI.Droid.Resource.Id.actions;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.activity_chooser_view_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.activity_chooser_view_content;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.add = global::EksiSozluk.CloneUI.Droid.Resource.Id.add;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.alertTitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.alertTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.all = global::EksiSozluk.CloneUI.Droid.Resource.Id.all;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.always = global::EksiSozluk.CloneUI.Droid.Resource.Id.always;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.auto = global::EksiSozluk.CloneUI.Droid.Resource.Id.auto;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.beginning = global::EksiSozluk.CloneUI.Droid.Resource.Id.beginning;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.bottom = global::EksiSozluk.CloneUI.Droid.Resource.Id.bottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.buttonPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.buttonPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.cancel_action = global::EksiSozluk.CloneUI.Droid.Resource.Id.cancel_action;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.center = global::EksiSozluk.CloneUI.Droid.Resource.Id.center;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.center_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.center_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.center_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.center_vertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.checkbox = global::EksiSozluk.CloneUI.Droid.Resource.Id.checkbox;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.chronometer = global::EksiSozluk.CloneUI.Droid.Resource.Id.chronometer;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.clip_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.clip_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.clip_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.clip_vertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.collapseActionView = global::EksiSozluk.CloneUI.Droid.Resource.Id.collapseActionView;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.container = global::EksiSozluk.CloneUI.Droid.Resource.Id.container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.contentPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.contentPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.coordinator = global::EksiSozluk.CloneUI.Droid.Resource.Id.coordinator;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.custom = global::EksiSozluk.CloneUI.Droid.Resource.Id.custom;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.customPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.customPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.decor_content_parent = global::EksiSozluk.CloneUI.Droid.Resource.Id.decor_content_parent;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.default_activity_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.default_activity_button;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.design_bottom_sheet = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_bottom_sheet;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.design_menu_item_action_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_action_area;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.design_menu_item_action_area_stub = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.design_menu_item_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_menu_item_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.design_navigation_view = global::EksiSozluk.CloneUI.Droid.Resource.Id.design_navigation_view;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.disableHome = global::EksiSozluk.CloneUI.Droid.Resource.Id.disableHome;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.edit_query = global::EksiSozluk.CloneUI.Droid.Resource.Id.edit_query;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.end = global::EksiSozluk.CloneUI.Droid.Resource.Id.end;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.end_padder = global::EksiSozluk.CloneUI.Droid.Resource.Id.end_padder;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.enterAlways = global::EksiSozluk.CloneUI.Droid.Resource.Id.enterAlways;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.enterAlwaysCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.exitUntilCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Id.exitUntilCollapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.expand_activities_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.expand_activities_button;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.expanded_menu = global::EksiSozluk.CloneUI.Droid.Resource.Id.expanded_menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.fill = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.fill_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.fill_vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.fill_vertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.@fixed = global::EksiSozluk.CloneUI.Droid.Resource.Id.@fixed;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.home = global::EksiSozluk.CloneUI.Droid.Resource.Id.home;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.homeAsUp = global::EksiSozluk.CloneUI.Droid.Resource.Id.homeAsUp;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.icon_group = global::EksiSozluk.CloneUI.Droid.Resource.Id.icon_group;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.ifRoom = global::EksiSozluk.CloneUI.Droid.Resource.Id.ifRoom;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.image = global::EksiSozluk.CloneUI.Droid.Resource.Id.image;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.indicator = global::EksiSozluk.CloneUI.Droid.Resource.Id.indicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.info = global::EksiSozluk.CloneUI.Droid.Resource.Id.info;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.item_touch_helper_previous_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.largeLabel = global::EksiSozluk.CloneUI.Droid.Resource.Id.largeLabel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.left = global::EksiSozluk.CloneUI.Droid.Resource.Id.left;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.line1 = global::EksiSozluk.CloneUI.Droid.Resource.Id.line1;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.line3 = global::EksiSozluk.CloneUI.Droid.Resource.Id.line3;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.listMode = global::EksiSozluk.CloneUI.Droid.Resource.Id.listMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.list_item = global::EksiSozluk.CloneUI.Droid.Resource.Id.list_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.masked = global::EksiSozluk.CloneUI.Droid.Resource.Id.masked;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.media_actions = global::EksiSozluk.CloneUI.Droid.Resource.Id.media_actions;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.middle = global::EksiSozluk.CloneUI.Droid.Resource.Id.middle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mini = global::EksiSozluk.CloneUI.Droid.Resource.Id.mini;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_art = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_art;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_chooser_list = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_chooser_list;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_chooser_route_desc = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_chooser_route_desc;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_chooser_route_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_chooser_route_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_chooser_route_name = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_chooser_route_name;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_chooser_title = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_chooser_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_close = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_close;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_control_divider = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_control_divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_control_playback_ctrl = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_control_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_control_subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_control_title = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_control_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_control_title_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_control_title_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_custom_control = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_custom_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_default_control = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_default_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_dialog_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_dialog_area;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_expandable_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_expandable_area;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_group_expand_collapse = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_group_expand_collapse;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_media_main_control = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_media_main_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_name = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_name;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_playback_control = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_playback_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_title_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_title_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_volume_control = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_volume_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_volume_group_list = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_volume_group_list;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_volume_item_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_volume_item_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.mr_volume_slider = global::EksiSozluk.CloneUI.Droid.Resource.Id.mr_volume_slider;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.multiply = global::EksiSozluk.CloneUI.Droid.Resource.Id.multiply;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.navigation_header_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.navigation_header_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.never = global::EksiSozluk.CloneUI.Droid.Resource.Id.never;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.next = global::EksiSozluk.CloneUI.Droid.Resource.Id.next;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.nextArrow = global::EksiSozluk.CloneUI.Droid.Resource.Id.nextArrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.none = global::EksiSozluk.CloneUI.Droid.Resource.Id.none;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.normal = global::EksiSozluk.CloneUI.Droid.Resource.Id.normal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_background = global::EksiSozluk.CloneUI.Droid.Resource.Id.notification_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_main_column = global::EksiSozluk.CloneUI.Droid.Resource.Id.notification_main_column;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.notification_main_column_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.notification_main_column_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.pager = global::EksiSozluk.CloneUI.Droid.Resource.Id.pager;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.parallax = global::EksiSozluk.CloneUI.Droid.Resource.Id.parallax;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.parentPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.parentPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.pin = global::EksiSozluk.CloneUI.Droid.Resource.Id.pin;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.prev = global::EksiSozluk.CloneUI.Droid.Resource.Id.prev;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.prevArrow = global::EksiSozluk.CloneUI.Droid.Resource.Id.prevArrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.progress_circular = global::EksiSozluk.CloneUI.Droid.Resource.Id.progress_circular;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.progress_horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.progress_horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.radio = global::EksiSozluk.CloneUI.Droid.Resource.Id.radio;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.right = global::EksiSozluk.CloneUI.Droid.Resource.Id.right;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.right_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.right_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.right_side = global::EksiSozluk.CloneUI.Droid.Resource.Id.right_side;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.screen = global::EksiSozluk.CloneUI.Droid.Resource.Id.screen;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.scroll = global::EksiSozluk.CloneUI.Droid.Resource.Id.scroll;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.scrollIndicatorDown = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollIndicatorDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.scrollIndicatorUp = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollIndicatorUp;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.scrollView = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollView;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.scrollable = global::EksiSozluk.CloneUI.Droid.Resource.Id.scrollable;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_badge = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_badge;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_button = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_button;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_close_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_close_btn;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_edit_frame = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_edit_frame;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_go_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_go_btn;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_mag_icon = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_mag_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_plate = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_plate;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_src_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_src_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.search_voice_btn = global::EksiSozluk.CloneUI.Droid.Resource.Id.search_voice_btn;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.select_dialog_listview = global::EksiSozluk.CloneUI.Droid.Resource.Id.select_dialog_listview;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.shortcut = global::EksiSozluk.CloneUI.Droid.Resource.Id.shortcut;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.showCustom = global::EksiSozluk.CloneUI.Droid.Resource.Id.showCustom;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.showHome = global::EksiSozluk.CloneUI.Droid.Resource.Id.showHome;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.showTitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.showTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.smallLabel = global::EksiSozluk.CloneUI.Droid.Resource.Id.smallLabel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.snackbar_action = global::EksiSozluk.CloneUI.Droid.Resource.Id.snackbar_action;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.snackbar_text = global::EksiSozluk.CloneUI.Droid.Resource.Id.snackbar_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.snap = global::EksiSozluk.CloneUI.Droid.Resource.Id.snap;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.spacer = global::EksiSozluk.CloneUI.Droid.Resource.Id.spacer;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.split_action_bar = global::EksiSozluk.CloneUI.Droid.Resource.Id.split_action_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.src_atop = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_atop;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.src_in = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.src_over = global::EksiSozluk.CloneUI.Droid.Resource.Id.src_over;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.start = global::EksiSozluk.CloneUI.Droid.Resource.Id.start;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.status_bar_latest_event_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.status_bar_latest_event_content;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.submenuarrow = global::EksiSozluk.CloneUI.Droid.Resource.Id.submenuarrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.submit_area = global::EksiSozluk.CloneUI.Droid.Resource.Id.submit_area;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Id.tabMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.text = global::EksiSozluk.CloneUI.Droid.Resource.Id.text;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.text2 = global::EksiSozluk.CloneUI.Droid.Resource.Id.text2;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.textSpacerNoButtons = global::EksiSozluk.CloneUI.Droid.Resource.Id.textSpacerNoButtons;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.textSpacerNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Id.textSpacerNoTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.text_input_password_toggle = global::EksiSozluk.CloneUI.Droid.Resource.Id.text_input_password_toggle;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.textinput_counter = global::EksiSozluk.CloneUI.Droid.Resource.Id.textinput_counter;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.textinput_error = global::EksiSozluk.CloneUI.Droid.Resource.Id.textinput_error;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.time = global::EksiSozluk.CloneUI.Droid.Resource.Id.time;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.title = global::EksiSozluk.CloneUI.Droid.Resource.Id.title;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.titleDividerNoCustom = global::EksiSozluk.CloneUI.Droid.Resource.Id.titleDividerNoCustom;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.title_template = global::EksiSozluk.CloneUI.Droid.Resource.Id.title_template;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.top = global::EksiSozluk.CloneUI.Droid.Resource.Id.top;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.topPanel = global::EksiSozluk.CloneUI.Droid.Resource.Id.topPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.touch_outside = global::EksiSozluk.CloneUI.Droid.Resource.Id.touch_outside;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.transition_current_scene = global::EksiSozluk.CloneUI.Droid.Resource.Id.transition_current_scene;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.transition_scene_layoutid_cache = global::EksiSozluk.CloneUI.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.up = global::EksiSozluk.CloneUI.Droid.Resource.Id.up;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.useLogo = global::EksiSozluk.CloneUI.Droid.Resource.Id.useLogo;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.vertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.view_offset_helper = global::EksiSozluk.CloneUI.Droid.Resource.Id.view_offset_helper;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.visible = global::EksiSozluk.CloneUI.Droid.Resource.Id.visible;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.volume_item_container = global::EksiSozluk.CloneUI.Droid.Resource.Id.volume_item_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.withText = global::EksiSozluk.CloneUI.Droid.Resource.Id.withText;
+			global::CarouselView.FormsPlugin.Android.Resource.Id.wrap_content = global::EksiSozluk.CloneUI.Droid.Resource.Id.wrap_content;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.abc_config_activityDefaultDur = global::EksiSozluk.CloneUI.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.abc_config_activityShortDur = global::EksiSozluk.CloneUI.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.app_bar_elevation_anim_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.bottom_sheet_slide_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.cancel_button_image_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.default_circle_indicator_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Integer.default_circle_indicator_orientation;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.design_snackbar_text_max_lines = global::EksiSozluk.CloneUI.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.hide_password_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.hide_password_duration;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::EksiSozluk.CloneUI.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::EksiSozluk.CloneUI.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::EksiSozluk.CloneUI.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.show_password_duration = global::EksiSozluk.CloneUI.Droid.Resource.Integer.show_password_duration;
+			global::CarouselView.FormsPlugin.Android.Resource.Integer.status_bar_notification_info_maxnum = global::EksiSozluk.CloneUI.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::CarouselView.FormsPlugin.Android.Resource.Interpolator.mr_fast_out_slow_in = global::EksiSozluk.CloneUI.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Interpolator.mr_linear_out_slow_in = global::EksiSozluk.CloneUI.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_bar_title_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_bar_up_container = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_menu_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_menu_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_mode_bar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_mode_bar;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_action_mode_close_item_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_activity_chooser_view = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_alert_dialog_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_alert_dialog_title_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_dialog_title_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_dialog_title_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_expanded_menu_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_checkbox = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_list_menu_item_radio = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_popup_menu_item_layout = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_screen_content_include = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_content_include;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_screen_simple = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_simple;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_screen_toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_screen_toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_search_view = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_search_view;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.abc_select_dialog_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.abc_select_dialog_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_bottom_navigation_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_bottom_sheet_dialog = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_layout_snackbar = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_snackbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_layout_snackbar_include = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_layout_tab_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_tab_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_layout_tab_text = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_layout_tab_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_menu_item_action_area = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_menu_item_action_area;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_item_header = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_header;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_item_separator = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_separator;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_item_subheader = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_menu = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_navigation_menu_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_navigation_menu_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.design_text_input_password_icon = global::EksiSozluk.CloneUI.Droid.Resource.Layout.design_text_input_password_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.horizontal_viewpager = global::EksiSozluk.CloneUI.Droid.Resource.Layout.horizontal_viewpager;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_chooser_dialog = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_chooser_dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_chooser_list_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_chooser_list_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_controller_material_dialog_b = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_controller_volume_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_controller_volume_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_playback_control = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_playback_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.mr_volume_control = global::EksiSozluk.CloneUI.Droid.Resource.Layout.mr_volume_control;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_action = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_action;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_action_tombstone = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_action_tombstone;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_media_action = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_media_action;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_media_cancel_action = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_media_cancel_action;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_big_media = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_big_media_custom = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_big_media_narrow = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_custom_big = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_custom_big;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_icon_group = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_icon_group;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_lines_media = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_lines_media;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_media = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_media;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_media_custom = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_media_custom;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_part_chronometer = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.notification_template_part_time = global::EksiSozluk.CloneUI.Droid.Resource.Layout.notification_template_part_time;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.select_dialog_item_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_item_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.select_dialog_multichoice_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.select_dialog_singlechoice_material = global::EksiSozluk.CloneUI.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::EksiSozluk.CloneUI.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::CarouselView.FormsPlugin.Android.Resource.Layout.vertical_viewpager = global::EksiSozluk.CloneUI.Droid.Resource.Layout.vertical_viewpager;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_bar_home_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_bar_home_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_bar_up_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_bar_up_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_menu_overflow_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_action_mode_done = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_action_mode_done;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_activity_chooser_view_see_all = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_activitychooserview_choose_application = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_capital_off = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_capital_off;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_capital_on = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_capital_on;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_body_1_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_body_1_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_body_2_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_body_2_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_button_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_button_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_caption_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_caption_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_display_1_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_1_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_display_2_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_2_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_display_3_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_3_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_display_4_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_display_4_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_headline_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_headline_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_menu_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_menu_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_subhead_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_subhead_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_font_family_title_material = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_font_family_title_material;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_search_hint = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_search_hint;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_searchview_description_clear = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_clear;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_searchview_description_query = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_query;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_searchview_description_search = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_search;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_searchview_description_submit = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_submit;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_searchview_description_voice = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_searchview_description_voice;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_shareactionprovider_share_with = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_shareactionprovider_share_with_application = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::CarouselView.FormsPlugin.Android.Resource.String.abc_toolbar_collapse_description = global::EksiSozluk.CloneUI.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.appbar_scrolling_view_behavior = global::EksiSozluk.CloneUI.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::CarouselView.FormsPlugin.Android.Resource.String.bottom_sheet_behavior = global::EksiSozluk.CloneUI.Droid.Resource.String.bottom_sheet_behavior;
+			global::CarouselView.FormsPlugin.Android.Resource.String.character_counter_pattern = global::EksiSozluk.CloneUI.Droid.Resource.String.character_counter_pattern;
+			global::CarouselView.FormsPlugin.Android.Resource.String.library_name = global::EksiSozluk.CloneUI.Droid.Resource.String.library_name;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_button_content_description = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_button_content_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_cast_button_connected = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_cast_button_connected;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_cast_button_connecting = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_cast_button_connecting;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_cast_button_disconnected = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_cast_button_disconnected;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_chooser_searching = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_chooser_searching;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_chooser_title = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_chooser_title;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_album_art = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_album_art;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_casting_screen = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_casting_screen;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_close_description = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_close_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_collapse_group = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_collapse_group;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_disconnect = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_disconnect;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_expand_group = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_expand_group;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_no_info_available = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_no_info_available;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_no_media_selected = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_no_media_selected;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_pause = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_pause;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_play = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_play;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_stop = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_stop;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_stop_casting = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_stop_casting;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_controller_volume_slider = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_controller_volume_slider;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_system_route_name = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_system_route_name;
+			global::CarouselView.FormsPlugin.Android.Resource.String.mr_user_route_category_name = global::EksiSozluk.CloneUI.Droid.Resource.String.mr_user_route_category_name;
+			global::CarouselView.FormsPlugin.Android.Resource.String.password_toggle_content_description = global::EksiSozluk.CloneUI.Droid.Resource.String.password_toggle_content_description;
+			global::CarouselView.FormsPlugin.Android.Resource.String.path_password_eye = global::EksiSozluk.CloneUI.Droid.Resource.String.path_password_eye;
+			global::CarouselView.FormsPlugin.Android.Resource.String.path_password_eye_mask_strike_through = global::EksiSozluk.CloneUI.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::CarouselView.FormsPlugin.Android.Resource.String.path_password_eye_mask_visible = global::EksiSozluk.CloneUI.Droid.Resource.String.path_password_eye_mask_visible;
+			global::CarouselView.FormsPlugin.Android.Resource.String.path_password_strike_through = global::EksiSozluk.CloneUI.Droid.Resource.String.path_password_strike_through;
+			global::CarouselView.FormsPlugin.Android.Resource.String.search_menu_title = global::EksiSozluk.CloneUI.Droid.Resource.String.search_menu_title;
+			global::CarouselView.FormsPlugin.Android.Resource.String.status_bar_notification_info_overflow = global::EksiSozluk.CloneUI.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.AlertDialog_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.AlertDialog_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Animation_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_AlertDialog_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_CardView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_CardView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V22_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V23_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_Design_AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Base_Widget_Design_TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.CardView = global::EksiSozluk.CloneUI.Droid.Resource.Style.CardView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.CardView_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.CardView_Dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.CardView_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.CardView_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V11_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V11_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V14_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V14_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V21_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V21_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V25_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_V25_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Counter = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Error = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Hint = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Design_Tab = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_MediaRouter_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::EksiSozluk.CloneUI.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_Design_NoActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_MediaRouter;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Theme_PageIndicatorDefaults = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_PageIndicatorDefaults;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.ThemeOverlay_MediaRouter_Light = global::EksiSozluk.CloneUI.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Button_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_EditText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ImageButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_CirclePageIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_CirclePageIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_BottomNavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_FloatingActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_NavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_Snackbar = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_Design_TextInputLayout = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_backgroundStacked = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_displayOptions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_divider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_homeLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_itemPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_logo = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_logo;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_navigationMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_progressBarPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_progressBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBar_titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMenuItemView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuItemView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMenuView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMenuView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_backgroundSplit = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_closeItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActionMode_titleTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActivityChooserView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_listItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_listLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_showTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_expanded = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayoutStates = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatImageView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_android_src = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_tint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatImageView_tintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatSeekBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomNavigationView_menu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ButtonBarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ButtonBarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_android_minHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_android_minWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardBackgroundColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardCornerRadius = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardElevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardElevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardMaxElevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_contentPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CardView_contentPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiCentered = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiCentered;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiFillColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiFillColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiOrientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiOrientation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiPageColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiPageColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiRadius = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiRadius;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiSnap = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiSnap;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ColorStateListItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ColorStateListItem_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ColorStateListItem_android_color = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CompoundButton = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CompoundButton_android_button = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CompoundButton_buttonTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_keylines = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DesignTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DesignTheme_textColorError = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_color = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_fabSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_divider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ListPopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MediaRouteButton = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MediaRouteButton;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_enabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuGroup_android_visible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_actionLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_actionProviderClass = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_actionViewClass = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_checkable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_checked = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_enabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_id;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_menuCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_onClick = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_android_visible = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuItem_showAsAction = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_headerBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_verticalDivider = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.MenuView_subMenuArrow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_headerLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_itemBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_itemIconTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_itemTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.NavigationView_menu = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.NavigationView_menu;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindow = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindowBackgroundState = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecycleListView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecycleListView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_android_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_layoutManager = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_reverseLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_spanCount = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_android_focusable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_android_imeOptions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_android_inputType = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_closeIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_commitIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_defaultQueryHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_goIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_goIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_queryBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_queryHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_queryHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_searchHintIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_searchIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_submitBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SearchView_voiceIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SnackbarLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_elevation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner_android_entries = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_entries;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner_android_popupBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner_android_prompt = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Spinner_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_textOff = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_textOn = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_android_thumb = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_showText = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_splitTrack = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_thumbTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_track = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_track;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_trackTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabItem = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabItem_android_icon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_icon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabItem_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_layout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabItem_android_text = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabItem_android_text;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabBackground = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabContentStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMinWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPadding = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TabLayout_tabTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textSize = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_textStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_android_typeface = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextAppearance_textAllCaps = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_android_hint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_android_gravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_android_minHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_buttonGravity = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_collapseIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetRight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_logo = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_logo;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_logoDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_navigationIcon = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_popupTheme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_title = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_title;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMargin = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMarginTop = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleMargins = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.Toolbar_titleTextColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View_android_focusable = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_android_focusable;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View_android_theme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_android_theme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View_paddingEnd = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_paddingEnd;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View_paddingStart = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_paddingStart;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.View_theme = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.View_theme;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewPagerIndicator;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_id = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::CarouselView.FormsPlugin.Android.Resource.Styleable.ViewStubCompat_android_layout = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Com.Android.DeskClock.Resource.String.library_name = global::EksiSozluk.CloneUI.Droid.Resource.String.library_name;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiCentered = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiCentered;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiCirclePageIndicatorStyle = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiCirclePageIndicatorStyle;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiFillColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiFillColor;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiOrientation = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiOrientation;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiPageColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiPageColor;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiRadius = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiRadius;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiSnap = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiSnap;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiStrokeColor = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiStrokeColor;
+			global::Com.ViewPagerIndicator.Resource.Attribute.vpiStrokeWidth = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.vpiStrokeWidth;
+			global::Com.ViewPagerIndicator.Resource.Boolean.default_circle_indicator_centered = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.default_circle_indicator_centered;
+			global::Com.ViewPagerIndicator.Resource.Boolean.default_circle_indicator_snap = global::EksiSozluk.CloneUI.Droid.Resource.Boolean.default_circle_indicator_snap;
+			global::Com.ViewPagerIndicator.Resource.Color.default_circle_indicator_fill_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_fill_color;
+			global::Com.ViewPagerIndicator.Resource.Color.default_circle_indicator_page_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_page_color;
+			global::Com.ViewPagerIndicator.Resource.Color.default_circle_indicator_stroke_color = global::EksiSozluk.CloneUI.Droid.Resource.Color.default_circle_indicator_stroke_color;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__background_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__background_holo_dark;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__background_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__background_holo_light;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_disabled_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_dark;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_disabled_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_disabled_holo_light;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_holo_dark;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_holo_light;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_inverse_holo_dark = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_dark;
+			global::Com.ViewPagerIndicator.Resource.Color.vpi__bright_foreground_inverse_holo_light = global::EksiSozluk.CloneUI.Droid.Resource.Color.vpi__bright_foreground_inverse_holo_light;
+			global::Com.ViewPagerIndicator.Resource.Dimension.default_circle_indicator_radius = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.default_circle_indicator_radius;
+			global::Com.ViewPagerIndicator.Resource.Dimension.default_circle_indicator_stroke_width = global::EksiSozluk.CloneUI.Droid.Resource.Dimension.default_circle_indicator_stroke_width;
+			global::Com.ViewPagerIndicator.Resource.Id.horizontal = global::EksiSozluk.CloneUI.Droid.Resource.Id.horizontal;
+			global::Com.ViewPagerIndicator.Resource.Id.vertical = global::EksiSozluk.CloneUI.Droid.Resource.Id.vertical;
+			global::Com.ViewPagerIndicator.Resource.Integer.default_circle_indicator_orientation = global::EksiSozluk.CloneUI.Droid.Resource.Integer.default_circle_indicator_orientation;
+			global::Com.ViewPagerIndicator.Resource.String.library_name = global::EksiSozluk.CloneUI.Droid.Resource.String.library_name;
+			global::Com.ViewPagerIndicator.Resource.Style.Theme_PageIndicatorDefaults = global::EksiSozluk.CloneUI.Droid.Resource.Style.Theme_PageIndicatorDefaults;
+			global::Com.ViewPagerIndicator.Resource.Style.Widget = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget;
+			global::Com.ViewPagerIndicator.Resource.Style.Widget_CirclePageIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Style.Widget_CirclePageIndicator;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiCentered = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiCentered;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiFillColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiFillColor;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiOrientation = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiOrientation;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiPageColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiPageColor;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiRadius = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiRadius;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiSnap = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiSnap;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiStrokeColor = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeColor;
+			global::Com.ViewPagerIndicator.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.CirclePageIndicator_vpiStrokeWidth;
+			global::Com.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewPagerIndicator;
+			global::Com.ViewPagerIndicator.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle = global::EksiSozluk.CloneUI.Droid.Resource.Styleable.ViewPagerIndicator_vpiCirclePageIndicatorStyle;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::EksiSozluk.CloneUI.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -1192,6 +5095,33 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0100f2
 			public const int voiceIcon = 2130772210;
 			
+			// aapt resource value: 0x7f010174
+			public const int vpiCentered = 2130772340;
+			
+			// aapt resource value: 0x7f010173
+			public const int vpiCirclePageIndicatorStyle = 2130772339;
+			
+			// aapt resource value: 0x7f010179
+			public const int vpiFillColor = 2130772345;
+			
+			// aapt resource value: 0x7f010176
+			public const int vpiOrientation = 2130772342;
+			
+			// aapt resource value: 0x7f010175
+			public const int vpiPageColor = 2130772341;
+			
+			// aapt resource value: 0x7f010178
+			public const int vpiRadius = 2130772344;
+			
+			// aapt resource value: 0x7f010177
+			public const int vpiSnap = 2130772343;
+			
+			// aapt resource value: 0x7f01017a
+			public const int vpiStrokeColor = 2130772346;
+			
+			// aapt resource value: 0x7f01017b
+			public const int vpiStrokeWidth = 2130772347;
+			
 			// aapt resource value: 0x7f010056
 			public const int windowActionBar = 2130772054;
 			
@@ -1250,6 +5180,15 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0e0004
 			public const int abc_config_showMenuShortcutsWhenKeyboardPresent = 2131623940;
 			
+			// aapt resource value: 0x7f0e0007
+			public const int bb_bottom_bar_is_tablet_mode = 2131623943;
+			
+			// aapt resource value: 0x7f0e0005
+			public const int default_circle_indicator_centered = 2131623941;
+			
+			// aapt resource value: 0x7f0e0006
+			public const int default_circle_indicator_snap = 2131623942;
+			
 			static Boolean()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -1263,44 +5202,44 @@ namespace EksiSozluk.CloneUI.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d0052
-			public const int abc_background_cache_hint_selector_material_dark = 2131558482;
+			// aapt resource value: 0x7f0d0061
+			public const int abc_background_cache_hint_selector_material_dark = 2131558497;
 			
-			// aapt resource value: 0x7f0d0053
-			public const int abc_background_cache_hint_selector_material_light = 2131558483;
+			// aapt resource value: 0x7f0d0062
+			public const int abc_background_cache_hint_selector_material_light = 2131558498;
 			
-			// aapt resource value: 0x7f0d0054
-			public const int abc_btn_colored_borderless_text_material = 2131558484;
+			// aapt resource value: 0x7f0d0063
+			public const int abc_btn_colored_borderless_text_material = 2131558499;
 			
-			// aapt resource value: 0x7f0d0055
-			public const int abc_btn_colored_text_material = 2131558485;
+			// aapt resource value: 0x7f0d0064
+			public const int abc_btn_colored_text_material = 2131558500;
 			
-			// aapt resource value: 0x7f0d0056
-			public const int abc_color_highlight_material = 2131558486;
+			// aapt resource value: 0x7f0d0065
+			public const int abc_color_highlight_material = 2131558501;
 			
-			// aapt resource value: 0x7f0d0057
-			public const int abc_hint_foreground_material_dark = 2131558487;
+			// aapt resource value: 0x7f0d0066
+			public const int abc_hint_foreground_material_dark = 2131558502;
 			
-			// aapt resource value: 0x7f0d0058
-			public const int abc_hint_foreground_material_light = 2131558488;
+			// aapt resource value: 0x7f0d0067
+			public const int abc_hint_foreground_material_light = 2131558503;
 			
 			// aapt resource value: 0x7f0d0004
 			public const int abc_input_method_navigation_guard = 2131558404;
 			
-			// aapt resource value: 0x7f0d0059
-			public const int abc_primary_text_disable_only_material_dark = 2131558489;
+			// aapt resource value: 0x7f0d0068
+			public const int abc_primary_text_disable_only_material_dark = 2131558504;
 			
-			// aapt resource value: 0x7f0d005a
-			public const int abc_primary_text_disable_only_material_light = 2131558490;
+			// aapt resource value: 0x7f0d0069
+			public const int abc_primary_text_disable_only_material_light = 2131558505;
 			
-			// aapt resource value: 0x7f0d005b
-			public const int abc_primary_text_material_dark = 2131558491;
+			// aapt resource value: 0x7f0d006a
+			public const int abc_primary_text_material_dark = 2131558506;
 			
-			// aapt resource value: 0x7f0d005c
-			public const int abc_primary_text_material_light = 2131558492;
+			// aapt resource value: 0x7f0d006b
+			public const int abc_primary_text_material_light = 2131558507;
 			
-			// aapt resource value: 0x7f0d005d
-			public const int abc_search_url_text = 2131558493;
+			// aapt resource value: 0x7f0d006c
+			public const int abc_search_url_text = 2131558508;
 			
 			// aapt resource value: 0x7f0d0005
 			public const int abc_search_url_text_normal = 2131558405;
@@ -1311,29 +5250,29 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d0007
 			public const int abc_search_url_text_selected = 2131558407;
 			
-			// aapt resource value: 0x7f0d005e
-			public const int abc_secondary_text_material_dark = 2131558494;
+			// aapt resource value: 0x7f0d006d
+			public const int abc_secondary_text_material_dark = 2131558509;
 			
-			// aapt resource value: 0x7f0d005f
-			public const int abc_secondary_text_material_light = 2131558495;
+			// aapt resource value: 0x7f0d006e
+			public const int abc_secondary_text_material_light = 2131558510;
 			
-			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_btn_checkable = 2131558496;
+			// aapt resource value: 0x7f0d006f
+			public const int abc_tint_btn_checkable = 2131558511;
 			
-			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_default = 2131558497;
+			// aapt resource value: 0x7f0d0070
+			public const int abc_tint_default = 2131558512;
 			
-			// aapt resource value: 0x7f0d0062
-			public const int abc_tint_edittext = 2131558498;
+			// aapt resource value: 0x7f0d0071
+			public const int abc_tint_edittext = 2131558513;
 			
-			// aapt resource value: 0x7f0d0063
-			public const int abc_tint_seek_thumb = 2131558499;
+			// aapt resource value: 0x7f0d0072
+			public const int abc_tint_seek_thumb = 2131558514;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int abc_tint_spinner = 2131558500;
+			// aapt resource value: 0x7f0d0073
+			public const int abc_tint_spinner = 2131558515;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int abc_tint_switch_track = 2131558501;
+			// aapt resource value: 0x7f0d0074
+			public const int abc_tint_switch_track = 2131558516;
 			
 			// aapt resource value: 0x7f0d0008
 			public const int accent_material_dark = 2131558408;
@@ -1352,6 +5291,18 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0d000d
 			public const int background_material_light = 2131558413;
+			
+			// aapt resource value: 0x7f0d0058
+			public const int bb_darkBackgroundColor = 2131558488;
+			
+			// aapt resource value: 0x7f0d0057
+			public const int bb_darkInActiveBottomBarItemColor = 2131558487;
+			
+			// aapt resource value: 0x7f0d0056
+			public const int bb_inActiveBottomBarItemColor = 2131558486;
+			
+			// aapt resource value: 0x7f0d0059
+			public const int bb_tabletRightBorderDark = 2131558489;
 			
 			// aapt resource value: 0x7f0d000e
 			public const int bright_foreground_disabled_material_dark = 2131558414;
@@ -1389,20 +5340,29 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d0003
 			public const int cardview_shadow_start_color = 2131558403;
 			
-			// aapt resource value: 0x7f0d004e
-			public const int colorAccent = 2131558478;
+			// aapt resource value: 0x7f0d005d
+			public const int colorAccent = 2131558493;
 			
-			// aapt resource value: 0x7f0d004c
-			public const int colorPrimary = 2131558476;
+			// aapt resource value: 0x7f0d005b
+			public const int colorPrimary = 2131558491;
 			
-			// aapt resource value: 0x7f0d004d
-			public const int colorPrimaryDark = 2131558477;
+			// aapt resource value: 0x7f0d005c
+			public const int colorPrimaryDark = 2131558492;
+			
+			// aapt resource value: 0x7f0d0053
+			public const int default_circle_indicator_fill_color = 2131558483;
+			
+			// aapt resource value: 0x7f0d0054
+			public const int default_circle_indicator_page_color = 2131558484;
+			
+			// aapt resource value: 0x7f0d0055
+			public const int default_circle_indicator_stroke_color = 2131558485;
 			
 			// aapt resource value: 0x7f0d0040
 			public const int design_bottom_navigation_shadow_color = 2131558464;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int design_error = 2131558502;
+			// aapt resource value: 0x7f0d0075
+			public const int design_error = 2131558517;
 			
 			// aapt resource value: 0x7f0d0041
 			public const int design_fab_shadow_end_color = 2131558465;
@@ -1428,8 +5388,8 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d0048
 			public const int design_snackbar_background_color = 2131558472;
 			
-			// aapt resource value: 0x7f0d0067
-			public const int design_tint_password_toggle = 2131558503;
+			// aapt resource value: 0x7f0d0076
+			public const int design_tint_password_toggle = 2131558518;
 			
 			// aapt resource value: 0x7f0d0016
 			public const int dim_foreground_disabled_material_dark = 2131558422;
@@ -1458,8 +5418,8 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d001e
 			public const int highlighted_text_material_light = 2131558430;
 			
-			// aapt resource value: 0x7f0d004b
-			public const int launcher_background = 2131558475;
+			// aapt resource value: 0x7f0d005a
+			public const int launcher_background = 2131558490;
 			
 			// aapt resource value: 0x7f0d001f
 			public const int material_blue_grey_800 = 2131558431;
@@ -1497,8 +5457,8 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d002a
 			public const int material_grey_900 = 2131558442;
 			
-			// aapt resource value: 0x7f0d0050
-			public const int normal = 2131558480;
+			// aapt resource value: 0x7f0d005f
+			public const int normal = 2131558495;
 			
 			// aapt resource value: 0x7f0d0049
 			public const int notification_action_color_filter = 2131558473;
@@ -1551,14 +5511,14 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d0038
 			public const int secondary_text_disabled_material_light = 2131558456;
 			
-			// aapt resource value: 0x7f0d0068
-			public const int segmented_control_text = 2131558504;
+			// aapt resource value: 0x7f0d0077
+			public const int segmented_control_text = 2131558519;
 			
-			// aapt resource value: 0x7f0d0051
-			public const int selected = 2131558481;
+			// aapt resource value: 0x7f0d0060
+			public const int selected = 2131558496;
 			
-			// aapt resource value: 0x7f0d004f
-			public const int statusBarTextColor = 2131558479;
+			// aapt resource value: 0x7f0d005e
+			public const int statusBarTextColor = 2131558494;
 			
 			// aapt resource value: 0x7f0d0039
 			public const int switch_thumb_disabled_material_dark = 2131558457;
@@ -1566,11 +5526,11 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0d003a
 			public const int switch_thumb_disabled_material_light = 2131558458;
 			
-			// aapt resource value: 0x7f0d0069
-			public const int switch_thumb_material_dark = 2131558505;
+			// aapt resource value: 0x7f0d0078
+			public const int switch_thumb_material_dark = 2131558520;
 			
-			// aapt resource value: 0x7f0d006a
-			public const int switch_thumb_material_light = 2131558506;
+			// aapt resource value: 0x7f0d0079
+			public const int switch_thumb_material_light = 2131558521;
 			
 			// aapt resource value: 0x7f0d003b
 			public const int switch_thumb_normal_material_dark = 2131558459;
@@ -1583,6 +5543,30 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0d003e
 			public const int tooltip_background_light = 2131558462;
+			
+			// aapt resource value: 0x7f0d004b
+			public const int vpi__background_holo_dark = 2131558475;
+			
+			// aapt resource value: 0x7f0d004c
+			public const int vpi__background_holo_light = 2131558476;
+			
+			// aapt resource value: 0x7f0d004f
+			public const int vpi__bright_foreground_disabled_holo_dark = 2131558479;
+			
+			// aapt resource value: 0x7f0d0050
+			public const int vpi__bright_foreground_disabled_holo_light = 2131558480;
+			
+			// aapt resource value: 0x7f0d004d
+			public const int vpi__bright_foreground_holo_dark = 2131558477;
+			
+			// aapt resource value: 0x7f0d004e
+			public const int vpi__bright_foreground_holo_light = 2131558478;
+			
+			// aapt resource value: 0x7f0d0051
+			public const int vpi__bright_foreground_inverse_holo_dark = 2131558481;
+			
+			// aapt resource value: 0x7f0d0052
+			public const int vpi__bright_foreground_inverse_holo_light = 2131558482;
 			
 			static Color()
 			{
@@ -1819,6 +5803,18 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f080013
 			public const int abc_text_size_title_material_toolbar = 2131230739;
 			
+			// aapt resource value: 0x7f0800a6
+			public const int activity_horizontal_margin = 2131230886;
+			
+			// aapt resource value: 0x7f0800a7
+			public const int activity_vertical_margin = 2131230887;
+			
+			// aapt resource value: 0x7f0800a9
+			public const int bb_height = 2131230889;
+			
+			// aapt resource value: 0x7f0800a8
+			public const int bottom_bar_elevation = 2131230888;
+			
 			// aapt resource value: 0x7f08000c
 			public const int cardview_compat_inset_shadow = 2131230732;
 			
@@ -1842,6 +5838,12 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f080098
 			public const int compat_control_corner_material = 2131230872;
+			
+			// aapt resource value: 0x7f0800a4
+			public const int default_circle_indicator_radius = 2131230884;
+			
+			// aapt resource value: 0x7f0800a5
+			public const int default_circle_indicator_stroke_width = 2131230885;
 			
 			// aapt resource value: 0x7f080072
 			public const int design_appbar_elevation = 2131230834;
@@ -2354,701 +6356,734 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020136
-			public const int avd_hide_password_1 = 2130837814;
+			// aapt resource value: 0x7f020141
+			public const int avd_hide_password_1 = 2130837825;
 			
-			// aapt resource value: 0x7f020137
-			public const int avd_hide_password_2 = 2130837815;
+			// aapt resource value: 0x7f020142
+			public const int avd_hide_password_2 = 2130837826;
 			
-			// aapt resource value: 0x7f020138
-			public const int avd_hide_password_3 = 2130837816;
+			// aapt resource value: 0x7f020143
+			public const int avd_hide_password_3 = 2130837827;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020139
-			public const int avd_show_password_1 = 2130837817;
+			// aapt resource value: 0x7f020144
+			public const int avd_show_password_1 = 2130837828;
 			
-			// aapt resource value: 0x7f02013a
-			public const int avd_show_password_2 = 2130837818;
+			// aapt resource value: 0x7f020145
+			public const int avd_show_password_2 = 2130837829;
 			
-			// aapt resource value: 0x7f02013b
-			public const int avd_show_password_3 = 2130837819;
+			// aapt resource value: 0x7f020146
+			public const int avd_show_password_3 = 2130837830;
 			
 			// aapt resource value: 0x7f020055
-			public const int Brand = 2130837589;
+			public const int bb_bottom_bar_top_shadow = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int Checked = 2130837590;
+			public const int Brand = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int design_bottom_navigation_item_background = 2130837591;
+			public const int Checked = 2130837591;
 			
 			// aapt resource value: 0x7f020058
-			public const int design_fab_background = 2130837592;
+			public const int design_bottom_navigation_item_background = 2130837592;
 			
 			// aapt resource value: 0x7f020059
-			public const int design_ic_visibility = 2130837593;
+			public const int design_fab_background = 2130837593;
 			
 			// aapt resource value: 0x7f02005a
-			public const int design_ic_visibility_off = 2130837594;
+			public const int design_ic_visibility = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int design_password_eye = 2130837595;
+			public const int design_ic_visibility_off = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int design_snackbar_background = 2130837596;
+			public const int design_password_eye = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int facebook = 2130837597;
+			public const int design_snackbar_background = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_audiotrack_dark = 2130837598;
+			public const int Down = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int ic_audiotrack_light = 2130837599;
+			public const int DropDownArrow = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int ic_dialog_close_dark = 2130837600;
+			public const int facebook = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_dialog_close_light = 2130837601;
+			public const int Headline = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_group_collapse_00 = 2130837602;
+			public const int ic_audiotrack_dark = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_group_collapse_01 = 2130837603;
+			public const int ic_audiotrack_light = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int ic_group_collapse_02 = 2130837604;
+			public const int ic_dialog_close_dark = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int ic_group_collapse_03 = 2130837605;
+			public const int ic_dialog_close_light = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int ic_group_collapse_04 = 2130837606;
+			public const int ic_group_collapse_00 = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int ic_group_collapse_05 = 2130837607;
+			public const int ic_group_collapse_01 = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int ic_group_collapse_06 = 2130837608;
+			public const int ic_group_collapse_02 = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int ic_group_collapse_07 = 2130837609;
+			public const int ic_group_collapse_03 = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int ic_group_collapse_08 = 2130837610;
+			public const int ic_group_collapse_04 = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int ic_group_collapse_09 = 2130837611;
+			public const int ic_group_collapse_05 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int ic_group_collapse_10 = 2130837612;
+			public const int ic_group_collapse_06 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int ic_group_collapse_11 = 2130837613;
+			public const int ic_group_collapse_07 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_12 = 2130837614;
+			public const int ic_group_collapse_08 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_13 = 2130837615;
+			public const int ic_group_collapse_09 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_14 = 2130837616;
+			public const int ic_group_collapse_10 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int ic_group_collapse_15 = 2130837617;
+			public const int ic_group_collapse_11 = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int ic_group_expand_00 = 2130837618;
+			public const int ic_group_collapse_12 = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int ic_group_expand_01 = 2130837619;
+			public const int ic_group_collapse_13 = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int ic_group_expand_02 = 2130837620;
+			public const int ic_group_collapse_14 = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int ic_group_expand_03 = 2130837621;
+			public const int ic_group_collapse_15 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int ic_group_expand_04 = 2130837622;
+			public const int ic_group_expand_00 = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int ic_group_expand_05 = 2130837623;
+			public const int ic_group_expand_01 = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int ic_group_expand_06 = 2130837624;
+			public const int ic_group_expand_02 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int ic_group_expand_07 = 2130837625;
+			public const int ic_group_expand_03 = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int ic_group_expand_08 = 2130837626;
+			public const int ic_group_expand_04 = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int ic_group_expand_09 = 2130837627;
+			public const int ic_group_expand_05 = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ic_group_expand_10 = 2130837628;
+			public const int ic_group_expand_06 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_group_expand_11 = 2130837629;
+			public const int ic_group_expand_07 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_12 = 2130837630;
+			public const int ic_group_expand_08 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_13 = 2130837631;
+			public const int ic_group_expand_09 = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_14 = 2130837632;
+			public const int ic_group_expand_10 = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int ic_group_expand_15 = 2130837633;
+			public const int ic_group_expand_11 = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ic_media_pause_dark = 2130837634;
+			public const int ic_group_expand_12 = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_media_pause_light = 2130837635;
+			public const int ic_group_expand_13 = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_media_play_dark = 2130837636;
+			public const int ic_group_expand_14 = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_media_play_light = 2130837637;
+			public const int ic_group_expand_15 = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_media_stop_dark = 2130837638;
+			public const int ic_media_pause_dark = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int ic_media_stop_light = 2130837639;
+			public const int ic_media_pause_light = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int ic_mr_button_connected_00_dark = 2130837640;
+			public const int ic_media_play_dark = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int ic_mr_button_connected_00_light = 2130837641;
+			public const int ic_media_play_light = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int ic_mr_button_connected_01_dark = 2130837642;
+			public const int ic_media_stop_dark = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int ic_mr_button_connected_01_light = 2130837643;
+			public const int ic_media_stop_light = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int ic_mr_button_connected_02_dark = 2130837644;
+			public const int ic_mr_button_connected_00_dark = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ic_mr_button_connected_02_light = 2130837645;
+			public const int ic_mr_button_connected_00_light = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int ic_mr_button_connected_03_dark = 2130837646;
+			public const int ic_mr_button_connected_01_dark = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int ic_mr_button_connected_03_light = 2130837647;
+			public const int ic_mr_button_connected_01_light = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ic_mr_button_connected_04_dark = 2130837648;
+			public const int ic_mr_button_connected_02_dark = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int ic_mr_button_connected_04_light = 2130837649;
+			public const int ic_mr_button_connected_02_light = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int ic_mr_button_connected_05_dark = 2130837650;
+			public const int ic_mr_button_connected_03_dark = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int ic_mr_button_connected_05_light = 2130837651;
+			public const int ic_mr_button_connected_03_light = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_06_dark = 2130837652;
+			public const int ic_mr_button_connected_04_dark = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_06_light = 2130837653;
+			public const int ic_mr_button_connected_04_light = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_07_dark = 2130837654;
+			public const int ic_mr_button_connected_05_dark = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_07_light = 2130837655;
+			public const int ic_mr_button_connected_05_light = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_08_dark = 2130837656;
+			public const int ic_mr_button_connected_06_dark = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_08_light = 2130837657;
+			public const int ic_mr_button_connected_06_light = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_09_dark = 2130837658;
+			public const int ic_mr_button_connected_07_dark = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_09_light = 2130837659;
+			public const int ic_mr_button_connected_07_light = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_10_dark = 2130837660;
+			public const int ic_mr_button_connected_08_dark = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_10_light = 2130837661;
+			public const int ic_mr_button_connected_08_light = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_11_dark = 2130837662;
+			public const int ic_mr_button_connected_09_dark = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_11_light = 2130837663;
+			public const int ic_mr_button_connected_09_light = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_12_dark = 2130837664;
+			public const int ic_mr_button_connected_10_dark = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_12_light = 2130837665;
+			public const int ic_mr_button_connected_10_light = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_13_dark = 2130837666;
+			public const int ic_mr_button_connected_11_dark = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_13_light = 2130837667;
+			public const int ic_mr_button_connected_11_light = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_14_dark = 2130837668;
+			public const int ic_mr_button_connected_12_dark = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_14_light = 2130837669;
+			public const int ic_mr_button_connected_12_light = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_15_dark = 2130837670;
+			public const int ic_mr_button_connected_13_dark = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_15_light = 2130837671;
+			public const int ic_mr_button_connected_13_light = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_16_dark = 2130837672;
+			public const int ic_mr_button_connected_14_dark = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_16_light = 2130837673;
+			public const int ic_mr_button_connected_14_light = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_17_dark = 2130837674;
+			public const int ic_mr_button_connected_15_dark = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_17_light = 2130837675;
+			public const int ic_mr_button_connected_15_light = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_18_dark = 2130837676;
+			public const int ic_mr_button_connected_16_dark = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_18_light = 2130837677;
+			public const int ic_mr_button_connected_16_light = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_19_dark = 2130837678;
+			public const int ic_mr_button_connected_17_dark = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_19_light = 2130837679;
+			public const int ic_mr_button_connected_17_light = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_20_dark = 2130837680;
+			public const int ic_mr_button_connected_18_dark = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_20_light = 2130837681;
+			public const int ic_mr_button_connected_18_light = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_21_dark = 2130837682;
+			public const int ic_mr_button_connected_19_dark = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_21_light = 2130837683;
+			public const int ic_mr_button_connected_19_light = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_22_dark = 2130837684;
+			public const int ic_mr_button_connected_20_dark = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_22_light = 2130837685;
+			public const int ic_mr_button_connected_20_light = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connected_23_dark = 2130837686;
+			public const int ic_mr_button_connected_21_dark = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connected_23_light = 2130837687;
+			public const int ic_mr_button_connected_21_light = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connected_24_dark = 2130837688;
+			public const int ic_mr_button_connected_22_dark = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connected_24_light = 2130837689;
+			public const int ic_mr_button_connected_22_light = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connected_25_dark = 2130837690;
+			public const int ic_mr_button_connected_23_dark = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connected_25_light = 2130837691;
+			public const int ic_mr_button_connected_23_light = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connected_26_dark = 2130837692;
+			public const int ic_mr_button_connected_24_dark = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connected_26_light = 2130837693;
+			public const int ic_mr_button_connected_24_light = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connected_27_dark = 2130837694;
+			public const int ic_mr_button_connected_25_dark = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connected_27_light = 2130837695;
+			public const int ic_mr_button_connected_25_light = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connected_28_dark = 2130837696;
+			public const int ic_mr_button_connected_26_dark = 2130837696;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connected_28_light = 2130837697;
+			public const int ic_mr_button_connected_26_light = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connected_29_dark = 2130837698;
+			public const int ic_mr_button_connected_27_dark = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connected_29_light = 2130837699;
+			public const int ic_mr_button_connected_27_light = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connected_30_dark = 2130837700;
+			public const int ic_mr_button_connected_28_dark = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connected_30_light = 2130837701;
+			public const int ic_mr_button_connected_28_light = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connecting_00_dark = 2130837702;
+			public const int ic_mr_button_connected_29_dark = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connecting_00_light = 2130837703;
+			public const int ic_mr_button_connected_29_light = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connecting_01_dark = 2130837704;
+			public const int ic_mr_button_connected_30_dark = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connecting_01_light = 2130837705;
+			public const int ic_mr_button_connected_30_light = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connecting_02_dark = 2130837706;
+			public const int ic_mr_button_connecting_00_dark = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connecting_02_light = 2130837707;
+			public const int ic_mr_button_connecting_00_light = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connecting_03_dark = 2130837708;
+			public const int ic_mr_button_connecting_01_dark = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connecting_03_light = 2130837709;
+			public const int ic_mr_button_connecting_01_light = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connecting_04_dark = 2130837710;
+			public const int ic_mr_button_connecting_02_dark = 2130837710;
 			
 			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connecting_04_light = 2130837711;
+			public const int ic_mr_button_connecting_02_light = 2130837711;
 			
 			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connecting_05_dark = 2130837712;
+			public const int ic_mr_button_connecting_03_dark = 2130837712;
 			
 			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connecting_05_light = 2130837713;
+			public const int ic_mr_button_connecting_03_light = 2130837713;
 			
 			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_06_dark = 2130837714;
+			public const int ic_mr_button_connecting_04_dark = 2130837714;
 			
 			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_06_light = 2130837715;
+			public const int ic_mr_button_connecting_04_light = 2130837715;
 			
 			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_07_dark = 2130837716;
+			public const int ic_mr_button_connecting_05_dark = 2130837716;
 			
 			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_07_light = 2130837717;
+			public const int ic_mr_button_connecting_05_light = 2130837717;
 			
 			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_08_dark = 2130837718;
+			public const int ic_mr_button_connecting_06_dark = 2130837718;
 			
 			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_08_light = 2130837719;
+			public const int ic_mr_button_connecting_06_light = 2130837719;
 			
 			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_09_dark = 2130837720;
+			public const int ic_mr_button_connecting_07_dark = 2130837720;
 			
 			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_09_light = 2130837721;
+			public const int ic_mr_button_connecting_07_light = 2130837721;
 			
 			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_10_dark = 2130837722;
+			public const int ic_mr_button_connecting_08_dark = 2130837722;
 			
 			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_10_light = 2130837723;
+			public const int ic_mr_button_connecting_08_light = 2130837723;
 			
 			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_11_dark = 2130837724;
+			public const int ic_mr_button_connecting_09_dark = 2130837724;
 			
 			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_11_light = 2130837725;
+			public const int ic_mr_button_connecting_09_light = 2130837725;
 			
 			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_12_dark = 2130837726;
+			public const int ic_mr_button_connecting_10_dark = 2130837726;
 			
 			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_12_light = 2130837727;
+			public const int ic_mr_button_connecting_10_light = 2130837727;
 			
 			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_13_dark = 2130837728;
+			public const int ic_mr_button_connecting_11_dark = 2130837728;
 			
 			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_13_light = 2130837729;
+			public const int ic_mr_button_connecting_11_light = 2130837729;
 			
 			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_14_dark = 2130837730;
+			public const int ic_mr_button_connecting_12_dark = 2130837730;
 			
 			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_14_light = 2130837731;
+			public const int ic_mr_button_connecting_12_light = 2130837731;
 			
 			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_connecting_15_dark = 2130837732;
+			public const int ic_mr_button_connecting_13_dark = 2130837732;
 			
 			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_connecting_15_light = 2130837733;
+			public const int ic_mr_button_connecting_13_light = 2130837733;
 			
 			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_connecting_16_dark = 2130837734;
+			public const int ic_mr_button_connecting_14_dark = 2130837734;
 			
 			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_connecting_16_light = 2130837735;
+			public const int ic_mr_button_connecting_14_light = 2130837735;
 			
 			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_connecting_17_dark = 2130837736;
+			public const int ic_mr_button_connecting_15_dark = 2130837736;
 			
 			// aapt resource value: 0x7f0200e9
-			public const int ic_mr_button_connecting_17_light = 2130837737;
+			public const int ic_mr_button_connecting_15_light = 2130837737;
 			
 			// aapt resource value: 0x7f0200ea
-			public const int ic_mr_button_connecting_18_dark = 2130837738;
+			public const int ic_mr_button_connecting_16_dark = 2130837738;
 			
 			// aapt resource value: 0x7f0200eb
-			public const int ic_mr_button_connecting_18_light = 2130837739;
+			public const int ic_mr_button_connecting_16_light = 2130837739;
 			
 			// aapt resource value: 0x7f0200ec
-			public const int ic_mr_button_connecting_19_dark = 2130837740;
+			public const int ic_mr_button_connecting_17_dark = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int ic_mr_button_connecting_19_light = 2130837741;
+			public const int ic_mr_button_connecting_17_light = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int ic_mr_button_connecting_20_dark = 2130837742;
+			public const int ic_mr_button_connecting_18_dark = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int ic_mr_button_connecting_20_light = 2130837743;
+			public const int ic_mr_button_connecting_18_light = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int ic_mr_button_connecting_21_dark = 2130837744;
+			public const int ic_mr_button_connecting_19_dark = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int ic_mr_button_connecting_21_light = 2130837745;
+			public const int ic_mr_button_connecting_19_light = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int ic_mr_button_connecting_22_dark = 2130837746;
+			public const int ic_mr_button_connecting_20_dark = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int ic_mr_button_connecting_22_light = 2130837747;
+			public const int ic_mr_button_connecting_20_light = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int ic_mr_button_connecting_23_dark = 2130837748;
+			public const int ic_mr_button_connecting_21_dark = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int ic_mr_button_connecting_23_light = 2130837749;
+			public const int ic_mr_button_connecting_21_light = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int ic_mr_button_connecting_24_dark = 2130837750;
+			public const int ic_mr_button_connecting_22_dark = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int ic_mr_button_connecting_24_light = 2130837751;
+			public const int ic_mr_button_connecting_22_light = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int ic_mr_button_connecting_25_dark = 2130837752;
+			public const int ic_mr_button_connecting_23_dark = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int ic_mr_button_connecting_25_light = 2130837753;
+			public const int ic_mr_button_connecting_23_light = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int ic_mr_button_connecting_26_dark = 2130837754;
+			public const int ic_mr_button_connecting_24_dark = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int ic_mr_button_connecting_26_light = 2130837755;
+			public const int ic_mr_button_connecting_24_light = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int ic_mr_button_connecting_27_dark = 2130837756;
+			public const int ic_mr_button_connecting_25_dark = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int ic_mr_button_connecting_27_light = 2130837757;
+			public const int ic_mr_button_connecting_25_light = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int ic_mr_button_connecting_28_dark = 2130837758;
+			public const int ic_mr_button_connecting_26_dark = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int ic_mr_button_connecting_28_light = 2130837759;
+			public const int ic_mr_button_connecting_26_light = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int ic_mr_button_connecting_29_dark = 2130837760;
+			public const int ic_mr_button_connecting_27_dark = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int ic_mr_button_connecting_29_light = 2130837761;
+			public const int ic_mr_button_connecting_27_light = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int ic_mr_button_connecting_30_dark = 2130837762;
+			public const int ic_mr_button_connecting_28_dark = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int ic_mr_button_connecting_30_light = 2130837763;
+			public const int ic_mr_button_connecting_28_light = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int ic_mr_button_disabled_dark = 2130837764;
+			public const int ic_mr_button_connecting_29_dark = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int ic_mr_button_disabled_light = 2130837765;
+			public const int ic_mr_button_connecting_29_light = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int ic_mr_button_disconnected_dark = 2130837766;
+			public const int ic_mr_button_connecting_30_dark = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int ic_mr_button_disconnected_light = 2130837767;
+			public const int ic_mr_button_connecting_30_light = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int ic_mr_button_grey = 2130837768;
+			public const int ic_mr_button_disabled_dark = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int ic_vol_type_speaker_dark = 2130837769;
+			public const int ic_mr_button_disabled_light = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int ic_vol_type_speaker_group_dark = 2130837770;
+			public const int ic_mr_button_disconnected_dark = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
-			public const int ic_vol_type_speaker_group_light = 2130837771;
+			public const int ic_mr_button_disconnected_light = 2130837771;
 			
 			// aapt resource value: 0x7f02010c
-			public const int ic_vol_type_speaker_light = 2130837772;
+			public const int ic_mr_button_grey = 2130837772;
 			
 			// aapt resource value: 0x7f02010d
-			public const int ic_vol_type_tv_dark = 2130837773;
+			public const int ic_vol_type_speaker_dark = 2130837773;
 			
 			// aapt resource value: 0x7f02010e
-			public const int ic_vol_type_tv_light = 2130837774;
+			public const int ic_vol_type_speaker_group_dark = 2130837774;
 			
 			// aapt resource value: 0x7f02010f
-			public const int mr_button_connected_dark = 2130837775;
+			public const int ic_vol_type_speaker_group_light = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int mr_button_connected_light = 2130837776;
+			public const int ic_vol_type_speaker_light = 2130837776;
 			
 			// aapt resource value: 0x7f020111
-			public const int mr_button_connecting_dark = 2130837777;
+			public const int ic_vol_type_tv_dark = 2130837777;
 			
 			// aapt resource value: 0x7f020112
-			public const int mr_button_connecting_light = 2130837778;
+			public const int ic_vol_type_tv_light = 2130837778;
 			
 			// aapt resource value: 0x7f020113
-			public const int mr_button_dark = 2130837779;
+			public const int Message = 2130837779;
 			
 			// aapt resource value: 0x7f020114
-			public const int mr_button_light = 2130837780;
+			public const int mr_button_connected_dark = 2130837780;
 			
 			// aapt resource value: 0x7f020115
-			public const int mr_dialog_close_dark = 2130837781;
+			public const int mr_button_connected_light = 2130837781;
 			
 			// aapt resource value: 0x7f020116
-			public const int mr_dialog_close_light = 2130837782;
+			public const int mr_button_connecting_dark = 2130837782;
 			
 			// aapt resource value: 0x7f020117
-			public const int mr_dialog_material_background_dark = 2130837783;
+			public const int mr_button_connecting_light = 2130837783;
 			
 			// aapt resource value: 0x7f020118
-			public const int mr_dialog_material_background_light = 2130837784;
+			public const int mr_button_dark = 2130837784;
 			
 			// aapt resource value: 0x7f020119
-			public const int mr_group_collapse = 2130837785;
+			public const int mr_button_light = 2130837785;
 			
 			// aapt resource value: 0x7f02011a
-			public const int mr_group_expand = 2130837786;
+			public const int mr_dialog_close_dark = 2130837786;
 			
 			// aapt resource value: 0x7f02011b
-			public const int mr_media_pause_dark = 2130837787;
+			public const int mr_dialog_close_light = 2130837787;
 			
 			// aapt resource value: 0x7f02011c
-			public const int mr_media_pause_light = 2130837788;
+			public const int mr_dialog_material_background_dark = 2130837788;
 			
 			// aapt resource value: 0x7f02011d
-			public const int mr_media_play_dark = 2130837789;
+			public const int mr_dialog_material_background_light = 2130837789;
 			
 			// aapt resource value: 0x7f02011e
-			public const int mr_media_play_light = 2130837790;
+			public const int mr_group_collapse = 2130837790;
 			
 			// aapt resource value: 0x7f02011f
-			public const int mr_media_stop_dark = 2130837791;
+			public const int mr_group_expand = 2130837791;
 			
 			// aapt resource value: 0x7f020120
-			public const int mr_media_stop_light = 2130837792;
+			public const int mr_media_pause_dark = 2130837792;
 			
 			// aapt resource value: 0x7f020121
-			public const int mr_vol_type_audiotrack_dark = 2130837793;
+			public const int mr_media_pause_light = 2130837793;
 			
 			// aapt resource value: 0x7f020122
-			public const int mr_vol_type_audiotrack_light = 2130837794;
+			public const int mr_media_play_dark = 2130837794;
 			
 			// aapt resource value: 0x7f020123
-			public const int navigation_empty_icon = 2130837795;
+			public const int mr_media_play_light = 2130837795;
 			
 			// aapt resource value: 0x7f020124
-			public const int notification_action_background = 2130837796;
+			public const int mr_media_stop_dark = 2130837796;
 			
 			// aapt resource value: 0x7f020125
-			public const int notification_bg = 2130837797;
+			public const int mr_media_stop_light = 2130837797;
 			
 			// aapt resource value: 0x7f020126
-			public const int notification_bg_low = 2130837798;
+			public const int mr_vol_type_audiotrack_dark = 2130837798;
 			
 			// aapt resource value: 0x7f020127
-			public const int notification_bg_low_normal = 2130837799;
+			public const int mr_vol_type_audiotrack_light = 2130837799;
 			
 			// aapt resource value: 0x7f020128
-			public const int notification_bg_low_pressed = 2130837800;
+			public const int navigation_empty_icon = 2130837800;
 			
 			// aapt resource value: 0x7f020129
-			public const int notification_bg_normal = 2130837801;
+			public const int Next = 2130837801;
 			
 			// aapt resource value: 0x7f02012a
-			public const int notification_bg_normal_pressed = 2130837802;
+			public const int Notification = 2130837802;
 			
 			// aapt resource value: 0x7f02012b
-			public const int notification_icon_background = 2130837803;
-			
-			// aapt resource value: 0x7f020134
-			public const int notification_template_icon_bg = 2130837812;
-			
-			// aapt resource value: 0x7f020135
-			public const int notification_template_icon_low_bg = 2130837813;
+			public const int notification_action_background = 2130837803;
 			
 			// aapt resource value: 0x7f02012c
-			public const int notification_tile_bg = 2130837804;
+			public const int notification_bg = 2130837804;
 			
 			// aapt resource value: 0x7f02012d
-			public const int notify_panel_notification_icon_bg = 2130837805;
+			public const int notification_bg_low = 2130837805;
 			
 			// aapt resource value: 0x7f02012e
-			public const int segmented_control_background = 2130837806;
+			public const int notification_bg_low_normal = 2130837806;
 			
 			// aapt resource value: 0x7f02012f
-			public const int segmented_control_first_background = 2130837807;
+			public const int notification_bg_low_pressed = 2130837807;
 			
 			// aapt resource value: 0x7f020130
-			public const int segmented_control_last_background = 2130837808;
+			public const int notification_bg_normal = 2130837808;
 			
 			// aapt resource value: 0x7f020131
-			public const int tooltip_frame_dark = 2130837809;
+			public const int notification_bg_normal_pressed = 2130837809;
 			
 			// aapt resource value: 0x7f020132
-			public const int tooltip_frame_light = 2130837810;
+			public const int notification_icon_background = 2130837810;
+			
+			// aapt resource value: 0x7f02013f
+			public const int notification_template_icon_bg = 2130837823;
+			
+			// aapt resource value: 0x7f020140
+			public const int notification_template_icon_low_bg = 2130837824;
 			
 			// aapt resource value: 0x7f020133
-			public const int Unchecked = 2130837811;
+			public const int notification_tile_bg = 2130837811;
+			
+			// aapt resource value: 0x7f020134
+			public const int notify_panel_notification_icon_bg = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int Prev = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int Search = 2130837814;
+			
+			// aapt resource value: 0x7f020137
+			public const int segmented_control_background = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int segmented_control_first_background = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int segmented_control_last_background = 2130837817;
+			
+			// aapt resource value: 0x7f02013a
+			public const int tooltip_frame_dark = 2130837818;
+			
+			// aapt resource value: 0x7f02013b
+			public const int tooltip_frame_light = 2130837819;
+			
+			// aapt resource value: 0x7f02013c
+			public const int Unchecked = 2130837820;
+			
+			// aapt resource value: 0x7f02013d
+			public const int Up = 2130837821;
+			
+			// aapt resource value: 0x7f02013e
+			public const int User = 2130837822;
 			
 			static Drawable()
 			{
@@ -3081,44 +7116,44 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090037
 			public const int SYM = 2131296311;
 			
-			// aapt resource value: 0x7f0900c6
-			public const int SegControl = 2131296454;
+			// aapt resource value: 0x7f0900d7
+			public const int SegControl = 2131296471;
 			
-			// aapt resource value: 0x7f0900b6
-			public const int action0 = 2131296438;
+			// aapt resource value: 0x7f0900c7
+			public const int action0 = 2131296455;
 			
-			// aapt resource value: 0x7f09007c
-			public const int action_bar = 2131296380;
+			// aapt resource value: 0x7f09007e
+			public const int action_bar = 2131296382;
 			
 			// aapt resource value: 0x7f090001
 			public const int action_bar_activity_content = 2131296257;
 			
-			// aapt resource value: 0x7f09007b
-			public const int action_bar_container = 2131296379;
+			// aapt resource value: 0x7f09007d
+			public const int action_bar_container = 2131296381;
 			
-			// aapt resource value: 0x7f090077
-			public const int action_bar_root = 2131296375;
+			// aapt resource value: 0x7f090079
+			public const int action_bar_root = 2131296377;
 			
 			// aapt resource value: 0x7f090002
 			public const int action_bar_spinner = 2131296258;
 			
-			// aapt resource value: 0x7f09005b
-			public const int action_bar_subtitle = 2131296347;
+			// aapt resource value: 0x7f09005d
+			public const int action_bar_subtitle = 2131296349;
 			
-			// aapt resource value: 0x7f09005a
-			public const int action_bar_title = 2131296346;
+			// aapt resource value: 0x7f09005c
+			public const int action_bar_title = 2131296348;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int action_container = 2131296435;
+			// aapt resource value: 0x7f0900c4
+			public const int action_container = 2131296452;
 			
-			// aapt resource value: 0x7f09007d
-			public const int action_context_bar = 2131296381;
+			// aapt resource value: 0x7f09007f
+			public const int action_context_bar = 2131296383;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int action_divider = 2131296442;
+			// aapt resource value: 0x7f0900cb
+			public const int action_divider = 2131296459;
 			
-			// aapt resource value: 0x7f0900b4
-			public const int action_image = 2131296436;
+			// aapt resource value: 0x7f0900c5
+			public const int action_image = 2131296453;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -3126,29 +7161,29 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090004
 			public const int action_menu_presenter = 2131296260;
 			
-			// aapt resource value: 0x7f090079
-			public const int action_mode_bar = 2131296377;
+			// aapt resource value: 0x7f09007b
+			public const int action_mode_bar = 2131296379;
 			
-			// aapt resource value: 0x7f090078
-			public const int action_mode_bar_stub = 2131296376;
+			// aapt resource value: 0x7f09007a
+			public const int action_mode_bar_stub = 2131296378;
 			
-			// aapt resource value: 0x7f09005c
-			public const int action_mode_close_button = 2131296348;
+			// aapt resource value: 0x7f09005e
+			public const int action_mode_close_button = 2131296350;
 			
-			// aapt resource value: 0x7f0900b5
-			public const int action_text = 2131296437;
+			// aapt resource value: 0x7f0900c6
+			public const int action_text = 2131296454;
 			
-			// aapt resource value: 0x7f0900c3
-			public const int actions = 2131296451;
+			// aapt resource value: 0x7f0900d4
+			public const int actions = 2131296468;
 			
-			// aapt resource value: 0x7f09005d
-			public const int activity_chooser_view_content = 2131296349;
+			// aapt resource value: 0x7f09005f
+			public const int activity_chooser_view_content = 2131296351;
 			
 			// aapt resource value: 0x7f090027
 			public const int add = 2131296295;
 			
-			// aapt resource value: 0x7f090070
-			public const int alertTitle = 2131296368;
+			// aapt resource value: 0x7f090072
+			public const int alertTitle = 2131296370;
 			
 			// aapt resource value: 0x7f090052
 			public const int all = 2131296338;
@@ -3162,6 +7197,33 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090044
 			public const int auto = 2131296324;
 			
+			// aapt resource value: 0x7f090091
+			public const int bb_bottom_bar_background_overlay = 2131296401;
+			
+			// aapt resource value: 0x7f090090
+			public const int bb_bottom_bar_background_view = 2131296400;
+			
+			// aapt resource value: 0x7f090094
+			public const int bb_bottom_bar_icon = 2131296404;
+			
+			// aapt resource value: 0x7f090092
+			public const int bb_bottom_bar_item_container = 2131296402;
+			
+			// aapt resource value: 0x7f09008e
+			public const int bb_bottom_bar_outer_container = 2131296398;
+			
+			// aapt resource value: 0x7f09008f
+			public const int bb_bottom_bar_shadow = 2131296399;
+			
+			// aapt resource value: 0x7f090095
+			public const int bb_bottom_bar_title = 2131296405;
+			
+			// aapt resource value: 0x7f090093
+			public const int bb_tablet_right_border = 2131296403;
+			
+			// aapt resource value: 0x7f09008d
+			public const int bb_user_content_container = 2131296397;
+			
 			// aapt resource value: 0x7f09002f
 			public const int beginning = 2131296303;
 			
@@ -3171,14 +7233,14 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09003d
 			public const int bottom = 2131296317;
 			
-			// aapt resource value: 0x7f0900c9
-			public const int brandImageView = 2131296457;
+			// aapt resource value: 0x7f0900da
+			public const int brandImageView = 2131296474;
 			
-			// aapt resource value: 0x7f090063
-			public const int buttonPanel = 2131296355;
+			// aapt resource value: 0x7f090065
+			public const int buttonPanel = 2131296357;
 			
-			// aapt resource value: 0x7f0900b7
-			public const int cancel_action = 2131296439;
+			// aapt resource value: 0x7f0900c8
+			public const int cancel_action = 2131296456;
 			
 			// aapt resource value: 0x7f090045
 			public const int center = 2131296325;
@@ -3189,11 +7251,11 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090047
 			public const int center_vertical = 2131296327;
 			
-			// aapt resource value: 0x7f090073
-			public const int checkbox = 2131296371;
+			// aapt resource value: 0x7f090075
+			public const int checkbox = 2131296373;
 			
-			// aapt resource value: 0x7f0900bf
-			public const int chronometer = 2131296447;
+			// aapt resource value: 0x7f0900d0
+			public const int chronometer = 2131296464;
 			
 			// aapt resource value: 0x7f09004e
 			public const int clip_horizontal = 2131296334;
@@ -3204,53 +7266,53 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090039
 			public const int collapseActionView = 2131296313;
 			
-			// aapt resource value: 0x7f09008d
-			public const int container = 2131296397;
+			// aapt resource value: 0x7f090098
+			public const int container = 2131296408;
 			
-			// aapt resource value: 0x7f090066
-			public const int contentPanel = 2131296358;
+			// aapt resource value: 0x7f090068
+			public const int contentPanel = 2131296360;
 			
-			// aapt resource value: 0x7f09008e
-			public const int coordinator = 2131296398;
+			// aapt resource value: 0x7f090099
+			public const int coordinator = 2131296409;
 			
-			// aapt resource value: 0x7f09006d
-			public const int custom = 2131296365;
+			// aapt resource value: 0x7f09006f
+			public const int custom = 2131296367;
 			
-			// aapt resource value: 0x7f09006c
-			public const int customPanel = 2131296364;
+			// aapt resource value: 0x7f09006e
+			public const int customPanel = 2131296366;
 			
-			// aapt resource value: 0x7f09007a
-			public const int decor_content_parent = 2131296378;
+			// aapt resource value: 0x7f09007c
+			public const int decor_content_parent = 2131296380;
 			
-			// aapt resource value: 0x7f090060
-			public const int default_activity_button = 2131296352;
+			// aapt resource value: 0x7f090062
+			public const int default_activity_button = 2131296354;
 			
-			// aapt resource value: 0x7f090090
-			public const int design_bottom_sheet = 2131296400;
+			// aapt resource value: 0x7f09009b
+			public const int design_bottom_sheet = 2131296411;
 			
-			// aapt resource value: 0x7f090097
-			public const int design_menu_item_action_area = 2131296407;
+			// aapt resource value: 0x7f0900a2
+			public const int design_menu_item_action_area = 2131296418;
 			
-			// aapt resource value: 0x7f090096
-			public const int design_menu_item_action_area_stub = 2131296406;
+			// aapt resource value: 0x7f0900a1
+			public const int design_menu_item_action_area_stub = 2131296417;
 			
-			// aapt resource value: 0x7f090095
-			public const int design_menu_item_text = 2131296405;
+			// aapt resource value: 0x7f0900a0
+			public const int design_menu_item_text = 2131296416;
 			
-			// aapt resource value: 0x7f090094
-			public const int design_navigation_view = 2131296404;
+			// aapt resource value: 0x7f09009f
+			public const int design_navigation_view = 2131296415;
 			
 			// aapt resource value: 0x7f090020
 			public const int disableHome = 2131296288;
 			
-			// aapt resource value: 0x7f09007e
-			public const int edit_query = 2131296382;
+			// aapt resource value: 0x7f090080
+			public const int edit_query = 2131296384;
 			
 			// aapt resource value: 0x7f090030
 			public const int end = 2131296304;
 			
-			// aapt resource value: 0x7f0900c5
-			public const int end_padder = 2131296453;
+			// aapt resource value: 0x7f0900d6
+			public const int end_padder = 2131296470;
 			
 			// aapt resource value: 0x7f09003f
 			public const int enterAlways = 2131296319;
@@ -3261,11 +7323,11 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090041
 			public const int exitUntilCollapsed = 2131296321;
 			
-			// aapt resource value: 0x7f09005e
-			public const int expand_activities_button = 2131296350;
+			// aapt resource value: 0x7f090060
+			public const int expand_activities_button = 2131296352;
 			
-			// aapt resource value: 0x7f090072
-			public const int expanded_menu = 2131296370;
+			// aapt resource value: 0x7f090074
+			public const int expanded_menu = 2131296372;
 			
 			// aapt resource value: 0x7f090050
 			public const int fill = 2131296336;
@@ -3291,20 +7353,26 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090021
 			public const int homeAsUp = 2131296289;
 			
-			// aapt resource value: 0x7f090062
-			public const int icon = 2131296354;
+			// aapt resource value: 0x7f09005a
+			public const int horizontal = 2131296346;
 			
-			// aapt resource value: 0x7f0900c4
-			public const int icon_group = 2131296452;
+			// aapt resource value: 0x7f090064
+			public const int icon = 2131296356;
+			
+			// aapt resource value: 0x7f0900d5
+			public const int icon_group = 2131296469;
 			
 			// aapt resource value: 0x7f09003a
 			public const int ifRoom = 2131296314;
 			
-			// aapt resource value: 0x7f09005f
-			public const int image = 2131296351;
+			// aapt resource value: 0x7f090061
+			public const int image = 2131296353;
 			
-			// aapt resource value: 0x7f0900c0
-			public const int info = 2131296448;
+			// aapt resource value: 0x7f0900a9
+			public const int indicator = 2131296425;
+			
+			// aapt resource value: 0x7f0900d1
+			public const int info = 2131296465;
 			
 			// aapt resource value: 0x7f090059
 			public const int italic = 2131296345;
@@ -3312,8 +7380,8 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090000
 			public const int item_touch_helper_previous_elevation = 2131296256;
 			
-			// aapt resource value: 0x7f09008c
-			public const int largeLabel = 2131296396;
+			// aapt resource value: 0x7f090097
+			public const int largeLabel = 2131296407;
 			
 			// aapt resource value: 0x7f090049
 			public const int left = 2131296329;
@@ -3327,17 +7395,17 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09001d
 			public const int listMode = 2131296285;
 			
-			// aapt resource value: 0x7f090061
-			public const int list_item = 2131296353;
+			// aapt resource value: 0x7f090063
+			public const int list_item = 2131296355;
 			
-			// aapt resource value: 0x7f0900cc
-			public const int masked = 2131296460;
-			
-			// aapt resource value: 0x7f0900b9
-			public const int media_actions = 2131296441;
+			// aapt resource value: 0x7f0900dd
+			public const int masked = 2131296477;
 			
 			// aapt resource value: 0x7f0900ca
-			public const int message = 2131296458;
+			public const int media_actions = 2131296458;
+			
+			// aapt resource value: 0x7f0900db
+			public const int message = 2131296475;
 			
 			// aapt resource value: 0x7f090031
 			public const int middle = 2131296305;
@@ -3345,89 +7413,95 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090053
 			public const int mini = 2131296339;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int mr_art = 2131296421;
+			// aapt resource value: 0x7f0900b6
+			public const int mr_art = 2131296438;
 			
-			// aapt resource value: 0x7f09009a
-			public const int mr_chooser_list = 2131296410;
-			
-			// aapt resource value: 0x7f09009d
-			public const int mr_chooser_route_desc = 2131296413;
-			
-			// aapt resource value: 0x7f09009b
-			public const int mr_chooser_route_icon = 2131296411;
-			
-			// aapt resource value: 0x7f09009c
-			public const int mr_chooser_route_name = 2131296412;
-			
-			// aapt resource value: 0x7f090099
-			public const int mr_chooser_title = 2131296409;
-			
-			// aapt resource value: 0x7f0900a2
-			public const int mr_close = 2131296418;
-			
-			// aapt resource value: 0x7f0900a8
-			public const int mr_control_divider = 2131296424;
+			// aapt resource value: 0x7f0900ab
+			public const int mr_chooser_list = 2131296427;
 			
 			// aapt resource value: 0x7f0900ae
-			public const int mr_control_playback_ctrl = 2131296430;
-			
-			// aapt resource value: 0x7f0900b1
-			public const int mr_control_subtitle = 2131296433;
-			
-			// aapt resource value: 0x7f0900b0
-			public const int mr_control_title = 2131296432;
-			
-			// aapt resource value: 0x7f0900af
-			public const int mr_control_title_container = 2131296431;
-			
-			// aapt resource value: 0x7f0900a3
-			public const int mr_custom_control = 2131296419;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int mr_default_control = 2131296420;
-			
-			// aapt resource value: 0x7f09009f
-			public const int mr_dialog_area = 2131296415;
-			
-			// aapt resource value: 0x7f09009e
-			public const int mr_expandable_area = 2131296414;
-			
-			// aapt resource value: 0x7f0900b2
-			public const int mr_group_expand_collapse = 2131296434;
-			
-			// aapt resource value: 0x7f0900a6
-			public const int mr_media_main_control = 2131296422;
-			
-			// aapt resource value: 0x7f0900a1
-			public const int mr_name = 2131296417;
-			
-			// aapt resource value: 0x7f0900a7
-			public const int mr_playback_control = 2131296423;
-			
-			// aapt resource value: 0x7f0900a0
-			public const int mr_title_bar = 2131296416;
-			
-			// aapt resource value: 0x7f0900a9
-			public const int mr_volume_control = 2131296425;
-			
-			// aapt resource value: 0x7f0900aa
-			public const int mr_volume_group_list = 2131296426;
+			public const int mr_chooser_route_desc = 2131296430;
 			
 			// aapt resource value: 0x7f0900ac
-			public const int mr_volume_item_icon = 2131296428;
+			public const int mr_chooser_route_icon = 2131296428;
 			
 			// aapt resource value: 0x7f0900ad
-			public const int mr_volume_slider = 2131296429;
+			public const int mr_chooser_route_name = 2131296429;
+			
+			// aapt resource value: 0x7f0900aa
+			public const int mr_chooser_title = 2131296426;
+			
+			// aapt resource value: 0x7f0900b3
+			public const int mr_close = 2131296435;
+			
+			// aapt resource value: 0x7f0900b9
+			public const int mr_control_divider = 2131296441;
+			
+			// aapt resource value: 0x7f0900bf
+			public const int mr_control_playback_ctrl = 2131296447;
+			
+			// aapt resource value: 0x7f0900c2
+			public const int mr_control_subtitle = 2131296450;
+			
+			// aapt resource value: 0x7f0900c1
+			public const int mr_control_title = 2131296449;
+			
+			// aapt resource value: 0x7f0900c0
+			public const int mr_control_title_container = 2131296448;
+			
+			// aapt resource value: 0x7f0900b4
+			public const int mr_custom_control = 2131296436;
+			
+			// aapt resource value: 0x7f0900b5
+			public const int mr_default_control = 2131296437;
+			
+			// aapt resource value: 0x7f0900b0
+			public const int mr_dialog_area = 2131296432;
+			
+			// aapt resource value: 0x7f0900af
+			public const int mr_expandable_area = 2131296431;
+			
+			// aapt resource value: 0x7f0900c3
+			public const int mr_group_expand_collapse = 2131296451;
+			
+			// aapt resource value: 0x7f0900b7
+			public const int mr_media_main_control = 2131296439;
+			
+			// aapt resource value: 0x7f0900b2
+			public const int mr_name = 2131296434;
+			
+			// aapt resource value: 0x7f0900b8
+			public const int mr_playback_control = 2131296440;
+			
+			// aapt resource value: 0x7f0900b1
+			public const int mr_title_bar = 2131296433;
+			
+			// aapt resource value: 0x7f0900ba
+			public const int mr_volume_control = 2131296442;
+			
+			// aapt resource value: 0x7f0900bb
+			public const int mr_volume_group_list = 2131296443;
+			
+			// aapt resource value: 0x7f0900bd
+			public const int mr_volume_item_icon = 2131296445;
+			
+			// aapt resource value: 0x7f0900be
+			public const int mr_volume_slider = 2131296446;
 			
 			// aapt resource value: 0x7f090028
 			public const int multiply = 2131296296;
 			
-			// aapt resource value: 0x7f090093
-			public const int navigation_header_container = 2131296403;
+			// aapt resource value: 0x7f09009e
+			public const int navigation_header_container = 2131296414;
 			
 			// aapt resource value: 0x7f09003b
 			public const int never = 2131296315;
+			
+			// aapt resource value: 0x7f0900a7
+			public const int next = 2131296423;
+			
+			// aapt resource value: 0x7f0900a8
+			public const int nextArrow = 2131296424;
 			
 			// aapt resource value: 0x7f090022
 			public const int none = 2131296290;
@@ -3435,20 +7509,23 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09001e
 			public const int normal = 2131296286;
 			
-			// aapt resource value: 0x7f0900c2
-			public const int notification_background = 2131296450;
+			// aapt resource value: 0x7f0900d3
+			public const int notification_background = 2131296467;
 			
-			// aapt resource value: 0x7f0900bc
-			public const int notification_main_column = 2131296444;
+			// aapt resource value: 0x7f0900cd
+			public const int notification_main_column = 2131296461;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int notification_main_column_container = 2131296443;
+			// aapt resource value: 0x7f0900cc
+			public const int notification_main_column_container = 2131296460;
+			
+			// aapt resource value: 0x7f0900a4
+			public const int pager = 2131296420;
 			
 			// aapt resource value: 0x7f09004c
 			public const int parallax = 2131296332;
 			
-			// aapt resource value: 0x7f090065
-			public const int parentPanel = 2131296357;
+			// aapt resource value: 0x7f090067
+			public const int parentPanel = 2131296359;
 			
 			// aapt resource value: 0x7f09000b
 			public const int parent_matrix = 2131296267;
@@ -3456,23 +7533,29 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09004d
 			public const int pin = 2131296333;
 			
+			// aapt resource value: 0x7f0900a5
+			public const int prev = 2131296421;
+			
+			// aapt resource value: 0x7f0900a6
+			public const int prevArrow = 2131296422;
+			
 			// aapt resource value: 0x7f090006
 			public const int progress_circular = 2131296262;
 			
 			// aapt resource value: 0x7f090007
 			public const int progress_horizontal = 2131296263;
 			
-			// aapt resource value: 0x7f090075
-			public const int radio = 2131296373;
+			// aapt resource value: 0x7f090077
+			public const int radio = 2131296375;
 			
 			// aapt resource value: 0x7f09004a
 			public const int right = 2131296330;
 			
-			// aapt resource value: 0x7f0900c1
-			public const int right_icon = 2131296449;
+			// aapt resource value: 0x7f0900d2
+			public const int right_icon = 2131296466;
 			
-			// aapt resource value: 0x7f0900bd
-			public const int right_side = 2131296445;
+			// aapt resource value: 0x7f0900ce
+			public const int right_side = 2131296462;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -3489,56 +7572,56 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090042
 			public const int scroll = 2131296322;
 			
-			// aapt resource value: 0x7f09006b
-			public const int scrollIndicatorDown = 2131296363;
+			// aapt resource value: 0x7f09006d
+			public const int scrollIndicatorDown = 2131296365;
 			
-			// aapt resource value: 0x7f090067
-			public const int scrollIndicatorUp = 2131296359;
+			// aapt resource value: 0x7f090069
+			public const int scrollIndicatorUp = 2131296361;
 			
-			// aapt resource value: 0x7f090068
-			public const int scrollView = 2131296360;
+			// aapt resource value: 0x7f09006a
+			public const int scrollView = 2131296362;
 			
 			// aapt resource value: 0x7f090055
 			public const int scrollable = 2131296341;
 			
-			// aapt resource value: 0x7f090080
-			public const int search_badge = 2131296384;
-			
-			// aapt resource value: 0x7f09007f
-			public const int search_bar = 2131296383;
+			// aapt resource value: 0x7f090082
+			public const int search_badge = 2131296386;
 			
 			// aapt resource value: 0x7f090081
-			public const int search_button = 2131296385;
-			
-			// aapt resource value: 0x7f090086
-			public const int search_close_btn = 2131296390;
-			
-			// aapt resource value: 0x7f090082
-			public const int search_edit_frame = 2131296386;
-			
-			// aapt resource value: 0x7f090088
-			public const int search_go_btn = 2131296392;
+			public const int search_bar = 2131296385;
 			
 			// aapt resource value: 0x7f090083
-			public const int search_mag_icon = 2131296387;
+			public const int search_button = 2131296387;
+			
+			// aapt resource value: 0x7f090088
+			public const int search_close_btn = 2131296392;
 			
 			// aapt resource value: 0x7f090084
-			public const int search_plate = 2131296388;
-			
-			// aapt resource value: 0x7f090085
-			public const int search_src_text = 2131296389;
-			
-			// aapt resource value: 0x7f090089
-			public const int search_voice_btn = 2131296393;
+			public const int search_edit_frame = 2131296388;
 			
 			// aapt resource value: 0x7f09008a
-			public const int select_dialog_listview = 2131296394;
+			public const int search_go_btn = 2131296394;
 			
-			// aapt resource value: 0x7f0900cd
-			public const int shape_id = 2131296461;
+			// aapt resource value: 0x7f090085
+			public const int search_mag_icon = 2131296389;
 			
-			// aapt resource value: 0x7f090074
-			public const int shortcut = 2131296372;
+			// aapt resource value: 0x7f090086
+			public const int search_plate = 2131296390;
+			
+			// aapt resource value: 0x7f090087
+			public const int search_src_text = 2131296391;
+			
+			// aapt resource value: 0x7f09008b
+			public const int search_voice_btn = 2131296395;
+			
+			// aapt resource value: 0x7f09008c
+			public const int select_dialog_listview = 2131296396;
+			
+			// aapt resource value: 0x7f0900de
+			public const int shape_id = 2131296478;
+			
+			// aapt resource value: 0x7f090076
+			public const int shortcut = 2131296374;
 			
 			// aapt resource value: 0x7f090023
 			public const int showCustom = 2131296291;
@@ -3549,23 +7632,23 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090025
 			public const int showTitle = 2131296293;
 			
-			// aapt resource value: 0x7f0900c7
-			public const int sliding_tabs = 2131296455;
+			// aapt resource value: 0x7f0900d8
+			public const int sliding_tabs = 2131296472;
 			
-			// aapt resource value: 0x7f09008b
-			public const int smallLabel = 2131296395;
+			// aapt resource value: 0x7f090096
+			public const int smallLabel = 2131296406;
 			
-			// aapt resource value: 0x7f090092
-			public const int snackbar_action = 2131296402;
+			// aapt resource value: 0x7f09009d
+			public const int snackbar_action = 2131296413;
 			
-			// aapt resource value: 0x7f090091
-			public const int snackbar_text = 2131296401;
+			// aapt resource value: 0x7f09009c
+			public const int snackbar_text = 2131296412;
 			
 			// aapt resource value: 0x7f090043
 			public const int snap = 2131296323;
 			
-			// aapt resource value: 0x7f090064
-			public const int spacer = 2131296356;
+			// aapt resource value: 0x7f090066
+			public const int spacer = 2131296358;
 			
 			// aapt resource value: 0x7f090008
 			public const int split_action_bar = 2131296264;
@@ -3582,14 +7665,14 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09004b
 			public const int start = 2131296331;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int status_bar_latest_event_content = 2131296440;
+			// aapt resource value: 0x7f0900c9
+			public const int status_bar_latest_event_content = 2131296457;
 			
-			// aapt resource value: 0x7f090076
-			public const int submenuarrow = 2131296374;
+			// aapt resource value: 0x7f090078
+			public const int submenuarrow = 2131296376;
 			
-			// aapt resource value: 0x7f090087
-			public const int submit_area = 2131296391;
+			// aapt resource value: 0x7f090089
+			public const int submit_area = 2131296393;
 			
 			// aapt resource value: 0x7f09001f
 			public const int tabMode = 2131296287;
@@ -3603,14 +7686,14 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f09001b
 			public const int text2 = 2131296283;
 			
-			// aapt resource value: 0x7f09006a
-			public const int textSpacerNoButtons = 2131296362;
+			// aapt resource value: 0x7f09006c
+			public const int textSpacerNoButtons = 2131296364;
 			
-			// aapt resource value: 0x7f090069
-			public const int textSpacerNoTitle = 2131296361;
+			// aapt resource value: 0x7f09006b
+			public const int textSpacerNoTitle = 2131296363;
 			
-			// aapt resource value: 0x7f090098
-			public const int text_input_password_toggle = 2131296408;
+			// aapt resource value: 0x7f0900a3
+			public const int text_input_password_toggle = 2131296419;
 			
 			// aapt resource value: 0x7f090014
 			public const int textinput_counter = 2131296276;
@@ -3618,29 +7701,29 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900be
-			public const int time = 2131296446;
+			// aapt resource value: 0x7f0900cf
+			public const int time = 2131296463;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
 			
+			// aapt resource value: 0x7f090073
+			public const int titleDividerNoCustom = 2131296371;
+			
 			// aapt resource value: 0x7f090071
-			public const int titleDividerNoCustom = 2131296369;
+			public const int title_template = 2131296369;
 			
-			// aapt resource value: 0x7f09006f
-			public const int title_template = 2131296367;
-			
-			// aapt resource value: 0x7f0900c8
-			public const int toolbar = 2131296456;
+			// aapt resource value: 0x7f0900d9
+			public const int toolbar = 2131296473;
 			
 			// aapt resource value: 0x7f09003e
 			public const int top = 2131296318;
 			
-			// aapt resource value: 0x7f09006e
-			public const int topPanel = 2131296366;
+			// aapt resource value: 0x7f090070
+			public const int topPanel = 2131296368;
 			
-			// aapt resource value: 0x7f09008f
-			public const int touch_outside = 2131296399;
+			// aapt resource value: 0x7f09009a
+			public const int touch_outside = 2131296410;
 			
 			// aapt resource value: 0x7f09000f
 			public const int transition_current_scene = 2131296271;
@@ -3666,14 +7749,17 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f090026
 			public const int useLogo = 2131296294;
 			
+			// aapt resource value: 0x7f09005b
+			public const int vertical = 2131296347;
+			
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900cb
-			public const int visible = 2131296459;
+			// aapt resource value: 0x7f0900dc
+			public const int visible = 2131296476;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int volume_item_container = 2131296427;
+			// aapt resource value: 0x7f0900bc
+			public const int volume_item_container = 2131296444;
 			
 			// aapt resource value: 0x7f09003c
 			public const int withText = 2131296316;
@@ -3711,6 +7797,9 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0b0006
 			public const int config_tooltipAnimTime = 2131427334;
+			
+			// aapt resource value: 0x7f0b000d
+			public const int default_circle_indicator_orientation = 2131427341;
 			
 			// aapt resource value: 0x7f0b0007
 			public const int design_snackbar_text_max_lines = 2131427335;
@@ -3844,136 +7933,157 @@ namespace EksiSozluk.CloneUI.Droid
 			public const int abc_select_dialog_material = 2130968601;
 			
 			// aapt resource value: 0x7f04001a
-			public const int design_bottom_navigation_item = 2130968602;
+			public const int bb_bottom_bar_item_container = 2130968602;
 			
 			// aapt resource value: 0x7f04001b
-			public const int design_bottom_sheet_dialog = 2130968603;
+			public const int bb_bottom_bar_item_container_tablet = 2130968603;
 			
 			// aapt resource value: 0x7f04001c
-			public const int design_layout_snackbar = 2130968604;
+			public const int bb_bottom_bar_item_fixed = 2130968604;
 			
 			// aapt resource value: 0x7f04001d
-			public const int design_layout_snackbar_include = 2130968605;
+			public const int bb_bottom_bar_item_fixed_tablet = 2130968605;
 			
 			// aapt resource value: 0x7f04001e
-			public const int design_layout_tab_icon = 2130968606;
+			public const int bb_bottom_bar_item_shifting = 2130968606;
 			
 			// aapt resource value: 0x7f04001f
-			public const int design_layout_tab_text = 2130968607;
+			public const int design_bottom_navigation_item = 2130968607;
 			
 			// aapt resource value: 0x7f040020
-			public const int design_menu_item_action_area = 2130968608;
+			public const int design_bottom_sheet_dialog = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int design_navigation_item = 2130968609;
+			public const int design_layout_snackbar = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int design_navigation_item_header = 2130968610;
+			public const int design_layout_snackbar_include = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int design_navigation_item_separator = 2130968611;
+			public const int design_layout_tab_icon = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int design_navigation_item_subheader = 2130968612;
+			public const int design_layout_tab_text = 2130968612;
 			
 			// aapt resource value: 0x7f040025
-			public const int design_navigation_menu = 2130968613;
+			public const int design_menu_item_action_area = 2130968613;
 			
 			// aapt resource value: 0x7f040026
-			public const int design_navigation_menu_item = 2130968614;
+			public const int design_navigation_item = 2130968614;
 			
 			// aapt resource value: 0x7f040027
-			public const int design_text_input_password_icon = 2130968615;
+			public const int design_navigation_item_header = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int mr_chooser_dialog = 2130968616;
+			public const int design_navigation_item_separator = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int mr_chooser_list_item = 2130968617;
+			public const int design_navigation_item_subheader = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int mr_controller_material_dialog_b = 2130968618;
+			public const int design_navigation_menu = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int mr_controller_volume_item = 2130968619;
+			public const int design_navigation_menu_item = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int mr_playback_control = 2130968620;
+			public const int design_text_input_password_icon = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int mr_volume_control = 2130968621;
+			public const int horizontal_viewpager = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_action = 2130968622;
+			public const int mr_chooser_dialog = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_action_tombstone = 2130968623;
+			public const int mr_chooser_list_item = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_media_action = 2130968624;
+			public const int mr_controller_material_dialog_b = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_media_cancel_action = 2130968625;
+			public const int mr_controller_volume_item = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_big_media = 2130968626;
+			public const int mr_playback_control = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_big_media_custom = 2130968627;
+			public const int mr_volume_control = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_big_media_narrow = 2130968628;
+			public const int notification_action = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_big_media_narrow_custom = 2130968629;
+			public const int notification_action_tombstone = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_custom_big = 2130968630;
+			public const int notification_media_action = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_icon_group = 2130968631;
+			public const int notification_media_cancel_action = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_lines_media = 2130968632;
+			public const int notification_template_big_media = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int notification_template_media = 2130968633;
+			public const int notification_template_big_media_custom = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int notification_template_media_custom = 2130968634;
+			public const int notification_template_big_media_narrow = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int notification_template_part_chronometer = 2130968635;
+			public const int notification_template_big_media_narrow_custom = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int notification_template_part_time = 2130968636;
+			public const int notification_template_custom_big = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int RadioButton = 2130968637;
+			public const int notification_template_icon_group = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int RadioGroup = 2130968638;
+			public const int notification_template_lines_media = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int select_dialog_item_material = 2130968639;
+			public const int notification_template_media = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int select_dialog_multichoice_material = 2130968640;
+			public const int notification_template_media_custom = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int select_dialog_singlechoice_material = 2130968641;
+			public const int notification_template_part_chronometer = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int support_simple_spinner_dropdown_item = 2130968642;
+			public const int notification_template_part_time = 2130968642;
 			
 			// aapt resource value: 0x7f040043
-			public const int Tabbar = 2130968643;
+			public const int RadioButton = 2130968643;
 			
 			// aapt resource value: 0x7f040044
-			public const int Toolbar = 2130968644;
+			public const int RadioGroup = 2130968644;
 			
 			// aapt resource value: 0x7f040045
-			public const int tooltip = 2130968645;
+			public const int select_dialog_item_material = 2130968645;
+			
+			// aapt resource value: 0x7f040046
+			public const int select_dialog_multichoice_material = 2130968646;
+			
+			// aapt resource value: 0x7f040047
+			public const int select_dialog_singlechoice_material = 2130968647;
+			
+			// aapt resource value: 0x7f040048
+			public const int support_simple_spinner_dropdown_item = 2130968648;
+			
+			// aapt resource value: 0x7f040049
+			public const int Tabbar = 2130968649;
+			
+			// aapt resource value: 0x7f04004a
+			public const int Toolbar = 2130968650;
+			
+			// aapt resource value: 0x7f04004b
+			public const int tooltip = 2130968651;
+			
+			// aapt resource value: 0x7f04004c
+			public const int vertical_viewpager = 2130968652;
 			
 			static Layout()
 			{
@@ -4097,6 +8207,9 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0a0025
 			public const int abc_toolbar_collapse_description = 2131361829;
 			
+			// aapt resource value: 0x7f0a003d
+			public const int app_name = 2131361853;
+			
 			// aapt resource value: 0x7f0a0033
 			public const int appbar_scrolling_view_behavior = 2131361843;
 			
@@ -4105,6 +8218,9 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0a0035
 			public const int character_counter_pattern = 2131361845;
+			
+			// aapt resource value: 0x7f0a003c
+			public const int library_name = 2131361852;
 			
 			// aapt resource value: 0x7f0a0000
 			public const int mr_button_content_description = 2131361792;
@@ -4221,8 +8337,32 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0c016e
 			public const int Animation_Design_BottomSheetDialog = 2131493230;
 			
-			// aapt resource value: 0x7f0c0191
-			public const int AppCompatDialogStyle = 2131493265;
+			// aapt resource value: 0x7f0c019c
+			public const int AppCompatDialogStyle = 2131493276;
+			
+			// aapt resource value: 0x7f0c0199
+			public const int BB_BottomBarBadge_Text = 2131493273;
+			
+			// aapt resource value: 0x7f0c0192
+			public const int BB_BottomBarItem = 2131493266;
+			
+			// aapt resource value: 0x7f0c0193
+			public const int BB_BottomBarItem_Fixed = 2131493267;
+			
+			// aapt resource value: 0x7f0c0195
+			public const int BB_BottomBarItem_Fixed_TitleAppearance = 2131493269;
+			
+			// aapt resource value: 0x7f0c0196
+			public const int BB_BottomBarItem_Shifting = 2131493270;
+			
+			// aapt resource value: 0x7f0c0197
+			public const int BB_BottomBarItem_Shifting_TitleAppearance = 2131493271;
+			
+			// aapt resource value: 0x7f0c0198
+			public const int BB_BottomBarItem_Tablet = 2131493272;
+			
+			// aapt resource value: 0x7f0c0194
+			public const int BB_BottomBarItem_TitleStyle = 2131493268;
 			
 			// aapt resource value: 0x7f0c00a9
 			public const int Base_AlertDialog_AppCompat = 2131493033;
@@ -4725,11 +8865,11 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0c000e
 			public const int CardView_Light = 2131492878;
 			
-			// aapt resource value: 0x7f0c018f
-			public const int MainTheme = 2131493263;
+			// aapt resource value: 0x7f0c019a
+			public const int MainTheme = 2131493274;
 			
-			// aapt resource value: 0x7f0c0190
-			public const int MainTheme_Base = 2131493264;
+			// aapt resource value: 0x7f0c019b
+			public const int MainTheme_Base = 2131493275;
 			
 			// aapt resource value: 0x7f0c002d
 			public const int Platform_AppCompat = 2131492909;
@@ -5121,6 +9261,9 @@ namespace EksiSozluk.CloneUI.Droid
 			// aapt resource value: 0x7f0c0006
 			public const int Theme_MediaRouter_LightControlPanel = 2131492870;
 			
+			// aapt resource value: 0x7f0c018f
+			public const int Theme_PageIndicatorDefaults = 2131493263;
+			
 			// aapt resource value: 0x7f0c0116
 			public const int ThemeOverlay_AppCompat = 2131493142;
 			
@@ -5147,6 +9290,9 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0c0008
 			public const int ThemeOverlay_MediaRouter_Light = 2131492872;
+			
+			// aapt resource value: 0x7f0c0190
+			public const int Widget = 2131493264;
 			
 			// aapt resource value: 0x7f0c011d
 			public const int Widget_AppCompat_ActionBar = 2131493149;
@@ -5363,6 +9509,9 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 0x7f0c0164
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131493220;
+			
+			// aapt resource value: 0x7f0c0191
+			public const int Widget_CirclePageIndicator = 2131493265;
 			
 			// aapt resource value: 0x7f0c018c
 			public const int Widget_Compat_NotificationActionContainer = 2131493260;
@@ -6335,6 +10484,40 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 11
 			public const int CardView_contentPaddingTop = 11;
+			
+			public static int[] CirclePageIndicator = new int[] {
+					2130772340,
+					2130772341,
+					2130772342,
+					2130772343,
+					2130772344,
+					2130772345,
+					2130772346,
+					2130772347};
+			
+			// aapt resource value: 0
+			public const int CirclePageIndicator_vpiCentered = 0;
+			
+			// aapt resource value: 5
+			public const int CirclePageIndicator_vpiFillColor = 5;
+			
+			// aapt resource value: 2
+			public const int CirclePageIndicator_vpiOrientation = 2;
+			
+			// aapt resource value: 1
+			public const int CirclePageIndicator_vpiPageColor = 1;
+			
+			// aapt resource value: 4
+			public const int CirclePageIndicator_vpiRadius = 4;
+			
+			// aapt resource value: 3
+			public const int CirclePageIndicator_vpiSnap = 3;
+			
+			// aapt resource value: 6
+			public const int CirclePageIndicator_vpiStrokeColor = 6;
+			
+			// aapt resource value: 7
+			public const int CirclePageIndicator_vpiStrokeWidth = 7;
 			
 			public static int[] CollapsingToolbarLayout = new int[] {
 					2130772005,
@@ -7523,6 +11706,12 @@ namespace EksiSozluk.CloneUI.Droid
 			
 			// aapt resource value: 2
 			public const int ViewBackgroundHelper_backgroundTintMode = 2;
+			
+			public static int[] ViewPagerIndicator = new int[] {
+					2130772339};
+			
+			// aapt resource value: 0
+			public const int ViewPagerIndicator_vpiCirclePageIndicatorStyle = 0;
 			
 			public static int[] ViewStubCompat = new int[] {
 					16842960,
