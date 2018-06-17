@@ -117,7 +117,7 @@
             <Style x:Key="H3-Semibold"
                    TargetType="custom:CustomLabel">
                 <Setter Property="FontSize"
-                        Value="20" />
+                        Value="16" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
             </Style>
@@ -163,7 +163,7 @@
             <Style x:Key="H3-Bold"
                    TargetType="custom:CustomLabel">
                 <Setter Property="FontSize"
-                        Value="20" />
+                        Value="16" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-B.ttf" />
             </Style>
