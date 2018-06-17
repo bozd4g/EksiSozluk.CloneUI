@@ -7,6 +7,14 @@ This repository is Eksi Sozluk's cloned interface is one of the largest dictiona
 
 ## Demo
 
+1. Login
+2. Signup
+3. Headlines
+4. Search
+5. Messages
+6. Notifications
+7. Profile
+
 ## Clone & Download
 ``` 
 git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk
