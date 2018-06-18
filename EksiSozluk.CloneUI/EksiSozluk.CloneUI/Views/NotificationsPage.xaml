@@ -2,13 +2,84 @@
 
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
+             xmlns:viewModels="clr-namespace:EksiSozluk.CloneUI.ViewModels;assembly=EksiSozluk.CloneUI"
              x:Class="EksiSozluk.CloneUI.Views.NotificationsPage"
-             Icon="Notification.png">
+             x:Name="NotificationsContentPage"
+             Icon="Notification.png"
+             BackgroundColor="White">
+
+    <ContentPage.BindingContext>
+        <viewModels:NotificationsPageViewModel />
+    </ContentPage.BindingContext>
+
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                   VerticalOptions="CenterAndExpand"
-                   HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <ContentView Grid.Row="0">
+                <custom:CustomLabel Text="takip ettiğim başlıklar"
+                                    TextColor="{StaticResource PrimaryTextColor}"
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="Center"
+                                    Style="{StaticResource H3-Semibold}" />
+            </ContentView>
+
+            <ContentView Grid.Row="1">
+                <Grid Style="{StaticResource SeparatorGrid}" />
+            </ContentView>
+
+            <ContentView Grid.Row="2">
+                <ListView ItemsSource="{Binding List}"
+                          HasUnevenRows="True"
+                          SeparatorVisibility="None"
+                          custom:ItemTappedAttached.Command="{Binding Path=BindingContext.ItemSelectedCommand,
+                          Source={x:Reference NotificationsContentPage}}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Spacing="0">
+                                    <Grid Padding="20,10">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+
+                                        <ContentView Grid.Column="0">
+                                            <custom:CustomLabel Text="{Binding Title}"
+                                                                TextColor="{StaticResource PrimaryTextColor}"
+                                                                VerticalOptions="Center"
+                                                                Style="{StaticResource H3-Regular}" />
+                                        </ContentView>
+                                        <ContentView Grid.Column="1"
+                                                     HeightRequest="25"
+                                                     IsVisible="{Binding HasNotify, Mode=OneWay}">
+                                            <Grid Padding="10,0">
+                                                <custom:CircleView HeightRequest="22.5"
+                                                                   WidthRequest="22.5"
+                                                                   CornerRadius="20"
+                                                                   BackgroundColor="{StaticResource PrimaryColor}"
+                                                                   VerticalOptions="Center"/>
+                                                <custom:CustomLabel Text="{Binding NotifyCount}"
+                                                                    TextColor="White"
+                                                                    VerticalOptions="Center"
+                                                                    HorizontalOptions="Center"
+                                                                    Style="{StaticResource H4-Regular}"/>
+                                            </Grid>
+                                        </ContentView>
+                                    </Grid>
+                                    <Grid Style="{StaticResource SeparatorGrid}" />
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ContentView>
+
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
