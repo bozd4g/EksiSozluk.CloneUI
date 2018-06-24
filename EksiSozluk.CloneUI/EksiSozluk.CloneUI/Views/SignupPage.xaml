@@ -3,7 +3,6 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
-             xmlns:htmlLabel="clr-namespace:Plugin.HtmlLabel;assembly=Plugin.HtmlLabel"
              xmlns:abstractions="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
              xmlns:viewModels="clr-namespace:EksiSozluk.CloneUI.ViewModels;assembly=EksiSozluk.CloneUI"
              x:Class="EksiSozluk.CloneUI.Views.SignupPage"
@@ -89,7 +88,7 @@
                                         Style="{StaticResource DefaultEntry}" />
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <ContentView Padding="15,2.5">
-                        <htmlLabel:HtmlLabel x:Name="PasswordInformationLabel"
+                        <custom:HtmlLabel x:Name="PasswordInformationLabel"
                                              FontSize="13"
                                              FontFamily="fonts/SourceSansPro-R.ttf"
                                              TextColor="{StaticResource DividerColor}" />
@@ -129,7 +128,7 @@
                             </Grid>
                         </ContentView>
                         <ContentView Grid.Column="1">
-                            <htmlLabel:HtmlLabel x:Name="AgreementLabel"
+                            <custom:HtmlLabel x:Name="AgreementLabel"
                                                  FontSize="13"
                                                  FontFamily="fonts/SourceSansPro-R.ttf"
                                                  TextColor="{StaticResource DividerColor}" />

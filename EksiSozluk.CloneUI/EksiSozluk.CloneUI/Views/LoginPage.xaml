@@ -82,6 +82,8 @@
                         <ContentView Grid.Column="1">
                             <custom:RoundedButton Text="giriş yapmaya çabala"
                                                   HorizontalOptions="FillAndExpand"
+                                                  Command="{Binding Path=BindingContext.LoginCommand,
+                                                  Source={x:Reference LoginContentPage}}"
                                                   Style="{StaticResource PrimaryButton}" />
                         </ContentView>
                     </Grid>

@@ -10,11 +10,17 @@ namespace EksiSozluk.CloneUI.ViewModels
     {
         public LoginPageViewModel()
         {
+            LoginCommand = new Command(OnLogin);
             SignupCommand = new Command(OnSignup);
         }
 
+        public ICommand LoginCommand { get; set; }
         public ICommand SignupCommand { get; set; }
 
+        private void OnLogin()
+        {
+            Application.Current.MainPage = new HomePage();
+        }
         private async void OnSignup()
         {
             await NavigationHelper.PushModalAsync(new NavigationPage(new SignupPage()));

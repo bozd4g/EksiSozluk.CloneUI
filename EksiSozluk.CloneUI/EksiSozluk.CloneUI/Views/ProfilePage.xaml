@@ -1,13 +1,339 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:EksiSozluk.CloneUI.Custom;assembly=EksiSozluk.CloneUI"
+             xmlns:abstractions="clr-namespace:Plugin.CrossPlatformTintedImage.Abstractions;assembly=Plugin.CrossPlatformTintedImage.Abstractions"
+             xmlns:viewModels="clr-namespace:EksiSozluk.CloneUI.ViewModels;assembly=EksiSozluk.CloneUI"
              x:Class="EksiSozluk.CloneUI.Views.ProfilePage"
-             Icon="User.png">
+             x:Name="ProfileContentPage"
+             Icon="User.png"
+             BackgroundColor="White">
+
+    <ContentPage.BindingContext>
+        <viewModels:ProfilePageViewModel />
+    </ContentPage.BindingContext>
+
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <Grid RowSpacing="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <ContentView Grid.Row="0">
+                <StackLayout Spacing="0">
+                    <ContentView HeightRequest="45">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+
+                            <ContentView Grid.Column="0"
+                                         x:Name="ProfileNameContentView"
+                                         Opacity="0">
+                                <StackLayout Orientation="Horizontal"
+                                             Spacing="10"
+                                             VerticalOptions="Center">
+                                    <Grid Margin="10,7.5,0,7.5"
+                                          VerticalOptions="Center">
+                                        <custom:CircleView HeightRequest="35"
+                                                           WidthRequest="35"
+                                                           CornerRadius="50"
+                                                           VerticalOptions="Center"
+                                                           HorizontalOptions="Center"
+                                                           BackgroundColor="{StaticResource WindowBackgroundColor}" />
+                                        <custom:CustomLabel Text="{Binding ProfileShortName, Mode=OneWay}"
+                                                            TextColor="{StaticResource PrimaryTextColor}"
+                                                            HorizontalOptions="Center"
+                                                            VerticalOptions="Center"
+                                                            Style="{StaticResource H4-Regular}" />
+                                    </Grid>
+                                    <custom:CustomLabel Text="{Binding ProfileName, Mode=OneWay}"
+                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                        VerticalOptions="Center"
+                                                        Style="{StaticResource H4-Semibold}" />
+                                </StackLayout>
+                            </ContentView>
+
+                            <ContentView Grid.Column="1"
+                                         VerticalOptions="Center"
+                                         Margin="0,0,20,0">
+                                <abstractions:TintedImage Source="Settings.png"
+                                                          TintColor="{StaticResource PrimaryColor}"
+                                                          HorizontalOptions="End"
+                                                          HeightRequest="20"
+                                                          WidthRequest="20" />
+                            </ContentView>
+                        </Grid>
+                    </ContentView>
+                    <ContentView x:Name="StickySegmentsContentView"
+                                 HorizontalOptions="FillAndExpand"
+                                 VerticalOptions="Center"
+                                 Padding="10,7.5"
+                                 BackgroundColor="{StaticResource WindowBackgroundColor}"
+                                 IsVisible="False"
+                                 Opacity="0">
+                        <custom:SegmentedControl SelectedSegment="0"
+                                                 SelectedTextColor="White"
+                                                 UnselectedTextColor="{StaticResource PrimaryTextColor}"
+                                                 TextColor="{StaticResource PrimaryTextColor}"
+                                                 TintColor="{StaticResource PrimaryColor}">
+                            <custom:SegmentedControl.Children>
+                                <custom:SegmentedControlOption Text="entryleri" />
+                                <custom:SegmentedControlOption Text="favorileri" />
+                                <custom:SegmentedControlOption Text="istatistikler" />
+                            </custom:SegmentedControl.Children>
+                        </custom:SegmentedControl>
+                    </ContentView>
+                </StackLayout>
+            </ContentView>
+
+            <ContentView Grid.Row="1">
+                <ScrollView x:Name="ProfileScrollView"
+                            Scrolled="ProfileScrollView_OnScrolled">
+                    <Grid RowSpacing="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+
+                        <ContentView Grid.Row="0">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <ContentView Grid.Column="0"
+                                             Margin="20,5,10,5">
+                                    <Grid VerticalOptions="Start">
+                                        <custom:CircleView HeightRequest="75"
+                                                           WidthRequest="75"
+                                                           CornerRadius="50"
+                                                           VerticalOptions="Center"
+                                                           HorizontalOptions="Center"
+                                                           BackgroundColor="{StaticResource WindowBackgroundColor}" />
+                                        <custom:CustomLabel Text="{Binding ProfileShortName, Mode=OneWay}"
+                                                            TextColor="{StaticResource PrimaryTextColor}"
+                                                            HorizontalOptions="Center"
+                                                            VerticalOptions="Center"
+                                                            Style="{StaticResource H2-Regular}" />
+                                    </Grid>
+                                </ContentView>
+
+                                <ContentView Grid.Column="1">
+                                    <StackLayout VerticalOptions="Start"
+                                                 Margin="0,7.5,0,20">
+
+                                        <custom:CustomLabel Text="{Binding ProfileName, Mode=OneWay}"
+                                                            TextColor="{StaticResource PrimaryTextColor}"
+                                                            Style="{StaticResource H3-Semibold}" />
+
+                                        <StackLayout Orientation="Horizontal">
+                                            <custom:HtmlLabel Text="{Binding OrderText}"
+                                                              VerticalOptions="Center"
+                                                              TextColor="{StaticResource PrimaryTextColor}"
+                                                              FontSize="12"
+                                                              FontName="SourceSansPro-R.ttf" />
+                                            <abstractions:TintedImage Source="Question.png"
+                                                                      TintColor="{StaticResource PrimaryColor}"
+                                                                      HeightRequest="15"
+                                                                      WidthRequest="15"
+                                                                      VerticalOptions="Center" />
+                                        </StackLayout>
+
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+
+                                            <ContentView Grid.Column="0">
+                                                <StackLayout Spacing="3">
+                                                    <custom:CustomLabel Text="{Binding EntryCount, Mode=OneWay}"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H4-Semibold}" />
+                                                    <custom:CustomLabel Text="entry"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H5-Regular}" />
+                                                </StackLayout>
+                                            </ContentView>
+                                            <ContentView Grid.Column="1">
+                                                <StackLayout Spacing="3">
+                                                    <custom:CustomLabel Text="{Binding FollowCount, Mode=OneWay}"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H4-Semibold}" />
+                                                    <custom:CustomLabel Text="takibinde"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H5-Regular}" />
+                                                </StackLayout>
+                                            </ContentView>
+                                            <ContentView Grid.Column="2">
+                                                <StackLayout Spacing="3">
+                                                    <custom:CustomLabel Text="{Binding FollowerCount, Mode=OneWay}"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H4-Semibold}" />
+                                                    <custom:CustomLabel Text="takipçi"
+                                                                        HorizontalTextAlignment="Start"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H5-Regular}" />
+                                                </StackLayout>
+                                            </ContentView>
+                                        </Grid>
+
+                                        <StackLayout Orientation="Horizontal"
+                                                     Spacing="30">
+                                            <abstractions:TintedImage Source="facebook.png"
+                                                                      TintColor="{StaticResource DividerColor}"
+                                                                      HeightRequest="14"
+                                                                      WidthRequest="14"
+                                                                      VerticalOptions="Center" />
+                                            <abstractions:TintedImage Source="twitter.png"
+                                                                      TintColor="{StaticResource DividerColor}"
+                                                                      HeightRequest="14"
+                                                                      WidthRequest="14"
+                                                                      VerticalOptions="Center" />
+                                            <abstractions:TintedImage Source="instagram.png"
+                                                                      TintColor="{StaticResource DividerColor}"
+                                                                      HeightRequest="14"
+                                                                      WidthRequest="14"
+                                                                      VerticalOptions="Center" />
+                                        </StackLayout>
+                                    </StackLayout>
+                                </ContentView>
+                            </Grid>
+                        </ContentView>
+
+                        <ContentView x:Name="SegmentsContentView"
+                                     Grid.Row="1"
+                                     BackgroundColor="{StaticResource WindowBackgroundColor}"
+                                     Padding="10,7.5"
+                                     VerticalOptions="Center"
+                                     HorizontalOptions="FillAndExpand">
+                            <custom:SegmentedControl SelectedSegment="0"
+                                                     SelectedTextColor="White"
+                                                     UnselectedTextColor="{StaticResource PrimaryTextColor}"
+                                                     TextColor="{StaticResource PrimaryTextColor}"
+                                                     TintColor="{StaticResource PrimaryColor}">
+                                <custom:SegmentedControl.Children>
+                                    <custom:SegmentedControlOption Text="entryleri" />
+                                    <custom:SegmentedControlOption Text="favorileri" />
+                                    <custom:SegmentedControlOption Text="istatistikler" />
+                                </custom:SegmentedControl.Children>
+                            </custom:SegmentedControl>
+                        </ContentView>
+
+                        <ContentView Grid.Row="2">
+                            <custom:RepeaterView ItemsSource="{Binding List}">
+                                <custom:RepeaterView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackLayout Spacing="0">
+                                            <Grid RowSpacing="10"
+                                                  Padding="15,0">
+                                                <Grid.RowDefinitions>
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                    <RowDefinition Height="Auto" />
+                                                </Grid.RowDefinitions>
+
+                                                <ContentView Grid.Row="0"
+                                                             Padding="0,15">
+                                                    <custom:CustomLabel Text="{Binding Title}"
+                                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                                        Style="{StaticResource H2-Semibold}" />
+                                                </ContentView>
+
+                                                <ContentView Grid.Row="1">
+                                                    <Grid>
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="*" />
+                                                            <ColumnDefinition Width="Auto" />
+                                                        </Grid.ColumnDefinitions>
+
+                                                        <ContentView Grid.Column="0">
+                                                            <StackLayout Spacing="0">
+                                                                <custom:CustomLabel Text="{Binding ProfileName}"
+                                                                                    TextColor="{StaticResource PrimaryColor}"
+                                                                                    Style="{StaticResource H4-Semibold}" />
+                                                                <custom:CustomLabel
+                                                                    Text="{Binding Date, StringFormat='{0:dd.MM.yyyy HH:mm}'}"
+                                                                    TextColor="{StaticResource DividerColor}"
+                                                                    Style="{StaticResource H5-Regular}" />
+                                                            </StackLayout>
+                                                        </ContentView>
+                                                        <ContentView Grid.Column="1">
+                                                            <abstractions:TintedImage Source="More.png"
+                                                                                      TintColor="{StaticResource DividerColor}"
+                                                                                      VerticalOptions="Start"
+                                                                                      WidthRequest="15" />
+                                                        </ContentView>
+                                                    </Grid>
+                                                </ContentView>
+
+                                                <ContentView Grid.Row="2">
+                                                    <custom:HtmlLabel
+                                                        Text="{Binding Entry}"
+                                                        TextColor="{StaticResource PrimaryTextColor}"
+                                                        FontSize="17"
+                                                        FontName="SourceSansPro-R.ttf" />
+                                                </ContentView>
+
+                                                <ContentView Grid.Row="3"
+                                                             Margin="0,20,0,0">
+                                                    <Grid>
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="*" />
+                                                            <ColumnDefinition Width="Auto" />
+                                                        </Grid.ColumnDefinitions>
+
+                                                        <ContentView Grid.Column="0"
+                                                                     VerticalOptions="Center">
+                                                            <StackLayout Orientation="Horizontal"
+                                                                         Spacing="10">
+                                                                <abstractions:TintedImage Source="Headline.png"
+                                                                                          TintColor="{StaticResource DividerColor}"
+                                                                                          HeightRequest="14"
+                                                                                          WidthRequest="14"
+                                                                                          VerticalOptions="Center" />
+                                                                <custom:CustomLabel
+                                                                    Text="{Binding FavoriteCount, StringFormat='{0} favori'}"
+                                                                    TextColor="{StaticResource DividerColor}"
+                                                                    VerticalOptions="Center"
+                                                                    IsVisible="{Binding FavoriteVisible}"
+                                                                    Style="{StaticResource H4-Regular}" />
+                                                            </StackLayout>
+                                                        </ContentView>
+                                                        <ContentView Grid.Column="1"
+                                                                     VerticalOptions="Center">
+                                                            <abstractions:TintedImage Source="Share.png"
+                                                                                      TintColor="{StaticResource DividerColor}"
+                                                                                      WidthRequest="15" />
+                                                        </ContentView>
+                                                    </Grid>
+                                                </ContentView>
+                                            </Grid>
+
+                                            <Grid Style="{StaticResource SeparatorGrid}"
+                                                  Margin="0,15,0,0"/>
+                                        </StackLayout>
+                                    </DataTemplate>
+                                </custom:RepeaterView.ItemTemplate>
+                            </custom:RepeaterView>
+                        </ContentView>
+                    </Grid>
+                </ScrollView>
+
+            </ContentView>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

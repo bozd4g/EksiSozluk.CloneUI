@@ -83,7 +83,8 @@
                             <DataTemplate>
                                 <StackLayout Spacing="0">
                                     <ContentView BackgroundColor="{StaticResource WindowBackgroundColor}"
-                                                 Padding="20,7.5"
+                                                 Padding="15,7.5"
+                                                 VerticalOptions="Center"
                                                  HorizontalOptions="FillAndExpand"
                                                  IsVisible="{Binding IsFollowSide}">
                                         <custom:SegmentedControl SelectedSegment="0"
