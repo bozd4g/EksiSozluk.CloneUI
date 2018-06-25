@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
+using EksiSozluk.CloneUI.iOS.Helper;
 using EksiSozluk.CloneUI.iOS.Renderers;
 using UIKit;
 using Xamarin.Forms;
@@ -52,7 +53,7 @@ namespace EksiSozluk.CloneUI.iOS.Renderers
             {
                 try
                 {
-                    var font = UIFont.FromName(view.FontFamily, (float)view.FontSize);
+                    var font = UIFont.FromName(FontHelper.GetFontName(view.FontFamily), (float)view.FontSize);
                     if (font != null)
                         this.Control.Font = font;
                 }

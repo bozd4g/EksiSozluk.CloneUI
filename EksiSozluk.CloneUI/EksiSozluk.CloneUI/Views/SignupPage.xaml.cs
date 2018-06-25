@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using System.Threading.Tasks;
+using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace EksiSozluk.CloneUI.Views
@@ -10,7 +11,13 @@ namespace EksiSozluk.CloneUI.Views
 		{
 			InitializeComponent ();
 
-		    PasswordInformationLabel.Text = "şifreniz en az " +
+		    if (Device.RuntimePlatform == "Android")
+		        FacebookButton.ContentLayout = new Button.ButtonContentLayout(Button.ButtonContentLayout.ImagePosition.Left, 30);
+
+		    else if (Device.RuntimePlatform == "iOS")
+		        NavigationPage.SetTitleIcon(this, "NavigationBrand.png");
+
+            PasswordInformationLabel.Text = "şifreniz en az " +
 		                                    "<b>sekiz karakterli</b> " +
 		                                    "olmalı ve içinde " +
 		                                    "<b>büyük harf, küçük harf</b> " +
@@ -21,13 +28,20 @@ namespace EksiSozluk.CloneUI.Views
 		                          "'ni okudum<br>ve kabul ediyorum.";
 		}
 
-	    private void BirthDayDatePicker_OnFocused(object sender, FocusEventArgs e)
+	    private async void BirthDayDatePicker_OnFocused(object sender, FocusEventArgs e)
 	    {
 	        BirthDayEntry.Text = string.Empty;
-	        BirthdayDatePicker.Focus();
-	        BirthdayDatePicker.IsVisible = true;
 
+	        BirthdayDatePicker.IsVisible = true;
+            BirthdayDatePicker.Focus();
+	        
 	        BirthDayEntry.IsVisible = false;
-	    }
+
+	        if (Device.RuntimePlatform == "iOS")
+	        {
+	            await Task.Delay(250);
+	            BirthdayDatePicker.Focus();
+            }
+        }
 	}
 }

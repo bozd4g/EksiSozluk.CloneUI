@@ -295,8 +295,14 @@
                         Value="fonts/SourceSansPro-R.ttf" />
                 <Setter Property="FontSize"
                         Value="14" />
-                <Setter Property="Margin"
-                        Value="-2,0,0,0" />
+                <Setter Property="Margin">
+                    <Setter.Value>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="Android"
+                                Value="-2,0,0,0"/>
+                        </OnPlatform>
+                    </Setter.Value>
+                </Setter>
             </Style>
 
             <!--#endregion-->

@@ -14,13 +14,31 @@
     </ContentPage.BindingContext>
 
     <ContentPage.Content>
-        <ScrollView>
-            <Grid>
+        <Grid>
+            <ScrollView>
                 <StackLayout Margin="0,30,0,10">
-                    <custom:RoundedButton Text="facebook ile bağlan"
-                                          ContentLayout="Left, 30"
-                                          HorizontalOptions="CenterAndExpand"
-                                          Style="{StaticResource FacebookButton}" />
+                    <Grid ColumnSpacing="0">
+                        <Grid.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="0,30,0,0" />
+                                <On Platform="iOS"
+                                    Value="0,10,0,0" />
+                            </OnPlatform>
+                        </Grid.Margin>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width=".5*" />
+                            <ColumnDefinition Width="2*" />
+                            <ColumnDefinition Width=".5*" />
+                        </Grid.ColumnDefinitions>
+
+                        <ContentView Grid.Column="1">
+                            <custom:RoundedButton x:Name="FacebookButton"
+                                                  Text="facebook ile bağlan"
+                                                  HorizontalOptions="FillAndExpand"
+                                                  Style="{StaticResource FacebookButton}" />
+                        </ContentView>
+                    </Grid>
 
                     <custom:CustomLabel Text="ya da"
                                         TextColor="{StaticResource PrimaryTextColor}"
@@ -31,16 +49,41 @@
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <custom:CustomEntry x:Name="NickEntry"
                                         Placeholder="nick"
-                                        Margin="5,0"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
+
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <custom:CustomEntry x:Name="EmailEntry"
                                         Placeholder="email"
                                         Keyboard="Email"
-                                        Margin="5,0"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
                     <Grid Style="{StaticResource SeparatorGrid}" />
-                    <Grid Margin="5,0">
+                    <Grid>
+                        <Grid.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="8" />
+                            </OnPlatform>
+                        </Grid.Margin>
                         <custom:CustomEntry x:Name="BirthDayEntry"
                                             Placeholder="doğum tarihi"
                                             Keyboard="Email"
@@ -84,21 +127,37 @@
                     <custom:CustomEntry x:Name="PasswordEntry"
                                         Placeholder="şifre"
                                         IsPassword="True"
-                                        Margin="5,0"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <ContentView Padding="15,2.5">
                         <custom:HtmlLabel x:Name="PasswordInformationLabel"
-                                             FontSize="13"
-                                             FontFamily="fonts/SourceSansPro-R.ttf"
-                                             TextColor="{StaticResource DividerColor}" />
+                                          FontSize="13"
+                                          FontFamily="fonts/SourceSansPro-R.ttf"
+                                          TextColor="{StaticResource DividerColor}" />
                     </ContentView>
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <custom:CustomEntry x:Name="PasswordAgainEntry"
                                         Placeholder="şifre (tekrar)"
                                         IsPassword="True"
-                                        Margin="5,0"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <Grid Padding="15,5"
                           ColumnSpacing="10">
@@ -112,7 +171,7 @@
                                 <Grid.GestureRecognizers>
                                     <TapGestureRecognizer
                                         Command="{Binding Path=BindingContext.CheckCommand,
-                                        Source={x:Reference PasswordAgainEntry}}"/>
+                                        Source={x:Reference PasswordAgainEntry}}" />
                                 </Grid.GestureRecognizers>
                                 <abstractions:TintedImage Source="Unchecked.png"
                                                           HeightRequest="25"
@@ -129,14 +188,21 @@
                         </ContentView>
                         <ContentView Grid.Column="1">
                             <custom:HtmlLabel x:Name="AgreementLabel"
-                                                 FontSize="13"
-                                                 FontFamily="fonts/SourceSansPro-R.ttf"
-                                                 TextColor="{StaticResource DividerColor}" />
+                                              FontSize="13"
+                                              FontFamily="fonts/SourceSansPro-R.ttf"
+                                              TextColor="{StaticResource DividerColor}" />
                         </ContentView>
                     </Grid>
 
-                    <Grid ColumnSpacing="0"
-                          Margin="0,10,0,10">
+                    <Grid ColumnSpacing="0">
+                        <Grid.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="0,10,0,10" />
+                                <On Platform="iOS"
+                                    Value="0,10,0,25" />
+                            </OnPlatform>
+                        </Grid.Margin>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
                             <ColumnDefinition Width="2.5*" />
@@ -150,28 +216,27 @@
                         </ContentView>
                     </Grid>
                 </StackLayout>
-
-                <ContentView Padding="0,12.5"
-                             VerticalOptions="End"
-                             BackgroundColor="{StaticResource WindowBackgroundColor}">
-                    <StackLayout Orientation="Horizontal"
-                                 HorizontalOptions="CenterAndExpand">
-                        <StackLayout.GestureRecognizers>
-                            <TapGestureRecognizer
-                                Command="{Binding Path=BindingContext.LoginCommand,
+            </ScrollView>
+            <ContentView Padding="0,12.5"
+                         VerticalOptions="End"
+                         BackgroundColor="{StaticResource WindowBackgroundColor}">
+                <StackLayout Orientation="Horizontal"
+                             HorizontalOptions="CenterAndExpand">
+                    <StackLayout.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Command="{Binding Path=BindingContext.LoginCommand,
                             Source={x:Reference SignupContentPage}}" />
-                        </StackLayout.GestureRecognizers>
-                        <custom:CustomLabel Text="hesabın mı var?"
-                                            TextColor="{StaticResource DividerColor}"
-                                            VerticalOptions="Center"
-                                            Style="{StaticResource H4-Regular}" />
-                        <custom:CustomLabel Text="giriş yap"
-                                            TextColor="{StaticResource PrimaryDarkColor}"
-                                            VerticalOptions="Center"
-                                            Style="{StaticResource H4-Regular}" />
-                    </StackLayout>
-                </ContentView>
-            </Grid>
-        </ScrollView>
+                    </StackLayout.GestureRecognizers>
+                    <custom:CustomLabel Text="hesabın mı var?"
+                                        TextColor="{StaticResource DividerColor}"
+                                        VerticalOptions="Center"
+                                        Style="{StaticResource H4-Regular}" />
+                    <custom:CustomLabel Text="giriş yap"
+                                        TextColor="{StaticResource PrimaryDarkColor}"
+                                        VerticalOptions="Center"
+                                        Style="{StaticResource H4-Regular}" />
+                </StackLayout>
+            </ContentView>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

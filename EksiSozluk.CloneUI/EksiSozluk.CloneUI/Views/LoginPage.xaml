@@ -31,9 +31,9 @@
                         </Grid.ColumnDefinitions>
 
                         <ContentView Grid.Column="1">
-                            <custom:RoundedButton Text="facebook ile bağlan"
-                                                  ContentLayout="Left, 30"
-                                                  HorizontalOptions="CenterAndExpand"
+                            <custom:RoundedButton x:Name="FacebookButton"
+                                                  Text="facebook ile bağlan"
+                                                  HorizontalOptions="FillAndExpand"
                                                   Style="{StaticResource FacebookButton}" />
                         </ContentView>
                     </Grid>
@@ -47,16 +47,39 @@
                     <Grid Style="{StaticResource SeparatorGrid}" />
                     <custom:CustomEntry x:Name="EmailEntry"
                                         Placeholder="email / kullanıcı adı"
-                                        Margin="5,0"
                                         Keyboard="Email"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
 
-                    <Grid Style="{StaticResource SeparatorGrid}" />
+                    <Grid Style="{StaticResource SeparatorGrid}">
+                        <Grid.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="iOS"
+                                    Value="0,2.5" />
+                            </OnPlatform>
+                        </Grid.Margin>
+                    </Grid>
                     <custom:CustomEntry x:Name="PasswordEntry"
                                         Placeholder="şifreniz"
-                                        Margin="5,0"
                                         IsPassword="True"
-                                        Style="{StaticResource DefaultEntry}" />
+                                        Style="{StaticResource DefaultEntry}">
+                        <custom:CustomEntry.Margin>
+                            <OnPlatform x:TypeArguments="Thickness">
+                                <On Platform="Android"
+                                    Value="5,0" />
+                                <On Platform="iOS"
+                                    Value="10" />
+                            </OnPlatform>
+                        </custom:CustomEntry.Margin>
+                    </custom:CustomEntry>
                     <Grid Style="{StaticResource SeparatorGrid}" />
 
                     <Grid Margin="5,0">

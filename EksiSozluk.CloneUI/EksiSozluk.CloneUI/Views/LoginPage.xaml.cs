@@ -9,6 +9,12 @@ namespace EksiSozluk.CloneUI.Views
 		public LoginPage ()
 		{
 			InitializeComponent ();
+
+            if(Device.RuntimePlatform == "Android")
+                FacebookButton.ContentLayout = new Button.ButtonContentLayout(Button.ButtonContentLayout.ImagePosition.Left, 30);
+
+            else if(Device.RuntimePlatform == "iOS")
+                NavigationPage.SetTitleIcon(this, "NavigationBrand.png");
 		}
 	}
 }

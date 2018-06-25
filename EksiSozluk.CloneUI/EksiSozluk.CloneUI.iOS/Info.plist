@@ -34,5 +34,12 @@
 	<string>EksiSozluk.CloneUI</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+  <key>UIAppFonts</key>
+  <array>
+    <string>Fonts/SourceSansPro-B.ttf</string>
+    <string>Fonts/SourceSansPro-L.ttf</string>
+    <string>Fonts/SourceSansPro-R.ttf</string>
+    <string>Fonts/SourceSansPro-SB.ttf</string>
+  </array>
 </dict>
 </plist>
