@@ -5,6 +5,11 @@ This repository is Eksi Sozluk's cloned interface is one of the largest dictiona
 [![Build Status](https://travis-ci.org/bozd4g/EksiSozluk.CloneUI.svg?branch=master)](https://travis-ci.org/bozd4g/EksiSozluk.CloneUI)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://bozd4g.mit-license.org/)
 
+## Clone & Download
+``` 
+git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk
+```
+
 ## Demo
 
 ### 1. Login
@@ -23,10 +28,6 @@ This repository is Eksi Sozluk's cloned interface is one of the largest dictiona
 ### 7. Profile
 ![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/8.png)
 
-## Clone & Download
-``` 
-git clone https://github.com/bozd4g/EksiSozluk.CloneUI.git EksiSozluk
-```
 
 The MIT License (MIT)
 =====================
