@@ -23,8 +23,22 @@
 
             <ContentView Grid.Row="0">
                 <StackLayout Spacing="0">
-                    <ContentView HeightRequest="45">
-                        <Grid>
+                    <ContentView>
+                        <ContentView.HeightRequest>
+                            <OnPlatform x:TypeArguments="x:Double">
+                                <On Platform="Android"
+                                    Value="45" />
+                                <On Platform="iOS"
+                                    Value="60" />
+                            </OnPlatform>
+                        </ContentView.HeightRequest>
+                        <Grid VerticalOptions="CenterAndExpand">
+                            <Grid.Margin>
+                                <OnPlatform x:TypeArguments="Thickness">
+                                    <On Platform="iOS"
+                                        Value="0,15,0,0" />
+                                </OnPlatform>
+                            </Grid.Margin>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="*" />
                                 <ColumnDefinition Width="Auto" />
@@ -40,7 +54,7 @@
                                           VerticalOptions="Center">
                                         <custom:CircleView HeightRequest="35"
                                                            WidthRequest="35"
-                                                           CornerRadius="50"
+                                                           CornerRadius="15"
                                                            VerticalOptions="Center"
                                                            HorizontalOptions="Center"
                                                            BackgroundColor="{StaticResource WindowBackgroundColor}" />
@@ -112,7 +126,7 @@
                                     <Grid VerticalOptions="Start">
                                         <custom:CircleView HeightRequest="75"
                                                            WidthRequest="75"
-                                                           CornerRadius="50"
+                                                           CornerRadius="35"
                                                            VerticalOptions="Center"
                                                            HorizontalOptions="Center"
                                                            BackgroundColor="{StaticResource WindowBackgroundColor}" />
@@ -324,7 +338,7 @@
                                             </Grid>
 
                                             <Grid Style="{StaticResource SeparatorGrid}"
-                                                  Margin="0,15,0,0"/>
+                                                  Margin="0,15,0,0" />
                                         </StackLayout>
                                     </DataTemplate>
                                 </custom:RepeaterView.ItemTemplate>

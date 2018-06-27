@@ -23,14 +23,23 @@
     <ContentPage.Content>
         <Grid RowSpacing="0">
             <Grid.RowDefinitions>
-                <RowDefinition Height="45" />
+                <RowDefinition>
+                    <RowDefinition.Height>
+                        <OnPlatform x:TypeArguments="GridLength">
+                            <On Platform="Android"
+                                Value="45" />
+                            <On Platform="iOS"
+                                Value="60" />
+                        </OnPlatform>
+                    </RowDefinition.Height>
+                </RowDefinition>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
             <ContentView Grid.Row="0">
                 <custom:HorizontalScrollView x:Name="HorizontalScrollView"
-                                             ItemsSource="{Binding Menu}"
+                                             ItemsSource="{Binding Menu, Mode=OneWay}"
                                              Orientation="Horizontal"
                                              HeightRequest="45"
                                              BackgroundColor="White"
@@ -40,6 +49,12 @@
                         <DataTemplate>
                             <ViewCell x:Name="MenuViewCell">
                                 <Grid Padding="8,0">
+                                    <Grid.Margin>
+                                        <OnPlatform x:TypeArguments="Thickness">
+                                            <On Platform="iOS"
+                                                Value="0,15,0,0"/>
+                                        </OnPlatform>
+                                    </Grid.Margin>
                                     <custom:CustomLabel Text="{Binding Name}"
                                                         TextColor="{StaticResource SecondaryTextColor}"
                                                         VerticalOptions="CenterAndExpand"

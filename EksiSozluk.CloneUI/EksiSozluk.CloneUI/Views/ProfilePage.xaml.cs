@@ -13,6 +13,9 @@ namespace EksiSozluk.CloneUI.Views
 
 	    private async void ProfileScrollView_OnScrolled(object sender, ScrolledEventArgs e)
 	    {
+            if(Device.RuntimePlatform == "iOS")
+                return;
+
 	        if (e.ScrollY > SegmentsContentView.Y && !StickySegmentsContentView.IsVisible)
 	        {
 	            StickySegmentsContentView.IsVisible = true;

@@ -16,8 +16,7 @@ namespace EksiSozluk.CloneUI.iOS.Renderers
                 return;
 
             Layer.MasksToBounds = true;
-            Layer.CornerRadius = (float)((CircleView)Element).CornerRadius / 2.0f;
+            Layer.CornerRadius = (float)((CircleView)Element).CornerRadius;
         }
-
     }
 }

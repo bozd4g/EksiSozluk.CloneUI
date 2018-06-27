@@ -16,12 +16,28 @@
     <ContentPage.Content>
         <Grid RowSpacing="0">
             <Grid.RowDefinitions>
-                <RowDefinition Height="45" />
+                <RowDefinition>
+                    <RowDefinition.Height>
+                        <OnPlatform x:TypeArguments="GridLength">
+                            <On Platform="Android"
+                                Value="45" />
+                            <On Platform="iOS"
+                                Value="60" />
+                        </OnPlatform>
+                    </RowDefinition.Height>
+                </RowDefinition>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <ContentView Grid.Row="0">
+            <ContentView Grid.Row="0"
+                         VerticalOptions="CenterAndExpand">
+                <ContentView.Margin>
+                    <OnPlatform x:TypeArguments="Thickness">
+                        <On Platform="iOS"
+                            Value="0,15,0,0"/>
+                    </OnPlatform>
+                </ContentView.Margin>
                 <custom:CustomLabel Text="takip ettiğim başlıklar"
                                     TextColor="{StaticResource PrimaryTextColor}"
                                     HorizontalOptions="Center"
@@ -61,7 +77,7 @@
                                             <Grid Padding="10,0">
                                                 <custom:CircleView HeightRequest="22.5"
                                                                    WidthRequest="22.5"
-                                                                   CornerRadius="20"
+                                                                   CornerRadius="12.5"
                                                                    BackgroundColor="{StaticResource PrimaryColor}"
                                                                    VerticalOptions="Center"/>
                                                 <custom:CustomLabel Text="{Binding NotifyCount}"

@@ -101,11 +101,14 @@
     <Compile Include="Renderers\CustomDatePickerRenderer.cs" />
     <Compile Include="Renderers\CustomEntryRenderer.cs" />
     <Compile Include="Renderers\CustomLabelRenderer.cs" />
+    <Compile Include="Renderers\CustomPickerRenderer.cs" />
     <Compile Include="Renderers\FrameRenderer.cs" />
+    <Compile Include="Renderers\HorizontalScrollViewRenderer.cs" />
     <Compile Include="Renderers\HtmlLabelRenderer.cs" />
     <Compile Include="Renderers\NavigationPageRenderer.cs" />
     <Compile Include="Renderers\RoundedButtonRenderer.cs" />
     <Compile Include="Renderers\SegmentedControlRenderer.cs" />
+    <Compile Include="Renderers\TabbedPageRenderer.cs" />
     <None Include="app.config" />
     <None Include="Entitlements.plist" />
     <None Include="Info.plist">
@@ -233,5 +236,77 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Checked%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Headline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Headline%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Headline%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\instagram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\instagram%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\instagram%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Search%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Search%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\twitter%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\twitter%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\User%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\User%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Notification.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Notification%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Notification%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Message%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Message%403x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Share.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Share%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Share%403x.png" />
   </ItemGroup>
 </Project>

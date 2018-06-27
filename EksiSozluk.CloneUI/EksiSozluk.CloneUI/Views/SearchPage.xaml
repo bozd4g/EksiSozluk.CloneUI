@@ -17,14 +17,29 @@
     <ContentPage.Content>
         <Grid RowSpacing="0">
             <Grid.RowDefinitions>
-                <RowDefinition Height="45" />
+                <RowDefinition>
+                    <RowDefinition.Height>
+                        <OnPlatform x:TypeArguments="GridLength">
+                            <On Platform="Android"
+                                Value="45" />
+                            <On Platform="iOS"
+                                Value="60" />
+                        </OnPlatform>
+                    </RowDefinition.Height>
+                </RowDefinition>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
             <ContentView Grid.Row="0">
-                <Grid>
+                <Grid VerticalOptions="CenterAndExpand">
+                    <Grid.Margin>
+                        <OnPlatform x:TypeArguments="Thickness">
+                            <On Platform="iOS"
+                                Value="0,15,0,0"/>
+                        </OnPlatform>
+                    </Grid.Margin>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto" />
                         <ColumnDefinition Width="*" />

@@ -106,6 +106,8 @@
                         Value="25" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <Style x:Key="H2-Semibold"
                    TargetType="custom:CustomLabel">
@@ -113,6 +115,8 @@
                         Value="17" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <Style x:Key="H3-Semibold"
                    TargetType="custom:CustomLabel">
@@ -120,6 +124,8 @@
                         Value="15" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <Style x:Key="H4-Semibold"
                    TargetType="custom:CustomLabel">
@@ -127,6 +133,8 @@
                         Value="14" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <Style x:Key="H5-Semibold"
                    TargetType="custom:CustomLabel">
@@ -134,6 +142,8 @@
                         Value="12" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <Style x:Key="H6-Semibold"
                    TargetType="custom:CustomLabel">
@@ -141,6 +151,8 @@
                         Value="10" />
                 <Setter Property="FontName"
                         Value="SourceSansPro-SB.ttf" />
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
             </Style>
             <!--#endregion-->
 

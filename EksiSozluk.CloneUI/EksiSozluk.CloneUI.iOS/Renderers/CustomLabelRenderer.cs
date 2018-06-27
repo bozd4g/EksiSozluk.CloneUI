@@ -80,7 +80,7 @@ namespace EksiSozluk.CloneUI.iOS.Renderers
             {
                 try
                 {
-                    var font = UIFont.FromName(FontHelper.GetFontName(view?.FontFamily), (float)view?.FontSize);
+                    var font = UIFont.FromName(FontHelper.GetFontName(view?.FontName), (float)view?.FontSize);
                     if (font != null)
                         this.Control.Font = font;
                 }
