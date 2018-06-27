@@ -7,13 +7,21 @@ This repository is Eksi Sozluk's cloned interface is one of the largest dictiona
 
 ## Demo
 
-1. Login
-2. Signup
-3. Headlines
-4. Search
-5. Messages
-6. Notifications
-7. Profile
+### 1. Login
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/1.png)
+### 2. Signup
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/2.png)
+### 3. Headlines
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/3.png)
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/4.png)
+### 4. Search
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/5.png)
+### 5. Messages
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/6.png)
+### 6. Notifications
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/7.png)
+### 7. Profile
+![alt text](https://github.com/bozd4g/EksiSozluk.CloneUI/blob/master/images/8.png)
 
 ## Clone & Download
 ``` 
